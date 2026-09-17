@@ -1,0 +1,4 @@
+# This bundle is a byte-exact deliverable: dist/ is verified to reproduce
+# from source byte-for-byte. Disable ALL end-of-line conversion so a clone
+# on any platform gets the same bytes the gate and the manifest measured.
+* -text

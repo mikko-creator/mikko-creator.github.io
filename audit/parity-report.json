@@ -1,0 +1,5677 @@
+{
+  "schema": "site-reforge/parity-report@1",
+  "generated": "2026-09-17T00:29:56.980Z",
+  "sourcePages": 172,
+  "rebuiltFiles": 151,
+  "mappedPages": 151,
+  "missingPages": [
+    "https://seoguarantee.com/activity",
+    "https://seoguarantee.com/audit",
+    "https://seoguarantee.com/author/alvin",
+    "https://seoguarantee.com/author/mattsb",
+    "https://seoguarantee.com/booking",
+    "https://seoguarantee.com/cart",
+    "https://seoguarantee.com/checkout",
+    "https://seoguarantee.com/church-marketing",
+    "https://seoguarantee.com/client-portal",
+    "https://seoguarantee.com/client-portal?action=forgot_password",
+    "https://seoguarantee.com/client-portal?action=register",
+    "https://seoguarantee.com/cpm",
+    "https://seoguarantee.com/e-signature-document",
+    "https://seoguarantee.com/erp-subscription",
+    "https://seoguarantee.com/invoice",
+    "https://seoguarantee.com/members",
+    "https://seoguarantee.com/pm",
+    "https://seoguarantee.com/projects",
+    "https://seoguarantee.com/rep",
+    "https://seoguarantee.com/test-editor",
+    "https://seoguarantee.com/test-page"
+  ],
+  "extraFiles": [
+    "404.html"
+  ],
+  "recallFloor": 0.95,
+  "contentRunFloor": 12,
+  "meanRecall": 0.9515,
+  "counts": {
+    "major": 188,
+    "minor": 175,
+    "blocker": 33
+  },
+  "verdict": "DRIFT",
+  "rows": [
+    {
+      "url": "https://seoguarantee.com/",
+      "file": "index.html",
+      "pageType": "home",
+      "status": "DIFFERS",
+      "recall": 0.9833,
+      "missingWords": 13,
+      "longestMissingRun": 2,
+      "sourceWords": 771,
+      "rebuiltWords": 4355,
+      "sourceH1": [
+        "We Only Charge For Our SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Our SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "7 image(s) without alt",
+          "detail": "index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/13-seo-chrome-extensions-that-are-free",
+      "file": "13-seo-chrome-extensions-that-are-free/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9832,
+      "missingWords": 19,
+      "longestMissingRun": 3,
+      "sourceWords": 1131,
+      "rebuiltWords": 5007,
+      "sourceH1": [
+        "13 SEO Chrome Extensions That Are Free"
+      ],
+      "rebuiltH1": [
+        "13 SEO Chrome Extensions That Are Free"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 70,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "2 source H2 section(s) absent",
+          "detail": "post navigation | first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "13-seo-chrome-extensions-that-are-free/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/5-important-seo-tips-and-tricks",
+      "file": "5-important-seo-tips-and-tricks/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9748,
+      "missingWords": 18,
+      "longestMissingRun": 4,
+      "sourceWords": 719,
+      "rebuiltWords": 4617,
+      "sourceH1": [
+        "5 Important SEO Tips and Tricks"
+      ],
+      "rebuiltH1": [
+        "5 Important SEO Tips and Tricks"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "2 source H2 section(s) absent",
+          "detail": "post navigation | first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "5-important-seo-tips-and-tricks/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/9-seo-strategies-effective-in-2020",
+      "file": "9-seo-strategies-effective-in-2020/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9854,
+      "missingWords": 12,
+      "longestMissingRun": 1,
+      "sourceWords": 818,
+      "rebuiltWords": 4715,
+      "sourceH1": [
+        "9 SEO Strategies Effective In 2020"
+      ],
+      "rebuiltH1": [
+        "9 SEO Strategies Effective In 2020"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 70,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "2 source H2 section(s) absent",
+          "detail": "post navigation | first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "9-seo-strategies-effective-in-2020/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/?page_id=279",
+      "file": "index.html",
+      "pageType": "home",
+      "status": "DIFFERS",
+      "recall": 0.6,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 11,
+      "rebuiltWords": 4355,
+      "sourceH1": [
+        "Shop"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Our SEO GUARANTEE"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "title-changed",
+          "title": "Title changed",
+          "detail": "\"Shop - First Page SEO Guarantee | The Best Las Vegas SEO Company\" -> \"SEO Company | First Page SEO Guarantee | Digital Marketing Agency\""
+        },
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Shop\" -> \"We Only Charge For Our SEO GUARANTEE\""
+        },
+        {
+          "severity": "blocker",
+          "code": "content-loss",
+          "title": "Body content recall 60.0% (floor 95%)",
+          "detail": "missing words: shop products matching selection"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "7 image(s) without alt",
+          "detail": "index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/activity",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at activity.html | activity.htm | activity/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/activity"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/audit",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at audit.html | audit.htm | audit/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/audit"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/author/alvin",
+      "pageType": "article",
+      "status": "MISSING",
+      "detail": "no rebuilt file at author/alvin.html | author/alvin.htm | author/alvin/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/author/alvin"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/author/mattsb",
+      "pageType": "article",
+      "status": "MISSING",
+      "detail": "no rebuilt file at author/mattsb.html | author/mattsb.htm | author/mattsb/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/author/mattsb"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/authority-and-search-rankings",
+      "file": "authority-and-search-rankings/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9842,
+      "missingWords": 14,
+      "longestMissingRun": 3,
+      "sourceWords": 893,
+      "rebuiltWords": 4784,
+      "sourceH1": [
+        "Authority and Search Rankings"
+      ],
+      "rebuiltH1": [
+        "Authority and Search Rankings"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "2 source H2 section(s) absent",
+          "detail": "post navigation | first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "authority-and-search-rankings/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/beginner-seo-tips-and-tricks",
+      "file": "beginner-seo-tips-and-tricks/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9775,
+      "missingWords": 18,
+      "longestMissingRun": 4,
+      "sourceWords": 812,
+      "rebuiltWords": 4696,
+      "sourceH1": [
+        "Beginner SEO Tips and Tricks"
+      ],
+      "rebuiltH1": [
+        "Beginner SEO Tips and Tricks"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 71,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "2 source H2 section(s) absent",
+          "detail": "post navigation | first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "beginner-seo-tips-and-tricks/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/booking",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at booking.html | booking.htm | booking/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/booking"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/cart",
+      "pageType": "commerce",
+      "status": "MISSING",
+      "detail": "no rebuilt file at cart.html | cart.htm | cart/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/cart"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/category/las-vegas-seo-company",
+      "file": "category/las-vegas-seo-company/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9946,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 722,
+      "rebuiltWords": 4552,
+      "sourceH1": [
+        "Category: Las Vegas SEO Company"
+      ],
+      "rebuiltH1": [
+        "Las Vegas SEO Company Archives"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 76,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Category: Las Vegas SEO Company\" -> \"Las Vegas SEO Company Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "category/las-vegas-seo-company/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/checkout",
+      "pageType": "commerce",
+      "status": "MISSING",
+      "detail": "no rebuilt file at checkout.html | checkout.htm | checkout/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/checkout"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/church-marketing",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at church-marketing.html | church-marketing.htm | church-marketing/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/church-marketing"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/client-portal",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at client-portal.html | client-portal.htm | client-portal/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/client-portal"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/client-portal?action=forgot_password",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at client-portal.html | client-portal.htm | client-portal/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/client-portal?action=forgot_password"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/client-portal?action=register",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at client-portal.html | client-portal.htm | client-portal/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/client-portal?action=register"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/contact-us",
+      "file": "contact-us/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.675,
+      "missingWords": 13,
+      "longestMissingRun": 4,
+      "sourceWords": 39,
+      "rebuiltWords": 316,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Contact Us"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 65,
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "content-loss",
+          "title": "Body content recall 67.5% (floor 95%)",
+          "detail": "missing words: best way my time book an appointment let's click get started to"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "contact-us/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/cpm",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at cpm.html | cpm.htm | cpm/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/cpm"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/cro-page",
+      "file": "cro-page/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 95,
+      "rebuiltWords": 3835,
+      "sourceH1": [
+        "CRO Las Vegas Convention Rate Optimization"
+      ],
+      "rebuiltH1": [
+        "CRO Las Vegas Convention Rate Optimization"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "cro-page/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/ddm-magazine-forward",
+      "file": "ddm-magazine-forward/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9206,
+      "missingWords": 45,
+      "longestMissingRun": 14,
+      "sourceWords": 565,
+      "rebuiltWords": 870,
+      "sourceH1": [
+        "Garage Door Springs | Garage Door Repair | DDM Garage Doors"
+      ],
+      "rebuiltH1": [
+        "Garage Door Springs | Garage Door Repair | DDM Garage Doors"
+      ],
+      "sourceLinks": 3,
+      "rebuiltLinks": 70,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 92.1% (floor 95%)",
+          "detail": "missing words: 9743 0 dock leveler diy parts instructions garage door by erich musick inc 1092 carolina dr unit 5 west il 60185 800 383 9548 or"
+        },
+        {
+          "severity": "major",
+          "code": "content-block-missing",
+          "title": "14 consecutive source words absent from the rebuild (limit 12)",
+          "detail": "\"800 383 9548 or 630 293 1337 fax 630 293 1526 copyright 1999 2024\""
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "ddm-magazine-forward/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/default-page",
+      "file": "default-page/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 136,
+      "rebuiltWords": 3891,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Default Page"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "default-page/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/e-signature-document",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at e-signature-document.html | e-signature-document.htm | e-signature-document/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/e-signature-document"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/earn-residual-income",
+      "file": "earn-residual-income/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 3,
+      "rebuiltWords": 3723,
+      "sourceH1": [
+        "Earn Residual Income"
+      ],
+      "rebuiltH1": [
+        "Earn Residual Income"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "earn-residual-income/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/erp-subscription",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at erp-subscription.html | erp-subscription.htm | erp-subscription/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/erp-subscription"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/funeral-home-marketing",
+      "file": "funeral-home-marketing/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 3,
+      "rebuiltWords": 3723,
+      "sourceH1": [
+        "Funeral Home Marketing"
+      ],
+      "rebuiltH1": [
+        "Funeral Home Marketing"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "funeral-home-marketing/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/independent-contractor-agreement",
+      "file": "independent-contractor-agreement/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 5,
+      "rebuiltWords": 3725,
+      "sourceH1": [
+        "Independent Contractor Agreement"
+      ],
+      "rebuiltH1": [
+        "Independent Contractor Agreement"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "independent-contractor-agreement/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/industries",
+      "file": "industries/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1,
+      "rebuiltWords": 138,
+      "sourceH1": [
+        "Industries"
+      ],
+      "rebuiltH1": [
+        "Industries We Serve"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 70,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "title-changed",
+          "title": "Title changed",
+          "detail": "\"Industries - First Page SEO Guarantee | The Best Las Vegas SEO Company\" -> \"Industries We Serve | First Page SEO Guarantee\""
+        },
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Industries\" -> \"Industries We Serve\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "industries/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/industries/air-conditioning-and-hvac",
+      "file": "industries/air-conditioning-and-hvac/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9538,
+      "missingWords": 31,
+      "longestMissingRun": 6,
+      "sourceWords": 651,
+      "rebuiltWords": 4569,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Air Conditioning and HVAC"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "8 source H2 section(s) absent",
+          "detail": "if you ain't first, you're last | our seo service comes with guaranteed results | we've done it for them | we'll do it for you | click \"apply now to see if you qualify for our guaranteed results | meet our seo experts | some of our clients | first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "industries/air-conditioning-and-hvac/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/industries/contracting-companies",
+      "file": "industries/contracting-companies/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9399,
+      "missingWords": 59,
+      "longestMissingRun": 5,
+      "sourceWords": 955,
+      "rebuiltWords": 4591,
+      "sourceH1": [
+        "We Only Charge For Our SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Our SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.0% (floor 95%)",
+          "detail": "missing words: seoguarantee com works why ain't constructions hewitt 500 340 paint pros painting residential commercial jobs exceed 800 300 increase ozzysgoldeninc located organic current https cjhewitt"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "industries/contracting-companies/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/industries/dental",
+      "file": "industries/dental/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.8951,
+      "missingWords": 108,
+      "longestMissingRun": 5,
+      "sourceWords": 1007,
+      "rebuiltWords": 4512,
+      "sourceH1": [
+        "We Only Charge For Our SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Our SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 89.5% (floor 95%)",
+          "detail": "missing words: seoguarantee com works why ain't comes advanced wellness 110 67 katy texas january dentist 120 increase 75 lifetime rancho dental cucamonga multi specialty holistic approach"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "industries/dental/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/industries/law-firm",
+      "file": "industries/law-firm/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9248,
+      "missingWords": 76,
+      "longestMissingRun": 5,
+      "sourceWords": 987,
+      "rebuiltWords": 4609,
+      "sourceH1": [
+        "We Only Charge For Our SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Our SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 92.5% (floor 95%)",
+          "detail": "missing words: seoguarantee com works why ain't southwest injury 125 75 american 170 increase 90 raich pllc handles negotiations counseling commercial litigation april 1st attorney 150 organic"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "industries/law-firm/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/industries/medical-spa",
+      "file": "industries/medical-spa/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9245,
+      "missingWords": 76,
+      "longestMissingRun": 5,
+      "sourceWords": 988,
+      "rebuiltWords": 4571,
+      "sourceH1": [
+        "We Only Charge For Our SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Our SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 92.5% (floor 95%)",
+          "detail": "missing words: seoguarantee com why ain't serenity 135 70 setiba westlake village medical serving wide october 2020 140 80 increase juvly aesthetics works beauty comes treatments 125"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "industries/medical-spa/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/invoice",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at invoice.html | invoice.htm | invoice/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/invoice"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/ipowerteam",
+      "file": "ipowerteam/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.5111,
+      "missingWords": 110,
+      "longestMissingRun": 53,
+      "sourceWords": 233,
+      "rebuiltWords": 462,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "IpowerTeam"
+      ],
+      "sourceLinks": 0,
+      "rebuiltLinks": 66,
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "content-loss",
+          "title": "Body content recall 51.1% (floor 95%)",
+          "detail": "missing words: answer best of ability do currently have time elexbet hiltonbet porno bahçeleri sikiş cenneti keyfi escort havuzu child porn watch rus pornoları phishing izle spam"
+        },
+        {
+          "severity": "blocker",
+          "code": "content-block-missing",
+          "title": "53 consecutive source words absent from the rebuild (limit 12)",
+          "detail": "\"betci betbox betci betbox canlı maç izle selcuksports porno porno izle porno child phishing porno seyret betbox betci phishing elexbet tulipbet hiltonbet drama izle film izle film izle film izle elexb\""
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "ipowerteam/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/las-vegas-online-marketing/las-vegas-conversion-rate-optimization",
+      "file": "las-vegas-online-marketing/las-vegas-conversion-rate-optimization/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9027,
+      "missingWords": 57,
+      "longestMissingRun": 3,
+      "sourceWords": 567,
+      "rebuiltWords": 4198,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Las Vegas Conversion Rate Optimization"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 90.3% (floor 95%)",
+          "detail": "missing words: cro convention rabbit hole individual 714 generated 119 revenue 996 acquired unfortunate wasting thousands costs convert world adwords often overlooked why probably audit leads should"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/las-vegas-online-marketing/las-vegas-web-design",
+      "file": "las-vegas-online-marketing/las-vegas-web-design/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.7403,
+      "missingWords": 87,
+      "longestMissingRun": 4,
+      "sourceWords": 329,
+      "rebuiltWords": 3838,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Las Vegas Web Design Company"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "content-loss",
+          "title": "Body content recall 74.0% (floor 95%)",
+          "detail": "missing words: class guaranteed funnel featured view study case projects air blez should multi menus make book appointment"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/las-vegas-seo-blog/authority-and-search-rankings",
+      "file": "las-vegas-seo-blog/authority-and-search-rankings/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9842,
+      "missingWords": 14,
+      "longestMissingRun": 3,
+      "sourceWords": 893,
+      "rebuiltWords": 4790,
+      "sourceH1": [
+        "Authority and Search Rankings"
+      ],
+      "rebuiltH1": [
+        "Authority and Search Rankings"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 69,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "2 source H2 section(s) absent",
+          "detail": "post navigation | first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "las-vegas-seo-blog/authority-and-search-rankings/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/las-vegas-seo-company",
+      "file": "las-vegas-seo-company/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9683,
+      "missingWords": 24,
+      "longestMissingRun": 3,
+      "sourceWords": 760,
+      "rebuiltWords": 4621,
+      "sourceH1": [
+        "Las Vegas SEO Company"
+      ],
+      "rebuiltH1": [
+        "Las Vegas SEO Company"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "2 source H2 section(s) absent",
+          "detail": "post navigation | first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "las-vegas-seo-company/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/las-vegas-seo-expert",
+      "file": "las-vegas-seo-expert/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9844,
+      "missingWords": 11,
+      "longestMissingRun": 3,
+      "sourceWords": 701,
+      "rebuiltWords": 4646,
+      "sourceH1": [
+        "Las Vegas SEO Expert"
+      ],
+      "rebuiltH1": [
+        "Las Vegas SEO Expert"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "2 source H2 section(s) absent",
+          "detail": "post navigation | first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "las-vegas-seo-expert/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/las-vegas-seo-firm",
+      "file": "las-vegas-seo-firm/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.98,
+      "missingWords": 19,
+      "longestMissingRun": 4,
+      "sourceWords": 947,
+      "rebuiltWords": 4606,
+      "sourceH1": [
+        "Las Vegas SEO Firm"
+      ],
+      "rebuiltH1": [
+        "Las Vegas SEO Firm - First Consultation"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Las Vegas SEO Firm\" -> \"Las Vegas SEO Firm - First Consultation\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "2 source H2 section(s) absent",
+          "detail": "post navigation | first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "las-vegas-seo-firm/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/las-vegas-seo-service-new",
+      "file": "las-vegas-seo-service-new/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.999,
+      "missingWords": 1,
+      "longestMissingRun": 1,
+      "sourceWords": 992,
+      "rebuiltWords": 4749,
+      "sourceH1": [
+        "+800%",
+        "+375%",
+        "+240%",
+        "+148%"
+      ],
+      "rebuiltH1": [
+        "+800%"
+      ],
+      "sourceLinks": 9,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "13 image(s) without alt",
+          "detail": "las-vegas-seo-service-new/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/lla-magazine-forward",
+      "file": "lla-magazine-forward/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 223,
+      "rebuiltWords": 559,
+      "sourceH1": [
+        "THE LEADING LIQUOR LICENSE BROKER IN THE NATION"
+      ],
+      "rebuiltH1": [
+        "THE LEADING LIQUOR LICENSE BROKER IN THE NATION"
+      ],
+      "sourceLinks": 12,
+      "rebuiltLinks": 109,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "lla-magazine-forward/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "+1 800-799-9081 \n 5243"
+        },
+        {
+          "severity": "major",
+          "code": "contact-lost",
+          "title": "Email missing from rebuild",
+          "detail": "mike@liquorlicenseagents.staging.sgen.com"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/location",
+      "file": "location/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 3,
+      "rebuiltWords": 3721,
+      "sourceH1": [
+        "Location Las Vegas"
+      ],
+      "rebuiltH1": [
+        "Location Las Vegas"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "location/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/location/las-vegas",
+      "file": "location/las-vegas/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 239,
+      "rebuiltWords": 3999,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "SEO Services"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 70,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "location/las-vegas/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(702) 362-8700"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/locations/las-vegas-seo",
+      "file": "locations/las-vegas-seo/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.8203,
+      "missingWords": 131,
+      "longestMissingRun": 6,
+      "sourceWords": 717,
+      "rebuiltWords": 4145,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "SEO Blog | First Page SEO Guarantee | Las Vegas SEO Company"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 82.0% (floor 95%)",
+          "detail": "missing words: expert firm might different types impact pick rankings place authority personal often depends optimized why higher leave confused tips tricks engines continue reading important beginner"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/members",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at members.html | members.htm | members/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/members"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/new-las-vegas-seo",
+      "file": "new-las-vegas-seo/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 3,
+      "rebuiltWords": 3724,
+      "sourceH1": [
+        "Las Vegas SEO"
+      ],
+      "rebuiltH1": [
+        "Las Vegas SEO"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "new-las-vegas-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/nuleaf-magazine-forward",
+      "file": "nuleaf-magazine-forward/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.8615,
+      "missingWords": 9,
+      "longestMissingRun": 6,
+      "sourceWords": 65,
+      "rebuiltWords": 396,
+      "sourceH1": [
+        "NuLeaf Cannabis Dispensaries"
+      ],
+      "rebuiltH1": [
+        "NuLeaf Cannabis Dispensaries"
+      ],
+      "sourceLinks": 6,
+      "rebuiltLinks": 71,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 86.2% (floor 95%)",
+          "detail": "missing words: tinctures deals flower vapes concentrates edibles topicals accessories shop"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "choose your store"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "nuleaf-magazine-forward/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations",
+      "file": "our-locations/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 643,
+      "rebuiltWords": 4185,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Our Locations"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 90,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/arlington-seo",
+      "file": "our-locations/arlington-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9431,
+      "missingWords": 64,
+      "longestMissingRun": 2,
+      "sourceWords": 1107,
+      "rebuiltWords": 4923,
+      "sourceH1": [
+        "We Only Charge For Arlington SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Arlington SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.3% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read dominating markets increasing visibility valuable essential makes solid vital worthwhile presence thus yours land major both listings amounting"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/arlington-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/atlanta-seo",
+      "file": "our-locations/atlanta-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9577,
+      "missingWords": 49,
+      "longestMissingRun": 2,
+      "sourceWords": 1139,
+      "rebuiltWords": 4998,
+      "sourceH1": [
+        "We Only Charge For Our Atlanta SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Our Atlanta SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/atlanta-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/austin-seo",
+      "file": "our-locations/austin-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9639,
+      "missingWords": 42,
+      "longestMissingRun": 2,
+      "sourceWords": 1145,
+      "rebuiltWords": 5006,
+      "sourceH1": [
+        "We Only Charge For Austin SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Austin SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/austin-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/baltimore-seo",
+      "file": "our-locations/baltimore-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9433,
+      "missingWords": 66,
+      "longestMissingRun": 3,
+      "sourceWords": 1144,
+      "rebuiltWords": 4939,
+      "sourceH1": [
+        "We Only Charge For Baltimore SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Baltimore SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.3% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read dominating markets strong presence visibility major generating machine why solid essential break through internet clutter channels yours appear"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/baltimore-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/chicago-seo",
+      "file": "our-locations/chicago-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9529,
+      "missingWords": 54,
+      "longestMissingRun": 3,
+      "sourceWords": 1126,
+      "rebuiltWords": 4951,
+      "sourceH1": [
+        "We Only Charge For Chicago SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Chicago SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/chicago-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/cleveland-seo",
+      "file": "our-locations/cleveland-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9286,
+      "missingWords": 85,
+      "longestMissingRun": 4,
+      "sourceWords": 1173,
+      "rebuiltWords": 4893,
+      "sourceH1": [
+        "We Only Charge For Cleveland SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Cleveland SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 92.9% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read dominating markets increasing visibility vital move generating challenge break through clutter appear ins outs becomes investment small land"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/cleveland-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/dallas-seo",
+      "file": "our-locations/dallas-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9476,
+      "missingWords": 61,
+      "longestMissingRun": 2,
+      "sourceWords": 1144,
+      "rebuiltWords": 4980,
+      "sourceH1": [
+        "We Only Charge For Dallas SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Dallas SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.8% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read strong presence cultivating visibility major generating channel makes essential investment large small break clutter its smes 000 commercial"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/dallas-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/denver-seo",
+      "file": "our-locations/denver-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9547,
+      "missingWords": 54,
+      "longestMissingRun": 3,
+      "sourceWords": 1171,
+      "rebuiltWords": 5023,
+      "sourceH1": [
+        "We Only Charge For Denver SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Denver SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/denver-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/houston-seo",
+      "file": "our-locations/houston-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9515,
+      "missingWords": 57,
+      "longestMissingRun": 3,
+      "sourceWords": 1150,
+      "rebuiltWords": 4986,
+      "sourceH1": [
+        "We Only Charge For Houston SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Houston SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/houston-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/jacksonville-seo",
+      "file": "our-locations/jacksonville-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9346,
+      "missingWords": 78,
+      "longestMissingRun": 3,
+      "sourceWords": 1168,
+      "rebuiltWords": 4940,
+      "sourceH1": [
+        "We Only Charge For Jacksonville SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Jacksonville SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 93.5% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read leading brands establishing presence move generating relevant breaking clutter appear isn strong ins outs both small 000 commercial"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/jacksonville-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/kansas-city-seo",
+      "file": "our-locations/kansas-city-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9402,
+      "missingWords": 72,
+      "longestMissingRun": 3,
+      "sourceWords": 1188,
+      "rebuiltWords": 4951,
+      "sourceH1": [
+        "We Only Charge For Kansas SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Kansas SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.0% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read dominating markets visible isn break clutter land why solid investment small appear both commercial listings 000 terms smes"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/kansas-city-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/las-vegas-seo",
+      "file": "our-locations/las-vegas-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9853,
+      "missingWords": 13,
+      "longestMissingRun": 2,
+      "sourceWords": 882,
+      "rebuiltWords": 4893,
+      "sourceH1": [
+        "We Only Charge For Las Vegas SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Las Vegas SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/las-vegas-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/los-angeles-seo",
+      "file": "our-locations/los-angeles-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9647,
+      "missingWords": 42,
+      "longestMissingRun": 2,
+      "sourceWords": 1169,
+      "rebuiltWords": 5069,
+      "sourceH1": [
+        "We Only Charge For Los Angeles SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Los Angeles SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/los-angeles-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/louisville-seo",
+      "file": "our-locations/louisville-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9381,
+      "missingWords": 73,
+      "longestMissingRun": 3,
+      "sourceWords": 1158,
+      "rebuiltWords": 4955,
+      "sourceH1": [
+        "We Only Charge For Louisville SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Louisville SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 93.8% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read market leading boosted yours appear 000 both commercial listings national businesses break markets edge competitors provided push brands"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/louisville-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/manhattan-seo",
+      "file": "our-locations/manhattan-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9449,
+      "missingWords": 66,
+      "longestMissingRun": 3,
+      "sourceWords": 1178,
+      "rebuiltWords": 4969,
+      "sourceH1": [
+        "We Only Charge For Manhattan SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Manhattan SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.5% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing read another especially commercial chances generating leads visibility relevant why solid businesses pushed 000 both listings proudly national brands boost"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/manhattan-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/miami-seo",
+      "file": "our-locations/miami-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9425,
+      "missingWords": 68,
+      "longestMissingRun": 3,
+      "sourceWords": 1160,
+      "rebuiltWords": 4950,
+      "sourceH1": [
+        "We Only Charge For Miami SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Miami SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.3% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read google's spells strong presence dominating appearing comes yours small businesses brands leading 000 both listings national gain sustain"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/miami-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/minneapolis-seo",
+      "file": "our-locations/minneapolis-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.955,
+      "missingWords": 54,
+      "longestMissingRun": 2,
+      "sourceWords": 1181,
+      "rebuiltWords": 4986,
+      "sourceH1": [
+        "We Only Charge For Minneapolis SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Minneapolis SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/minneapolis-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/myrtle-beach-seo",
+      "file": "our-locations/myrtle-beach-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.942,
+      "missingWords": 70,
+      "longestMissingRun": 2,
+      "sourceWords": 1185,
+      "rebuiltWords": 4968,
+      "sourceH1": [
+        "We Only Charge For Myrtle Beach SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Myrtle Beach SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.2% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read dominating brands large businesses major both commercial listings 000 partnered ups competitive markets relevant terms thus supported gained"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/myrtle-beach-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/new-orleans-seo",
+      "file": "our-locations/new-orleans-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.959,
+      "missingWords": 49,
+      "longestMissingRun": 2,
+      "sourceWords": 1174,
+      "rebuiltWords": 5023,
+      "sourceH1": [
+        "We Only Charge For New Orleans SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For New Orleans SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/new-orleans-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/orlando-seo",
+      "file": "our-locations/orlando-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9508,
+      "missingWords": 59,
+      "longestMissingRun": 3,
+      "sourceWords": 1177,
+      "rebuiltWords": 4993,
+      "sourceH1": [
+        "We Only Charge For Orlando SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Orlando SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/orlando-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/philadelphia-seo",
+      "file": "our-locations/philadelphia-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9761,
+      "missingWords": 28,
+      "longestMissingRun": 2,
+      "sourceWords": 1153,
+      "rebuiltWords": 5087,
+      "sourceH1": [
+        "We Only Charge For Philadelphia SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Philadelphia SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/philadelphia-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/portland-seo",
+      "file": "our-locations/portland-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9458,
+      "missingWords": 63,
+      "longestMissingRun": 4,
+      "sourceWords": 1148,
+      "rebuiltWords": 4953,
+      "sourceH1": [
+        "We Only Charge For Portland SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Portland SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.6% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read market leading comes shows spell world difference generation efforts hence optimizing valuable relevant critical meant strong yours 000"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/portland-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/san-antonio-seo",
+      "file": "our-locations/san-antonio-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9223,
+      "missingWords": 94,
+      "longestMissingRun": 3,
+      "sourceWords": 1192,
+      "rebuiltWords": 4884,
+      "sourceH1": [
+        "We Only Charge For San Antonio SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For San Antonio SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 92.2% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read dominating markets potential competitive landscape appears valuable asset attract landing feat solid place yours appear learning understanding both"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/san-antonio-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/san-diego-seo",
+      "file": "our-locations/san-diego-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9699,
+      "missingWords": 36,
+      "longestMissingRun": 3,
+      "sourceWords": 1173,
+      "rebuiltWords": 5080,
+      "sourceH1": [
+        "We Only Charge For San Diego SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For San Diego SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/san-diego-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-locations/seattle-seo",
+      "file": "our-locations/seattle-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9392,
+      "missingWords": 74,
+      "longestMissingRun": 3,
+      "sourceWords": 1190,
+      "rebuiltWords": 4946,
+      "sourceH1": [
+        "We Only Charge For Seattle SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Seattle SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 93.9% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read leading presence whole dominating appearing doubt likely visit thus increasing chances beating land relevant strong yours partnered small"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-locations/seattle-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/our-team",
+      "file": "our-team/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.0909,
+      "missingWords": 70,
+      "longestMissingRun": 51,
+      "sourceWords": 19,
+      "rebuiltWords": 359,
+      "sourceH1": [
+        "Our Team"
+      ],
+      "rebuiltH1": [
+        "Our Team"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 65,
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "content-loss",
+          "title": "Body content recall 9.1% (floor 95%)",
+          "detail": "missing words: et pb section bb built builder version 3 0 47 row 48 background size initial position top left repeat column type 4 text 21 z"
+        },
+        {
+          "severity": "blocker",
+          "code": "content-block-missing",
+          "title": "51 consecutive source words absent from the rebuild (limit 12)",
+          "detail": "\"builder version 3 0 47 et pb row builder version 3 0 48 background size initial background position top left background repeat repeat et pb column type 4 4 et pb text builder version 3 21 4 background\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "our-team/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/payment-authorization",
+      "file": "payment-authorization/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 37,
+      "rebuiltWords": 3761,
+      "sourceH1": [
+        "Payment Authorization"
+      ],
+      "rebuiltH1": [
+        "Payment Authorization"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "payment-authorization/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/pm",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at pm.html | pm.htm | pm/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/pm"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio",
+      "file": "portfolio/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 0.7514,
+      "missingWords": 44,
+      "longestMissingRun": 2,
+      "sourceWords": 216,
+      "rebuiltWords": 503,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Portfolio"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 85,
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "content-loss",
+          "title": "Body content recall 75.1% (floor 95%)",
+          "detail": "missing words: projects case studies view profile"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/aa-printing-service",
+      "file": "portfolio/aa-printing-service/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 84,
+      "rebuiltWords": 3841,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "AA Printing Service"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/aa-printing-service/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/all-american",
+      "file": "portfolio/all-american/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 130,
+      "rebuiltWords": 3892,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "All American Law | Family Lawyers and Divorce Attorneys"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/all-american/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/c-j-hewitt-construction",
+      "file": "portfolio/c-j-hewitt-construction/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 150,
+      "rebuiltWords": 3914,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "C.J. Hewitt Construction"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/c-j-hewitt-construction/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/david-minkin",
+      "file": "portfolio/david-minkin/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 103,
+      "rebuiltWords": 3865,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "David Minkin"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/david-minkin/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/ddm-garage-doors",
+      "file": "portfolio/ddm-garage-doors/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 211,
+      "rebuiltWords": 3964,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "DDM Garage Doors, Inc"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/ddm-garage-doors/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/fast-affordable-air",
+      "file": "portfolio/fast-affordable-air/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 143,
+      "rebuiltWords": 3901,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Fast Affordable Air"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/fast-affordable-air/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/hummus",
+      "file": "portfolio/hummus/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 90,
+      "rebuiltWords": 3845,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Hummus"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/hummus/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/jardin",
+      "file": "portfolio/jardin/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 92,
+      "rebuiltWords": 3835,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Jardin Premium Cannabis Dispensary"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/jardin/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/katy-dental",
+      "file": "portfolio/katy-dental/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 144,
+      "rebuiltWords": 3907,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Katy Dental Experts"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/katy-dental/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/las-vegas-real-estate",
+      "file": "portfolio/las-vegas-real-estate/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 77,
+      "rebuiltWords": 3838,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Las Vegas Real Estate"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/las-vegas-real-estate/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/liquor-license",
+      "file": "portfolio/liquor-license/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 243,
+      "rebuiltWords": 4002,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Liquor License Agents"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/liquor-license/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/liquor-license-agents",
+      "file": "portfolio/liquor-license-agents/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 243,
+      "rebuiltWords": 4003,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Liquor License Agents"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/liquor-license-agents/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/master-of-buds",
+      "file": "portfolio/master-of-buds/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 107,
+      "rebuiltWords": 3867,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Master of Buds"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/master-of-buds/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/mirazone-spa",
+      "file": "portfolio/mirazone-spa/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 113,
+      "rebuiltWords": 3866,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "MiraZone Spa"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/mirazone-spa/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/myvegasmag",
+      "file": "portfolio/myvegasmag/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 64,
+      "rebuiltWords": 3820,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "MyVegasMag"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/myvegasmag/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/ozzys-golden-inc",
+      "file": "portfolio/ozzys-golden-inc/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 135,
+      "rebuiltWords": 3895,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Ozzy’s Golden Construction Inc."
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/ozzys-golden-inc/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/raich-law",
+      "file": "portfolio/raich-law/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 210,
+      "rebuiltWords": 3977,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Raich Law – Business Lawyer Las Vegas"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/raich-law/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/setiba-medical-spa",
+      "file": "portfolio/setiba-medical-spa/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 134,
+      "rebuiltWords": 3895,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Setiba Medical Spa"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/setiba-medical-spa/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/southwest-injury-law",
+      "file": "portfolio/southwest-injury-law/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 194,
+      "rebuiltWords": 3958,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Southwest Injury Law"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/southwest-injury-law/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/the-blez",
+      "file": "portfolio/the-blez/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 172,
+      "rebuiltWords": 3935,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "The Blez"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/the-blez/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/portfolio/vegas-paint-pros",
+      "file": "portfolio/vegas-paint-pros/index.html",
+      "pageType": "portfolio",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 139,
+      "rebuiltWords": 3897,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Vegas Paint Pros"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "portfolio/vegas-paint-pros/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/projects",
+      "pageType": "portfolio",
+      "status": "MISSING",
+      "detail": "no rebuilt file at projects.html | projects.htm | projects/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/projects"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/rep",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at rep.html | rep.htm | rep/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/rep"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/rep/adam",
+      "file": "rep/adam/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 47,
+      "rebuiltWords": 3768,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Adam"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "rep/adam/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/rep/archer",
+      "file": "rep/archer/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 47,
+      "rebuiltWords": 3768,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Archer"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "rep/archer/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/rep/deandre",
+      "file": "rep/deandre/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 47,
+      "rebuiltWords": 3768,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Deandre"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "rep/deandre/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/rep/james",
+      "file": "rep/james/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 47,
+      "rebuiltWords": 3768,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "James"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "rep/james/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/rep/kate",
+      "file": "rep/kate/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 47,
+      "rebuiltWords": 3768,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Kate"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "rep/kate/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/rep/matt",
+      "file": "rep/matt/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 47,
+      "rebuiltWords": 3768,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Matt"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "rep/matt/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/rep/sinan",
+      "file": "rep/sinan/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 47,
+      "rebuiltWords": 3768,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Sinan"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "rep/sinan/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/reserve-your-spot",
+      "file": "reserve-your-spot/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.963,
+      "missingWords": 4,
+      "longestMissingRun": 4,
+      "sourceWords": 110,
+      "rebuiltWords": 3843,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Reserve Your Spot"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "reserve-your-spot/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/search-engine-optimization-factors",
+      "file": "search-engine-optimization-factors/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9725,
+      "missingWords": 19,
+      "longestMissingRun": 3,
+      "sourceWords": 697,
+      "rebuiltWords": 4572,
+      "sourceH1": [
+        "Search Engine Optimization Factors"
+      ],
+      "rebuiltH1": [
+        "Search Engine Optimization Factors"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "2 source H2 section(s) absent",
+          "detail": "post navigation | first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "search-engine-optimization-factors/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-audit",
+      "file": "seo-audit/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 2,
+      "rebuiltWords": 3726,
+      "sourceH1": [
+        "SEO Audit"
+      ],
+      "rebuiltH1": [
+        "SEO Audit"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-audit/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-blog",
+      "file": "seo-blog/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9945,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 717,
+      "rebuiltWords": 4556,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "SEO Blog | First Page SEO Guarantee | Las Vegas SEO Company"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 75,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-blog/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-new",
+      "file": "seo-new/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.655,
+      "missingWords": 226,
+      "longestMissingRun": 25,
+      "sourceWords": 657,
+      "rebuiltWords": 4175,
+      "sourceH1": [
+        "+664%",
+        "+664%",
+        "+664%",
+        "+664%"
+      ],
+      "rebuiltH1": [
+        "+664%"
+      ],
+      "sourceLinks": 9,
+      "rebuiltLinks": 75,
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "content-loss",
+          "title": "Body content recall 65.5% (floor 95%)",
+          "detail": "missing words: lorem ipsum dolor sit amet consectetur adipiscing elit ut tellus luctus nec ullamcorper mattis pulvinar dapibus leo"
+        },
+        {
+          "severity": "major",
+          "code": "content-block-missing",
+          "title": "25 consecutive source words absent from the rebuild (limit 12)",
+          "detail": "\"lorem ipsum lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus leo lorem ipsum dolor sit amet\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "seo-new/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-service",
+      "file": "seo-service/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9932,
+      "missingWords": 6,
+      "longestMissingRun": 2,
+      "sourceWords": 882,
+      "rebuiltWords": 4625,
+      "sourceH1": [
+        "We Only Charge For Las Vegas SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Las Vegas SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 71,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "35 image(s) without alt",
+          "detail": "seo-service/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/arlington-seo",
+      "file": "seo-services/arlington-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9431,
+      "missingWords": 64,
+      "longestMissingRun": 2,
+      "sourceWords": 1107,
+      "rebuiltWords": 4923,
+      "sourceH1": [
+        "We Only Charge For Arlington SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Arlington SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.3% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read dominating markets increasing visibility valuable essential makes solid vital worthwhile presence thus yours land major both listings amounting"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/arlington-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/atlanta-seo",
+      "file": "seo-services/atlanta-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9577,
+      "missingWords": 49,
+      "longestMissingRun": 2,
+      "sourceWords": 1139,
+      "rebuiltWords": 4998,
+      "sourceH1": [
+        "We Only Charge For Our Atlanta SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Our Atlanta SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/atlanta-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/austin-seo",
+      "file": "seo-services/austin-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9639,
+      "missingWords": 42,
+      "longestMissingRun": 2,
+      "sourceWords": 1145,
+      "rebuiltWords": 5006,
+      "sourceH1": [
+        "We Only Charge For Austin SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Austin SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/austin-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/baltimore-seo",
+      "file": "seo-services/baltimore-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9433,
+      "missingWords": 66,
+      "longestMissingRun": 3,
+      "sourceWords": 1144,
+      "rebuiltWords": 4939,
+      "sourceH1": [
+        "We Only Charge For Baltimore SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Baltimore SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.3% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read dominating markets strong presence visibility major generating machine why solid essential break through internet clutter channels yours appear"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/baltimore-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/chicago-seo",
+      "file": "seo-services/chicago-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9529,
+      "missingWords": 54,
+      "longestMissingRun": 3,
+      "sourceWords": 1126,
+      "rebuiltWords": 4951,
+      "sourceH1": [
+        "We Only Charge For Chicago SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Chicago SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/chicago-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/cleveland-seo",
+      "file": "seo-services/cleveland-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9286,
+      "missingWords": 85,
+      "longestMissingRun": 4,
+      "sourceWords": 1173,
+      "rebuiltWords": 4893,
+      "sourceH1": [
+        "We Only Charge For Cleveland SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Cleveland SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 92.9% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read dominating markets increasing visibility vital move generating challenge break through clutter appear ins outs becomes investment small land"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/cleveland-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/dallas-seo",
+      "file": "seo-services/dallas-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9476,
+      "missingWords": 61,
+      "longestMissingRun": 2,
+      "sourceWords": 1144,
+      "rebuiltWords": 4980,
+      "sourceH1": [
+        "We Only Charge For Dallas SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Dallas SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.8% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read strong presence cultivating visibility major generating channel makes essential investment large small break clutter its smes 000 commercial"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/dallas-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/denver-seo",
+      "file": "seo-services/denver-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9547,
+      "missingWords": 54,
+      "longestMissingRun": 3,
+      "sourceWords": 1171,
+      "rebuiltWords": 5023,
+      "sourceH1": [
+        "We Only Charge For Denver SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Denver SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/denver-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/houston-seo",
+      "file": "seo-services/houston-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9515,
+      "missingWords": 57,
+      "longestMissingRun": 3,
+      "sourceWords": 1150,
+      "rebuiltWords": 4986,
+      "sourceH1": [
+        "We Only Charge For Houston SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Houston SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/houston-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/jacksonville-seo",
+      "file": "seo-services/jacksonville-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9346,
+      "missingWords": 78,
+      "longestMissingRun": 3,
+      "sourceWords": 1168,
+      "rebuiltWords": 4940,
+      "sourceH1": [
+        "We Only Charge For Jacksonville SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Jacksonville SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 93.5% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read leading brands establishing presence move generating relevant breaking clutter appear isn strong ins outs both small 000 commercial"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/jacksonville-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/kansas-city-seo",
+      "file": "seo-services/kansas-city-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9402,
+      "missingWords": 72,
+      "longestMissingRun": 3,
+      "sourceWords": 1188,
+      "rebuiltWords": 4951,
+      "sourceH1": [
+        "We Only Charge For Kansas SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Kansas SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.0% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read dominating markets visible isn break clutter land why solid investment small appear both commercial listings 000 terms smes"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/kansas-city-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/las-vegas-seo",
+      "file": "seo-services/las-vegas-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9853,
+      "missingWords": 13,
+      "longestMissingRun": 2,
+      "sourceWords": 882,
+      "rebuiltWords": 4893,
+      "sourceH1": [
+        "We Only Charge For Las Vegas SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Las Vegas SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/las-vegas-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/los-angeles-seo",
+      "file": "seo-services/los-angeles-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9647,
+      "missingWords": 42,
+      "longestMissingRun": 2,
+      "sourceWords": 1169,
+      "rebuiltWords": 5069,
+      "sourceH1": [
+        "We Only Charge For Los Angeles SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Los Angeles SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/los-angeles-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/louisville-seo",
+      "file": "seo-services/louisville-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9381,
+      "missingWords": 73,
+      "longestMissingRun": 3,
+      "sourceWords": 1158,
+      "rebuiltWords": 4955,
+      "sourceH1": [
+        "We Only Charge For Louisville SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Louisville SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 93.8% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read market leading boosted yours appear 000 both commercial listings national businesses break markets edge competitors provided push brands"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/louisville-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/manhattan-seo",
+      "file": "seo-services/manhattan-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9449,
+      "missingWords": 66,
+      "longestMissingRun": 3,
+      "sourceWords": 1178,
+      "rebuiltWords": 4969,
+      "sourceH1": [
+        "We Only Charge For Manhattan SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Manhattan SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.5% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing read another especially commercial chances generating leads visibility relevant why solid businesses pushed 000 both listings proudly national brands boost"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/manhattan-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/miami-seo",
+      "file": "seo-services/miami-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9425,
+      "missingWords": 68,
+      "longestMissingRun": 3,
+      "sourceWords": 1160,
+      "rebuiltWords": 4950,
+      "sourceH1": [
+        "We Only Charge For Miami SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Miami SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.3% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read google's spells strong presence dominating appearing comes yours small businesses brands leading 000 both listings national gain sustain"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/miami-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/minneapolis-seo",
+      "file": "seo-services/minneapolis-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.955,
+      "missingWords": 54,
+      "longestMissingRun": 2,
+      "sourceWords": 1181,
+      "rebuiltWords": 4986,
+      "sourceH1": [
+        "We Only Charge For Minneapolis SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Minneapolis SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/minneapolis-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/myrtle-beach-seo",
+      "file": "seo-services/myrtle-beach-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.942,
+      "missingWords": 70,
+      "longestMissingRun": 2,
+      "sourceWords": 1185,
+      "rebuiltWords": 4968,
+      "sourceH1": [
+        "We Only Charge For Myrtle Beach SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Myrtle Beach SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.2% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read dominating brands large businesses major both commercial listings 000 partnered ups competitive markets relevant terms thus supported gained"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/myrtle-beach-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/new-orleans-seo",
+      "file": "seo-services/new-orleans-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.959,
+      "missingWords": 49,
+      "longestMissingRun": 2,
+      "sourceWords": 1174,
+      "rebuiltWords": 5023,
+      "sourceH1": [
+        "We Only Charge For New Orleans SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For New Orleans SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/new-orleans-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/orlando-seo",
+      "file": "seo-services/orlando-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9508,
+      "missingWords": 59,
+      "longestMissingRun": 3,
+      "sourceWords": 1177,
+      "rebuiltWords": 4993,
+      "sourceH1": [
+        "We Only Charge For Orlando SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Orlando SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/orlando-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/philadelphia-seo",
+      "file": "seo-services/philadelphia-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9761,
+      "missingWords": 28,
+      "longestMissingRun": 2,
+      "sourceWords": 1153,
+      "rebuiltWords": 5087,
+      "sourceH1": [
+        "We Only Charge For Philadelphia SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Philadelphia SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/philadelphia-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/portland-seo",
+      "file": "seo-services/portland-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9458,
+      "missingWords": 63,
+      "longestMissingRun": 4,
+      "sourceWords": 1148,
+      "rebuiltWords": 4953,
+      "sourceH1": [
+        "We Only Charge For Portland SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Portland SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 94.6% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read market leading comes shows spell world difference generation efforts hence optimizing valuable relevant critical meant strong yours 000"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/portland-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/san-antonio-seo",
+      "file": "seo-services/san-antonio-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9223,
+      "missingWords": 94,
+      "longestMissingRun": 3,
+      "sourceWords": 1192,
+      "rebuiltWords": 4884,
+      "sourceH1": [
+        "We Only Charge For San Antonio SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For San Antonio SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 92.2% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read dominating markets potential competitive landscape appears valuable asset attract landing feat solid place yours appear learning understanding both"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/san-antonio-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/san-diego-seo",
+      "file": "seo-services/san-diego-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9699,
+      "missingWords": 36,
+      "longestMissingRun": 3,
+      "sourceWords": 1173,
+      "rebuiltWords": 5080,
+      "sourceH1": [
+        "We Only Charge For San Diego SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For San Diego SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/san-diego-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/seo-services/seattle-seo",
+      "file": "seo-services/seattle-seo/index.html",
+      "pageType": "article",
+      "status": "DIFFERS",
+      "recall": 0.9392,
+      "missingWords": 74,
+      "longestMissingRun": 3,
+      "sourceWords": 1190,
+      "rebuiltWords": 4946,
+      "sourceH1": [
+        "We Only Charge For Seattle SEO GUARANTEE"
+      ],
+      "rebuiltH1": [
+        "We Only Charge For Seattle SEO GUARANTEE"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 72,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 93.9% (floor 95%)",
+          "detail": "missing words: seoguarantee com founder iv managing learn read leading presence whole dominating appearing doubt likely visit thus increasing chances beating land relevant strong yours partnered small"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "seo-services/seattle-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/services/las-vegas-conversion-rate-optimization",
+      "file": "services/las-vegas-conversion-rate-optimization/index.html",
+      "pageType": "service",
+      "status": "DIFFERS",
+      "recall": 0.9027,
+      "missingWords": 57,
+      "longestMissingRun": 3,
+      "sourceWords": 567,
+      "rebuiltWords": 4198,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Las Vegas Conversion Rate Optimization"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 90.3% (floor 95%)",
+          "detail": "missing words: cro convention rabbit hole individual 714 generated 119 revenue 996 acquired unfortunate wasting thousands costs convert world adwords often overlooked why probably audit leads should"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/services/las-vegas-web-design",
+      "file": "services/las-vegas-web-design/index.html",
+      "pageType": "service",
+      "status": "DIFFERS",
+      "recall": 0.7403,
+      "missingWords": 87,
+      "longestMissingRun": 4,
+      "sourceWords": 329,
+      "rebuiltWords": 3838,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Las Vegas Web Design Company"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "content-loss",
+          "title": "Body content recall 74.0% (floor 95%)",
+          "detail": "missing words: class guaranteed funnel featured view study case projects air blez should multi menus make book appointment"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/services/suite",
+      "file": "services/suite/index.html",
+      "pageType": "service",
+      "status": "DIFFERS",
+      "recall": 0.9199,
+      "missingWords": 48,
+      "longestMissingRun": 2,
+      "sourceWords": 590,
+      "rebuiltWords": 4123,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Full Suite"
+      ],
+      "sourceLinks": 10,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 92.0% (floor 95%)",
+          "detail": "missing words: crucial elements succeeding today ongoing includes matter cro effective todays market firstpageseoguarantee com getting 1st desireable keyphrases searching buy products position bottom line competitors power"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "6 image(s) without alt",
+          "detail": "services/suite/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/sg_portfolio/construction",
+      "file": "sg_portfolio/construction/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9967,
+      "missingWords": 1,
+      "longestMissingRun": 1,
+      "sourceWords": 277,
+      "rebuiltWords": 4031,
+      "sourceH1": [
+        "Category: Construction"
+      ],
+      "rebuiltH1": [
+        "Construction Archives"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 70,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Category: Construction\" -> \"Construction Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "sg_portfolio/construction/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/sg_portfolio/dispensary",
+      "file": "sg_portfolio/dispensary/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9839,
+      "missingWords": 1,
+      "longestMissingRun": 1,
+      "sourceWords": 56,
+      "rebuiltWords": 3808,
+      "sourceH1": [
+        "Category: Dispensary"
+      ],
+      "rebuiltH1": [
+        "Dispensary Archives"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Category: Dispensary\" -> \"Dispensary Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "sg_portfolio/dispensary/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/sg_portfolio/law",
+      "file": "sg_portfolio/law/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9921,
+      "missingWords": 1,
+      "longestMissingRun": 1,
+      "sourceWords": 117,
+      "rebuiltWords": 3869,
+      "sourceH1": [
+        "Category: Law"
+      ],
+      "rebuiltH1": [
+        "Law Archives"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Category: Law\" -> \"Law Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "sg_portfolio/law/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/sg_portfolio/medical",
+      "file": "sg_portfolio/medical/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9,
+      "missingWords": 1,
+      "longestMissingRun": 1,
+      "sourceWords": 10,
+      "rebuiltWords": 3729,
+      "sourceH1": [
+        "Category: Medical"
+      ],
+      "rebuiltH1": [
+        "Medical Archives"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 68,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Category: Medical\" -> \"Medical Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 90.0% (floor 95%)",
+          "detail": "missing words: category"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "sg_portfolio/medical/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/sg_portfolio/other",
+      "file": "sg_portfolio/other/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9921,
+      "missingWords": 1,
+      "longestMissingRun": 1,
+      "sourceWords": 115,
+      "rebuiltWords": 3869,
+      "sourceH1": [
+        "Category: Other"
+      ],
+      "rebuiltH1": [
+        "Other Archives"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 69,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Category: Other\" -> \"Other Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "sg_portfolio/other/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/how-to-do-seo",
+      "file": "tag/how-to-do-seo/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.994,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 653,
+      "rebuiltWords": 4422,
+      "sourceH1": [
+        "Tag: how to do seo"
+      ],
+      "rebuiltH1": [
+        "how to do seo Archives"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 75,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: how to do seo\" -> \"how to do seo Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/how-to-do-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/las-vegas-search-engine-optimization",
+      "file": "tag/las-vegas-search-engine-optimization/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9966,
+      "missingWords": 2,
+      "longestMissingRun": 1,
+      "sourceWords": 578,
+      "rebuiltWords": 4413,
+      "sourceH1": [
+        "Tag: las vegas search engine optimization"
+      ],
+      "rebuiltH1": [
+        "las vegas search engine optimization Archives"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 74,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: las vegas search engine optimization\" -> \"las vegas search engine optimization Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/las-vegas-search-engine-optimization/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/las-vegas-seo",
+      "file": "tag/las-vegas-seo/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.994,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 652,
+      "rebuiltWords": 4420,
+      "sourceH1": [
+        "Tag: las vegas seo"
+      ],
+      "rebuiltH1": [
+        "las vegas seo Archives"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 75,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: las vegas seo\" -> \"las vegas seo Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/las-vegas-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/las-vegas-seo-company",
+      "file": "tag/las-vegas-seo-company/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.994,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 653,
+      "rebuiltWords": 4422,
+      "sourceH1": [
+        "Tag: las vegas seo company"
+      ],
+      "rebuiltH1": [
+        "las vegas seo company Archives"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 75,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: las vegas seo company\" -> \"las vegas seo company Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/las-vegas-seo-company/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/las-vegas-seo-expert",
+      "file": "tag/las-vegas-seo-expert/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 278,
+      "rebuiltWords": 3932,
+      "sourceH1": [
+        "Tag: las vegas seo expert"
+      ],
+      "rebuiltH1": [
+        "las vegas seo expert Archives"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 70,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: las vegas seo expert\" -> \"las vegas seo expert Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/las-vegas-seo-expert/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/las-vegas-seo-experts",
+      "file": "tag/las-vegas-seo-experts/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 209,
+      "rebuiltWords": 3802,
+      "sourceH1": [
+        "Tag: las vegas seo experts"
+      ],
+      "rebuiltH1": [
+        "las vegas seo experts Archives"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 69,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: las vegas seo experts\" -> \"las vegas seo experts Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/las-vegas-seo-experts/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/las-vegas-seo-firm",
+      "file": "tag/las-vegas-seo-firm/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.994,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 653,
+      "rebuiltWords": 4422,
+      "sourceH1": [
+        "Tag: las vegas seo firm"
+      ],
+      "rebuiltH1": [
+        "las vegas seo firm Archives"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 75,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: las vegas seo firm\" -> \"las vegas seo firm Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/las-vegas-seo-firm/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/las-vegas-seo-service",
+      "file": "tag/las-vegas-seo-service/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 209,
+      "rebuiltWords": 3802,
+      "sourceH1": [
+        "Tag: las vegas seo service"
+      ],
+      "rebuiltH1": [
+        "las vegas seo service Archives"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 69,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: las vegas seo service\" -> \"las vegas seo service Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/las-vegas-seo-service/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/las-vegas-seo-services",
+      "file": "tag/las-vegas-seo-services/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 209,
+      "rebuiltWords": 3802,
+      "sourceH1": [
+        "Tag: las vegas seo services"
+      ],
+      "rebuiltH1": [
+        "las vegas seo services Archives"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 69,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: las vegas seo services\" -> \"las vegas seo services Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/las-vegas-seo-services/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/las-vegas-seo-tips-and-tricks",
+      "file": "tag/las-vegas-seo-tips-and-tricks/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.994,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 655,
+      "rebuiltWords": 4426,
+      "sourceH1": [
+        "Tag: las vegas seo tips and tricks"
+      ],
+      "rebuiltH1": [
+        "las vegas seo tips and tricks Archives"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 75,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: las vegas seo tips and tricks\" -> \"las vegas seo tips and tricks Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/las-vegas-seo-tips-and-tricks/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/search-engine-optimization",
+      "file": "tag/search-engine-optimization/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.994,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 652,
+      "rebuiltWords": 4420,
+      "sourceH1": [
+        "Tag: search engine optimization"
+      ],
+      "rebuiltH1": [
+        "search engine optimization Archives"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 75,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: search engine optimization\" -> \"search engine optimization Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/search-engine-optimization/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/seo",
+      "file": "tag/seo/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9939,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 650,
+      "rebuiltWords": 4416,
+      "sourceH1": [
+        "Tag: seo"
+      ],
+      "rebuiltH1": [
+        "seo Archives"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 75,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: seo\" -> \"seo Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/seo-education",
+      "file": "tag/seo-education/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.9932,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 582,
+      "rebuiltWords": 4288,
+      "sourceH1": [
+        "Tag: seo education"
+      ],
+      "rebuiltH1": [
+        "seo education Archives"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 74,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: seo education\" -> \"seo education Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/seo-education/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/seo-expert",
+      "file": "tag/seo-expert/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 207,
+      "rebuiltWords": 3798,
+      "sourceH1": [
+        "Tag: seo expert"
+      ],
+      "rebuiltH1": [
+        "seo expert Archives"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 69,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: seo expert\" -> \"seo expert Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/seo-expert/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/seo-experts",
+      "file": "tag/seo-experts/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 207,
+      "rebuiltWords": 3798,
+      "sourceH1": [
+        "Tag: seo experts"
+      ],
+      "rebuiltH1": [
+        "seo experts Archives"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 69,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: seo experts\" -> \"seo experts Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/seo-experts/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/seo-knowledge",
+      "file": "tag/seo-knowledge/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.994,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 651,
+      "rebuiltWords": 4418,
+      "sourceH1": [
+        "Tag: seo knowledge"
+      ],
+      "rebuiltH1": [
+        "seo knowledge Archives"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 75,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: seo knowledge\" -> \"seo knowledge Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/seo-knowledge/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/seo-tips-and-tricks",
+      "file": "tag/seo-tips-and-tricks/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.994,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 653,
+      "rebuiltWords": 4422,
+      "sourceH1": [
+        "Tag: seo tips and tricks"
+      ],
+      "rebuiltH1": [
+        "seo tips and tricks Archives"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 75,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: seo tips and tricks\" -> \"seo tips and tricks Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/seo-tips-and-tricks/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/tag/what-is-seo",
+      "file": "tag/what-is-seo/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.994,
+      "missingWords": 4,
+      "longestMissingRun": 1,
+      "sourceWords": 652,
+      "rebuiltWords": 4420,
+      "sourceH1": [
+        "Tag: what is seo"
+      ],
+      "rebuiltH1": [
+        "what is seo Archives"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 75,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "h1-changed",
+          "title": "H1 changed",
+          "detail": "\"Tag: what is seo\" -> \"what is seo Archives\""
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "tag/what-is-seo/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/test-editor",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at test-editor.html | test-editor.htm | test-editor/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/test-editor"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/test-page",
+      "pageType": "form",
+      "status": "MISSING",
+      "detail": "no rebuilt file at test-page.html | test-page.htm | test-page/index.html",
+      "findings": [
+        {
+          "severity": "blocker",
+          "code": "page-missing",
+          "title": "Page not rebuilt",
+          "detail": "https://seoguarantee.com/test-page"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/thank-you",
+      "file": "thank-you/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 13,
+      "rebuiltWords": 3732,
+      "sourceH1": [
+        "Thank you!"
+      ],
+      "rebuiltH1": [
+        "Thank you!"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 67,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "thank-you/index.html"
+        }
+      ]
+    },
+    {
+      "url": "https://seoguarantee.com/videos",
+      "file": "videos/index.html",
+      "pageType": "form",
+      "status": "DIFFERS",
+      "recall": 0.925,
+      "missingWords": 6,
+      "longestMissingRun": 2,
+      "sourceWords": 80,
+      "rebuiltWords": 378,
+      "sourceH1": [],
+      "rebuiltH1": [
+        "Video FAQ"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 66,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 92.5% (floor 95%)",
+          "detail": "missing words: how can best class rabbit hole"
+        },
+        {
+          "severity": "major",
+          "code": "section-lost",
+          "title": "1 source H2 section(s) absent",
+          "detail": "first page seo guarantee las vegas"
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "1 image(s) without alt",
+          "detail": "videos/index.html"
+        }
+      ]
+    }
+  ]
+}

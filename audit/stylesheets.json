@@ -1,0 +1,752 @@
+{
+  "schema": "site-reforge/stylesheets@1",
+  "generated": "2026-09-05T00:49:52.431Z",
+  "discovered": [
+    "https://seoguarantee.com/wp-content/themes/theme-child/includes/Portfolio/css/styles.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=7.2.2",
+    "https://seoguarantee.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=7.2.2",
+    "https://seoguarantee.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=6.4.2",
+    "https://seoguarantee.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=6.4.2",
+    "https://seoguarantee.com/wp-content/plugins/woocommerce/assets/css/twenty-twenty-one.css?ver=6.4.2",
+    "https://seoguarantee.com/wp-includes/css/dashicons.min.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/plugins/business-reviews-bundle/assets/css/public-main.css?ver=1.8.9",
+    "https://seoguarantee.com/wp-content/themes/twentytwentyone/style.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/twentytwentyone/style.css?ver=1.0.0",
+    "https://seoguarantee.com/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.0.0",
+    "https://seoguarantee.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0",
+    "https://seoguarantee.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.5",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-2403.css?ver=1651144919",
+    "https://seoguarantee.com/wp-content/plugins/ameliabooking/public/css/frontend/elementor.css?ver=4.6",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/global.css?ver=1651144919",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-11.css?ver=1651144919",
+    "https://fonts.googleapis.com/css2?family=Montserrat%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900%3B1%2C300%3B1%2C400%3B1%2C700%3B1%2C900&ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/fonts/futura/stylesheet.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/vendors/font-awesome-4.7.0/css/font-awesome.min.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/vendors/fancybox-master/dist/jquery.fancybox.min.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/vendors/slick/slick.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/css/animate.min.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/vendors/bootstrap4/css/bootstrap.min.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/css/wc-style.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/css/button-animation.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/css/gforms.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/css/animation.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/css/defaults.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/css/custom.css?ver=5.9.16",
+    "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.9.16",
+    "https://seoguarantee.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+    "https://seoguarantee.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+    "https://seoguarantee.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3",
+    "https://seoguarantee.com/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.4.23",
+    "https://seoguarantee.com/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.4.23",
+    "https://seoguarantee.com/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.4.23",
+    "https://seoguarantee.com/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.4.23",
+    "https://seoguarantee.com/wp-content/plugins/wpforms/assets/css/wpforms-full.min.css?ver=1.6.3.1",
+    "https://seoguarantee.com/wp-content/plugins/ameliabooking/public/css/frontend/vendor.css?ver=4.6",
+    "https://seoguarantee.com/wp-content/uploads/amelia/css/amelia-booking.NIARPyrBeb.css?ver=4.6",
+    "https://seoguarantee.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=6.4.2",
+    "https://seoguarantee.com/wp-content/plugins/woocommerce-subscriptions/assets/css/checkout.css?ver=6.4.2",
+    "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.9.16",
+    "https://seoguarantee.com/wp-content/plugins/woocommerce-subscriptions/assets/css/view-subscription.css?ver=3.0.12",
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=5.9.16",
+    "https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css?ver=5.9.16",
+    "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css?ver=5.9.16",
+    "https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/css/bootstrap-select.min.css?ver=5.9.16",
+    "https://fonts.googleapis.com/css?family=Raleway%7CRock+Salt%7CSource+Code+Pro%3A300%2C400%2C600%22+rel%3D%22stylesheet&ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/includes/PMS/css/styles.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/includes/PMS/_ext/Client_Portal/css/woo.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/includes/PMS/_ext/Client_Portal/css/styles.css?ver=5.9.16",
+    "https://cdn.datatables.net/v/bs4-4.6.0/dt-1.10.25/datatables.min.css?ver=5.9.16",
+    "https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/includes/PMS/vendors/jquery-comments-master/css/jquery-comments.css?ver=5.9.16",
+    "https://fonts.googleapis.com/icon?family=Material+Icons&ver=5.9.16",
+    "https://seoguarantee.com/wp-content/themes/theme-child/includes/PMS/css/kanban.css?ver=5.9.16",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-3932.css?ver=1651412288",
+    "https://seoguarantee.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.5",
+    "https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700|Open+Sans:400,600|Roboto",
+    "https://ddmgaragedoors.com/css/foundation.min.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/5.3.1/css/jquery.mmenu.all.css",
+    "https://ddmgaragedoors.com/templates/global.css",
+    "https://ddmgaragedoors.com/templates/print.css",
+    "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
+    "https://ddmgaragedoors.com/css/blitzer18/jquery-ui.css",
+    "https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css",
+    "https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-13557.css?ver=1652731684",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-13702.css?ver=1651177599",
+    "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.9.16",
+    "https://seoguarantee.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-12755.css?ver=1651753849",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-13700.css?ver=1651163819",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-13701.css?ver=1651209331",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-13699.css?ver=1651169968",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7430.css?ver=1652136569",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7083.css?ver=1651178168",
+    "https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css",
+    "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+    "https://liquorlicenseagents.com/assets/front/css/main.min.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+    "https://liquorlicenseagents.com/assets/front/css/sgen-mobile-menu.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+    "https://liquorlicenseagents.com/assets/front/css/sgen-nav-enhancements.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+    "https://liquorlicenseagents.com/assets/front/vendors/swiper/swiper-bundle.min.css",
+    "https://liquorlicenseagents.com/assets/defaults/sgen/assets/css/sg-drawer.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+    "https://liquorlicenseagents.com/assets/front/css/locations.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+    "https://liquorlicenseagents.com/assets/front/css/locations-picker.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+    "https://liquorlicenseagents.com/assets/front/css/sgen-accessibility.min.css",
+    "https://liquorlicenseagents.com/assets/front/css/ecommerce.css",
+    "https://liquorlicenseagents.com/assets/dispenza/css/dispenza.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-30027.css?ver=1651948331",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@300..700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap",
+    "https://nuleafnv.com/wp-content/themes/beyond-hello7/assets/vendor/leaflet.css?ver=1.9.4",
+    "https://nuleafnv.com/wp-content/themes/beyond-hello7/assets/css/bh-style.css?ver=2.49.0",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8726.css?ver=1651209333",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7100.css?ver=1651163821",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7114.css?ver=1651163832",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7123.css?ver=1651148845",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7129.css?ver=1651209335",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7134.css?ver=1651163836",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7139.css?ver=1651163823",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8501.css?ver=1651144987",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8507.css?ver=1651193799",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8516.css?ver=1651163804",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8518.css?ver=1651209335",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8526.css?ver=1651163826",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-184.css?ver=1651172518",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8538.css?ver=1651150022",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8545.css?ver=1651164396",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8558.css?ver=1651163814",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8561.css?ver=1651185356",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8611.css?ver=1651209336",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8614.css?ver=1651209336",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8617.css?ver=1651163830",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8651.css?ver=1651163541",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8669.css?ver=1651163834",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8685.css?ver=1651163801",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8687.css?ver=1651163839",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8695.css?ver=1651163812",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8706.css?ver=1651206474",
+    "https://seoguarantee.com/wp-content/plugins/gravityformsstripe/css/frontend.min.css?ver=3.8.5",
+    "https://seoguarantee.com/wp-content/uploads/elementor/css/post-5858.css?ver=1652099773"
+  ],
+  "saved": [
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=7.2.2",
+      "savedAs": "wp-content-plugins-woocommerce-packages-woocommerce-blocks-build-wc-blocks-vendors-style.css-ver-7.2.2.css",
+      "bytes": 4933
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/includes/Portfolio/css/styles.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-includes-Portfolio-css-styles.css-ver-5.9.16.css",
+      "bytes": 5405
+    },
+    {
+      "url": "https://seoguarantee.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9.16",
+      "savedAs": "wp-includes-css-dist-block-library-style.min.css-ver-5.9.16.css",
+      "bytes": 83419
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=6.4.2",
+      "savedAs": "wp-content-plugins-woocommerce-assets-css-woocommerce-layout.css-ver-6.4.2.css",
+      "bytes": 17809
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=7.2.2",
+      "savedAs": "wp-content-plugins-woocommerce-packages-woocommerce-blocks-build-wc-blocks-style.css-ver-7.2.2.css",
+      "bytes": 212343
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=6.4.2",
+      "savedAs": "wp-content-plugins-woocommerce-assets-css-woocommerce-smallscreen.css-ver-6.4.2.css",
+      "bytes": 7043
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/woocommerce/assets/css/twenty-twenty-one.css?ver=6.4.2",
+      "savedAs": "wp-content-plugins-woocommerce-assets-css-twenty-twenty-one.css-ver-6.4.2.css",
+      "bytes": 54188
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/business-reviews-bundle/assets/css/public-main.css?ver=1.8.9",
+      "savedAs": "wp-content-plugins-business-reviews-bundle-assets-css-public-main.css-ver-1.8.9.css",
+      "bytes": 37317
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/twentytwentyone/style.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-twentytwentyone-style.css-ver-5.9.16.css",
+      "bytes": 162378
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/twentytwentyone/style.css?ver=1.0.0",
+      "savedAs": "wp-content-themes-twentytwentyone-style.css-ver-1.0.0.css",
+      "bytes": 162378
+    },
+    {
+      "url": "https://seoguarantee.com/wp-includes/css/dashicons.min.css?ver=5.9.16",
+      "savedAs": "wp-includes-css-dashicons.min.css-ver-5.9.16.css",
+      "bytes": 59016
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.0.0",
+      "savedAs": "wp-content-themes-twentytwentyone-assets-css-print.css-ver-1.0.0.css",
+      "bytes": 3075
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0",
+      "savedAs": "wp-content-plugins-elementor-assets-lib-eicons-css-elementor-icons.min.css-ver-5.15.0.css",
+      "bytes": 19128
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.5",
+      "savedAs": "wp-content-plugins-elementor-assets-css-frontend-lite.min.css-ver-3.6.5.css",
+      "bytes": 107922
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-2403.css?ver=1651144919",
+      "savedAs": "wp-content-uploads-elementor-css-post-2403.css-ver-1651144919.css",
+      "bytes": 1318
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/ameliabooking/public/css/frontend/elementor.css?ver=4.6",
+      "savedAs": "wp-content-plugins-ameliabooking-public-css-frontend-elementor.css-ver-4.6.css",
+      "bytes": 763
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/global.css?ver=1651144919",
+      "savedAs": "wp-content-uploads-elementor-css-global.css-ver-1651144919.css",
+      "bytes": 9475
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-11.css?ver=1651144919",
+      "savedAs": "wp-content-uploads-elementor-css-post-11.css-ver-1651144919.css",
+      "bytes": 76246
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Montserrat%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900%3B1%2C300%3B1%2C400%3B1%2C700%3B1%2C900&ver=5.9.16",
+      "savedAs": "css2-family-Montserrat-3Aital-2Cwght-400-2C300-3B0-2C400-3B0-2C500-3B0-2C600-3B0-2C700-3B0-2C800-3B0-3e3a33e4.css",
+      "bytes": 2278
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/fonts/futura/stylesheet.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-fonts-futura-stylesheet.css-ver-5.9.16.css",
+      "bytes": 11014
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/vendors/font-awesome-4.7.0/css/font-awesome.min.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-vendors-font-awesome-4.7.0-css-font-awesome.min.css-ver-5.9.16.css",
+      "bytes": 31000
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/vendors/fancybox-master/dist/jquery.fancybox.min.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-vendors-fancybox-master-dist-jquery.fancybox.min.css-ver-5.9.16.css",
+      "bytes": 12795
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/vendors/slick/slick.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-vendors-slick-slick.css-ver-5.9.16.css",
+      "bytes": 1776
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/css/animate.min.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-css-animate.min.css-ver-5.9.16.css",
+      "bytes": 58129
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/css/wc-style.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-css-wc-style.css-ver-5.9.16.css",
+      "bytes": 1170
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/vendors/bootstrap4/css/bootstrap.min.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-vendors-bootstrap4-css-bootstrap.min.css-ver-5.9.16.css",
+      "bytes": 144877
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/css/button-animation.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-css-button-animation.css-ver-5.9.16.css",
+      "bytes": 5663
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/css/gforms.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-css-gforms.css-ver-5.9.16.css",
+      "bytes": 1380
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/css/animation.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-css-animation.css-ver-5.9.16.css",
+      "bytes": 1498
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/css/defaults.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-css-defaults.css-ver-5.9.16.css",
+      "bytes": 10686
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.9.16",
+      "savedAs": "css-family-Roboto-3A100-2C100italic-2C200-2C200italic-2C300-2C300italic-2C400-2C400italic-2C500-2C50-893fa680.css",
+      "bytes": 9981
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/css/custom.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-css-custom.css-ver-5.9.16.css",
+      "bytes": 82692
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+      "savedAs": "wp-content-plugins-elementor-assets-lib-font-awesome-css-fontawesome.min.css-ver-5.15.3.css",
+      "bytes": 57912
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3",
+      "savedAs": "wp-content-plugins-elementor-assets-lib-font-awesome-css-solid.min.css-ver-5.15.3.css",
+      "bytes": 669
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3",
+      "savedAs": "wp-content-plugins-elementor-assets-lib-font-awesome-css-regular.min.css-ver-5.15.3.css",
+      "bytes": 677
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.4.23",
+      "savedAs": "wp-content-plugins-gravityforms-css-formreset.min.css-ver-2.4.23.css",
+      "bytes": 3860
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.4.23",
+      "savedAs": "wp-content-plugins-gravityforms-css-formsmain.min.css-ver-2.4.23.css",
+      "bytes": 74370
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.4.23",
+      "savedAs": "wp-content-plugins-gravityforms-css-readyclass.min.css-ver-2.4.23.css",
+      "bytes": 30439
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.4.23",
+      "savedAs": "wp-content-plugins-gravityforms-css-browsers.min.css-ver-2.4.23.css",
+      "bytes": 7545
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=6.4.2",
+      "savedAs": "wp-content-plugins-woocommerce-assets-css-select2.css-ver-6.4.2.css",
+      "bytes": 14615
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/wpforms/assets/css/wpforms-full.min.css?ver=1.6.3.1",
+      "savedAs": "wp-content-plugins-wpforms-assets-css-wpforms-full.min.css-ver-1.6.3.1.css",
+      "bytes": 39919
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/ameliabooking/public/css/frontend/vendor.css?ver=4.6",
+      "savedAs": "wp-content-plugins-ameliabooking-public-css-frontend-vendor.css-ver-4.6.css",
+      "bytes": 314786
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.9.16",
+      "savedAs": "css-family-Roboto-3A100-2C100italic-2C200-2C200italic-2C300-2C300italic-2C400-2C400italic-2C500-2C50-43233574.css",
+      "bytes": 6192
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/amelia/css/amelia-booking.NIARPyrBeb.css?ver=4.6",
+      "savedAs": "wp-content-uploads-amelia-css-amelia-booking.NIARPyrBeb.css-ver-4.6.css",
+      "bytes": 877992
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=5.9.16",
+      "savedAs": "ajax-libs-font-awesome-4.7.0-css-font-awesome.min.css-ver-5.9.16.css",
+      "bytes": 31000
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/woocommerce-subscriptions/assets/css/checkout.css?ver=6.4.2",
+      "savedAs": "wp-content-plugins-woocommerce-subscriptions-assets-css-checkout.css-ver-6.4.2.css",
+      "bytes": 627
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/woocommerce-subscriptions/assets/css/view-subscription.css?ver=3.0.12",
+      "savedAs": "wp-content-plugins-woocommerce-subscriptions-assets-css-view-subscription.css-ver-3.0.12.css",
+      "bytes": 1483
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/css/bootstrap-select.min.css?ver=5.9.16",
+      "savedAs": "npm-bootstrap-select-1.13.14-dist-css-bootstrap-select.min.css-ver-5.9.16.css",
+      "bytes": 11120
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css?ver=5.9.16",
+      "savedAs": "ajax-libs-jquery-confirm-3.3.2-jquery-confirm.min.css-ver-5.9.16.css",
+      "bytes": 22538
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css?ver=5.9.16",
+      "savedAs": "ajax-libs-twitter-bootstrap-4.6.0-css-bootstrap.min.css-ver-5.9.16.css",
+      "bytes": 161409
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Raleway%7CRock+Salt%7CSource+Code+Pro%3A300%2C400%2C600%22+rel%3D%22stylesheet&ver=5.9.16",
+      "savedAs": "css-family-Raleway-7CRock-Salt-7CSource-Code-Pro-3A300-2C400-2C600-22-rel-3D-22stylesheet-ver-5.9.16.css",
+      "bytes": 1058
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/includes/PMS/css/styles.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-includes-PMS-css-styles.css-ver-5.9.16.css",
+      "bytes": 33926
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/includes/PMS/_ext/Client_Portal/css/woo.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-includes-PMS-_ext-Client_Portal-css-woo.css-ver-5.9.16.css",
+      "bytes": 371
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css?ver=5.9.16",
+      "savedAs": "npm-daterangepicker-daterangepicker.css-ver-5.9.16.css",
+      "bytes": 8069
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/includes/PMS/_ext/Client_Portal/css/styles.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-includes-PMS-_ext-Client_Portal-css-styles.css-ver-5.9.16.css",
+      "bytes": 27833
+    },
+    {
+      "url": "https://fonts.googleapis.com/icon?family=Material+Icons&ver=5.9.16",
+      "savedAs": "icon-family-Material-Icons-ver-5.9.16.css",
+      "bytes": 514
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/includes/PMS/vendors/jquery-comments-master/css/jquery-comments.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-includes-PMS-vendors-jquery-comments-master-css-jquery-comments.css-ver-5.9.16.css",
+      "bytes": 16280
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/themes/theme-child/includes/PMS/css/kanban.css?ver=5.9.16",
+      "savedAs": "wp-content-themes-theme-child-includes-PMS-css-kanban.css-ver-5.9.16.css",
+      "bytes": 10110
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-3932.css?ver=1651412288",
+      "savedAs": "wp-content-uploads-elementor-css-post-3932.css-ver-1651412288.css",
+      "bytes": 2122
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700|Open+Sans:400,600|Roboto",
+      "savedAs": "css-family-Roboto-Condensed-300-400-700-Open-Sans-400-600-Roboto.css",
+      "bytes": 1413
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/5.3.1/css/jquery.mmenu.all.css",
+      "savedAs": "ajax-libs-jQuery.mmenu-5.3.1-css-jquery.mmenu.all.css",
+      "bytes": 45828
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.5",
+      "savedAs": "wp-content-plugins-elementor-assets-lib-animations-animations.min.css-ver-3.6.5.css",
+      "bytes": 18468
+    },
+    {
+      "url": "https://cdn.datatables.net/v/bs4-4.6.0/dt-1.10.25/datatables.min.css?ver=5.9.16",
+      "savedAs": "v-bs4-4.6.0-dt-1.10.25-datatables.min.css-ver-5.9.16.css",
+      "bytes": 166945
+    },
+    {
+      "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
+      "savedAs": "font-awesome-4.3.0-css-font-awesome.min.css",
+      "bytes": 23739
+    },
+    {
+      "url": "https://ddmgaragedoors.com/css/foundation.min.css",
+      "savedAs": "css-foundation.min.css",
+      "bytes": 54142
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css",
+      "savedAs": "jquery.slick-1.6.0-slick.css",
+      "bytes": 1729
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css",
+      "savedAs": "jquery.slick-1.6.0-slick-theme.css",
+      "bytes": 3145
+    },
+    {
+      "url": "https://ddmgaragedoors.com/templates/global.css",
+      "savedAs": "templates-global.css",
+      "bytes": 24638
+    },
+    {
+      "url": "https://ddmgaragedoors.com/templates/print.css",
+      "savedAs": "templates-print.css",
+      "bytes": 391
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.9.16",
+      "savedAs": "css-family-Roboto-3A100-2C100italic-2C200-2C200italic-2C300-2C300italic-2C400-2C400italic-2C500-2C50-31dcd21e.css",
+      "bytes": 13336
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-13557.css?ver=1652731684",
+      "savedAs": "wp-content-uploads-elementor-css-post-13557.css-ver-1652731684.css",
+      "bytes": 8013
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-13702.css?ver=1651177599",
+      "savedAs": "wp-content-uploads-elementor-css-post-13702.css-ver-1651177599.css",
+      "bytes": 59031
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css",
+      "savedAs": "wp-content-plugins-elementor-assets-css-widget-icon-list.min.css",
+      "bytes": 11775
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-12755.css?ver=1651753849",
+      "savedAs": "wp-content-uploads-elementor-css-post-12755.css-ver-1651753849.css",
+      "bytes": 64595
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-13700.css?ver=1651163819",
+      "savedAs": "wp-content-uploads-elementor-css-post-13700.css-ver-1651163819.css",
+      "bytes": 62386
+    },
+    {
+      "url": "https://ddmgaragedoors.com/css/blitzer18/jquery-ui.css",
+      "savedAs": "css-blitzer18-jquery-ui.css",
+      "bytes": 35580
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-13701.css?ver=1651209331",
+      "savedAs": "wp-content-uploads-elementor-css-post-13701.css-ver-1651209331.css",
+      "bytes": 63325
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css",
+      "savedAs": "npm-bootstrap-5.3.8-dist-css-bootstrap.min.css",
+      "bytes": 232111
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-13699.css?ver=1651169968",
+      "savedAs": "wp-content-uploads-elementor-css-post-13699.css-ver-1651169968.css",
+      "bytes": 63552
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7430.css?ver=1652136569",
+      "savedAs": "wp-content-uploads-elementor-css-post-7430.css-ver-1652136569.css",
+      "bytes": 2313
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+      "savedAs": "css2-family-Open-Sans-ital-wght-0-300-0-400-0-500-0-600-0-700-0-800-0-900-1-300-1-400-1-500-1-600-1--39624c2c.css",
+      "bytes": 3198
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7083.css?ver=1651178168",
+      "savedAs": "wp-content-uploads-elementor-css-post-7083.css-ver-1651178168.css",
+      "bytes": 54463
+    },
+    {
+      "url": "https://liquorlicenseagents.com/assets/front/css/sgen-mobile-menu.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+      "savedAs": "assets-front-css-sgen-mobile-menu.css-v-c0b8d1b652bbb60901c5e766d1f79594e3b7002c.css",
+      "bytes": 21606
+    },
+    {
+      "url": "https://liquorlicenseagents.com/assets/front/vendors/swiper/swiper-bundle.min.css",
+      "savedAs": "assets-front-vendors-swiper-swiper-bundle.min.css",
+      "bytes": 18454
+    },
+    {
+      "url": "https://liquorlicenseagents.com/assets/front/css/main.min.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+      "savedAs": "assets-front-css-main.min.css-v-c0b8d1b652bbb60901c5e766d1f79594e3b7002c.css",
+      "bytes": 217595
+    },
+    {
+      "url": "https://liquorlicenseagents.com/assets/front/css/sgen-nav-enhancements.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+      "savedAs": "assets-front-css-sgen-nav-enhancements.css-v-c0b8d1b652bbb60901c5e766d1f79594e3b7002c.css",
+      "bytes": 6569
+    },
+    {
+      "url": "https://liquorlicenseagents.com/assets/defaults/sgen/assets/css/sg-drawer.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+      "savedAs": "assets-defaults-sgen-assets-css-sg-drawer.css-v-c0b8d1b652bbb60901c5e766d1f79594e3b7002c.css",
+      "bytes": 3886
+    },
+    {
+      "url": "https://liquorlicenseagents.com/assets/front/css/locations.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+      "savedAs": "assets-front-css-locations.css-v-c0b8d1b652bbb60901c5e766d1f79594e3b7002c.css",
+      "bytes": 6971
+    },
+    {
+      "url": "https://liquorlicenseagents.com/assets/front/css/locations-picker.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+      "savedAs": "assets-front-css-locations-picker.css-v-c0b8d1b652bbb60901c5e766d1f79594e3b7002c.css",
+      "bytes": 7304
+    },
+    {
+      "url": "https://liquorlicenseagents.com/assets/front/css/sgen-accessibility.min.css",
+      "savedAs": "assets-front-css-sgen-accessibility.min.css",
+      "bytes": 16913
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Inter:wght@300..700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap",
+      "savedAs": "css2-family-Inter-wght-300..700-family-Josefin-Sans-ital-wght-0-100..700-1-100..700-display-swap.css",
+      "bytes": 4442
+    },
+    {
+      "url": "https://liquorlicenseagents.com/assets/front/css/ecommerce.css",
+      "savedAs": "assets-front-css-ecommerce.css",
+      "bytes": 32090
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-30027.css?ver=1651948331",
+      "savedAs": "wp-content-uploads-elementor-css-post-30027.css-ver-1651948331.css",
+      "bytes": 2670
+    },
+    {
+      "url": "https://liquorlicenseagents.com/assets/dispenza/css/dispenza.css?v=c0b8d1b652bbb60901c5e766d1f79594e3b7002c",
+      "savedAs": "assets-dispenza-css-dispenza.css-v-c0b8d1b652bbb60901c5e766d1f79594e3b7002c.css",
+      "bytes": 58938
+    },
+    {
+      "url": "https://nuleafnv.com/wp-content/themes/beyond-hello7/assets/vendor/leaflet.css?ver=1.9.4",
+      "savedAs": "wp-content-themes-beyond-hello7-assets-vendor-leaflet.css-ver-1.9.4.css",
+      "bytes": 14806
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8726.css?ver=1651209333",
+      "savedAs": "wp-content-uploads-elementor-css-post-8726.css-ver-1651209333.css",
+      "bytes": 48399
+    },
+    {
+      "url": "https://nuleafnv.com/wp-content/themes/beyond-hello7/assets/css/bh-style.css?ver=2.49.0",
+      "savedAs": "wp-content-themes-beyond-hello7-assets-css-bh-style.css-ver-2.49.0.css",
+      "bytes": 128854
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7100.css?ver=1651163821",
+      "savedAs": "wp-content-uploads-elementor-css-post-7100.css-ver-1651163821.css",
+      "bytes": 92568
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7123.css?ver=1651148845",
+      "savedAs": "wp-content-uploads-elementor-css-post-7123.css-ver-1651148845.css",
+      "bytes": 92698
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7114.css?ver=1651163832",
+      "savedAs": "wp-content-uploads-elementor-css-post-7114.css-ver-1651163832.css",
+      "bytes": 92674
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7129.css?ver=1651209335",
+      "savedAs": "wp-content-uploads-elementor-css-post-7129.css-ver-1651209335.css",
+      "bytes": 92689
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7134.css?ver=1651163836",
+      "savedAs": "wp-content-uploads-elementor-css-post-7134.css-ver-1651163836.css",
+      "bytes": 92666
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-7139.css?ver=1651163823",
+      "savedAs": "wp-content-uploads-elementor-css-post-7139.css-ver-1651163823.css",
+      "bytes": 92667
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8501.css?ver=1651144987",
+      "savedAs": "wp-content-uploads-elementor-css-post-8501.css-ver-1651144987.css",
+      "bytes": 92689
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8507.css?ver=1651193799",
+      "savedAs": "wp-content-uploads-elementor-css-post-8507.css-ver-1651193799.css",
+      "bytes": 92671
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8516.css?ver=1651163804",
+      "savedAs": "wp-content-uploads-elementor-css-post-8516.css-ver-1651163804.css",
+      "bytes": 92654
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8526.css?ver=1651163826",
+      "savedAs": "wp-content-uploads-elementor-css-post-8526.css-ver-1651163826.css",
+      "bytes": 92644
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8518.css?ver=1651209335",
+      "savedAs": "wp-content-uploads-elementor-css-post-8518.css-ver-1651209335.css",
+      "bytes": 92633
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-184.css?ver=1651172518",
+      "savedAs": "wp-content-uploads-elementor-css-post-184.css-ver-1651172518.css",
+      "bytes": 90202
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8538.css?ver=1651150022",
+      "savedAs": "wp-content-uploads-elementor-css-post-8538.css-ver-1651150022.css",
+      "bytes": 92637
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8545.css?ver=1651164396",
+      "savedAs": "wp-content-uploads-elementor-css-post-8545.css-ver-1651164396.css",
+      "bytes": 92697
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8558.css?ver=1651163814",
+      "savedAs": "wp-content-uploads-elementor-css-post-8558.css-ver-1651163814.css",
+      "bytes": 92705
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8561.css?ver=1651185356",
+      "savedAs": "wp-content-uploads-elementor-css-post-8561.css-ver-1651185356.css",
+      "bytes": 92685
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8611.css?ver=1651209336",
+      "savedAs": "wp-content-uploads-elementor-css-post-8611.css-ver-1651209336.css",
+      "bytes": 92675
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8614.css?ver=1651209336",
+      "savedAs": "wp-content-uploads-elementor-css-post-8614.css-ver-1651209336.css",
+      "bytes": 92701
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8617.css?ver=1651163830",
+      "savedAs": "wp-content-uploads-elementor-css-post-8617.css-ver-1651163830.css",
+      "bytes": 92685
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8651.css?ver=1651163541",
+      "savedAs": "wp-content-uploads-elementor-css-post-8651.css-ver-1651163541.css",
+      "bytes": 92679
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8669.css?ver=1651163834",
+      "savedAs": "wp-content-uploads-elementor-css-post-8669.css-ver-1651163834.css",
+      "bytes": 92662
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8685.css?ver=1651163801",
+      "savedAs": "wp-content-uploads-elementor-css-post-8685.css-ver-1651163801.css",
+      "bytes": 92677
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8687.css?ver=1651163839",
+      "savedAs": "wp-content-uploads-elementor-css-post-8687.css-ver-1651163839.css",
+      "bytes": 92695
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8695.css?ver=1651163812",
+      "savedAs": "wp-content-uploads-elementor-css-post-8695.css-ver-1651163812.css",
+      "bytes": 92678
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-8706.css?ver=1651206474",
+      "savedAs": "wp-content-uploads-elementor-css-post-8706.css-ver-1651206474.css",
+      "bytes": 92655
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/plugins/gravityformsstripe/css/frontend.min.css?ver=3.8.5",
+      "savedAs": "wp-content-plugins-gravityformsstripe-css-frontend.min.css-ver-3.8.5.css",
+      "bytes": 718
+    },
+    {
+      "url": "https://seoguarantee.com/wp-content/uploads/elementor/css/post-5858.css?ver=1652099773",
+      "savedAs": "wp-content-uploads-elementor-css-post-5858.css-ver-1652099773.css",
+      "bytes": 57078
+    }
+  ]
+}

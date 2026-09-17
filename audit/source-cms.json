@@ -1,0 +1,47 @@
+{
+  "schema": "site-reforge/source-cms@1",
+  "generated": "2026-09-05T01:05:21.879Z",
+  "detected": [
+    {
+      "id": "wordpress",
+      "label": "WordPress",
+      "matchedPatterns": 5,
+      "evidence": [
+        "/\\/wp-content\\//i",
+        "/\\/wp-includes\\//i",
+        "/\\/wp-json\\//i"
+      ],
+      "pages": 170
+    },
+    {
+      "id": "elementor",
+      "label": "Elementor",
+      "matchedPatterns": 2,
+      "evidence": [
+        "/elementor-(?:widget|section|element|column|kit)/i",
+        "/\\/elementor\\/assets\\//i"
+      ],
+      "pages": 169
+    },
+    {
+      "id": "woocommerce",
+      "label": "WooCommerce",
+      "matchedPatterns": 2,
+      "evidence": [
+        "/woocommerce/i",
+        "/wc-block/i"
+      ],
+      "pages": 169
+    },
+    {
+      "id": "divi",
+      "label": "Divi",
+      "matchedPatterns": 1,
+      "evidence": [
+        "/et_pb_(?:section|row|module)/i"
+      ],
+      "pages": 1
+    }
+  ],
+  "note": "Every id listed here MUST be absent from dist/ before packaging. sr-decontaminate.mjs enforces it."
+}

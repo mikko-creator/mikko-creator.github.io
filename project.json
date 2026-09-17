@@ -1,0 +1,140 @@
+{
+  "schema": "site-reforge/project@1",
+  "name": "seoguarantee-com",
+  "targetUrl": "https://seoguarantee.com/",
+  "origin": "https://seoguarantee.com",
+  "createdAt": "2026-09-03T17:06:31.646Z",
+  "updatedAt": "2026-09-17T00:31:10.868Z",
+  "config": {
+    "maxPages": 300,
+    "concurrency": 4,
+    "includeSubdomains": false,
+    "breakpoints": [
+      390,
+      768,
+      1024,
+      1440
+    ],
+    "pixelDiffThreshold": 0.02,
+    "contentRecallFloor": 0.95,
+    "requestDelayMs": 150
+  },
+  "tooling": {
+    "browser": "unknown",
+    "imageGen": "unknown",
+    "detectedAt": null
+  },
+  "stages": {
+    "intake": {
+      "status": "done",
+      "at": "2026-09-03T17:06:31.647Z",
+      "note": "workspace created"
+    },
+    "crawl": {
+      "status": "done",
+      "at": "2026-09-05T00:46:55.388Z",
+      "note": "178 pages, 5 failed"
+    },
+    "extract": {
+      "status": "done",
+      "at": "2026-09-05T01:05:21.881Z",
+      "note": "172 pages extracted"
+    },
+    "assets": {
+      "status": "partial",
+      "at": "2026-09-05T00:49:52.432Z",
+      "note": "602/962 assets on disk"
+    },
+    "capture": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "tokens": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "motion": {
+      "status": "done",
+      "at": "2026-09-10T16:26:15.383Z",
+      "note": "210 keyframes, 2716 animated elements"
+    },
+    "presets": {
+      "status": "done",
+      "at": "2026-09-05T00:59:05.279Z",
+      "note": "66 presets from 172 files"
+    },
+    "ux": {
+      "status": "partial",
+      "at": "2026-09-05T00:59:53.251Z",
+      "note": "1200 rows, 1200 UNSET"
+    },
+    "brand": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "implement": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "responsive": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "seo": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "performance": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "decontaminate": {
+      "status": "done",
+      "at": "2026-09-17T00:29:54.442Z",
+      "note": "CLEAN (0 traces)"
+    },
+    "parity": {
+      "status": "fail",
+      "at": "2026-09-17T00:29:56.984Z",
+      "note": "DRIFT — 396 findings"
+    },
+    "fabrication": {
+      "status": "fail",
+      "at": "2026-09-17T00:30:06.507Z",
+      "note": "FABRICATION — 1857 findings"
+    },
+    "pixeldiff": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "sweep": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "functional": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "gate": {
+      "status": "fail",
+      "at": "2026-09-17T00:31:10.868Z",
+      "note": "NOT-READY — 15/28 passing"
+    },
+    "package": {
+      "status": "forced",
+      "at": "2026-09-11T07:52:58.042Z",
+      "note": "seoguarantee-com-handoff-v20260911.zip — 1737 entries, 101167637 bytes"
+    }
+  },
+  "notes": []
+}

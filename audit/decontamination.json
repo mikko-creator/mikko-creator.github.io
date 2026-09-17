@@ -1,0 +1,12 @@
+{
+  "schema": "site-reforge/decontamination@1",
+  "generated": "2026-09-17T00:29:54.438Z",
+  "target": "C:\\Users\\Dell\\seoguarantee-FINAL\\dist",
+  "filesFound": 158,
+  "filesScanned": 158,
+  "filesSkipped": 0,
+  "counts": {},
+  "clean": true,
+  "verdict": "CLEAN",
+  "findings": []
+}

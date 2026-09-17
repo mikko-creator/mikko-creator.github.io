@@ -1,0 +1,1891 @@
+{
+  "schema": "site-reforge/failures@1",
+  "items": [
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/blez-magazine-forward",
+      "reason": "redirect-loop-or-bad-location",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/blez-magazine-forward",
+            "status": 301,
+            "to": "http://theblez.com/"
+          },
+          {
+            "from": "http://theblez.com/",
+            "status": 301,
+            "to": null
+          }
+        ]
+      },
+      "at": "2026-09-05T00:10:05.832Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/about-us",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-09-05T00:13:01.594Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:01.610Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/seo-blog/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/seo-blog/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/seo-blog/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:05.234Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/beginner-seo-tips-and-tricks/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/beginner-seo-tips-and-tricks/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/beginner-seo-tips-and-tricks/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:05.247Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/13-seo-chrome-extensions-that-are-free/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/13-seo-chrome-extensions-that-are-free/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/13-seo-chrome-extensions-that-are-free/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:05.247Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/9-seo-strategies-effective-in-2020/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/9-seo-strategies-effective-in-2020/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/9-seo-strategies-effective-in-2020/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:08.168Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/search-engine-optimization-factors/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/search-engine-optimization-factors/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/search-engine-optimization-factors/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:08.168Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/authority-and-search-rankings/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/authority-and-search-rankings/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/authority-and-search-rankings/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:08.180Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/2020/04/21/5-important-seo-tips-and-tricks",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-09-05T00:13:10.871Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/5-important-seo-tips-and-tricks/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/5-important-seo-tips-and-tricks/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/5-important-seo-tips-and-tricks/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:10.871Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/las-vegas-seo-firm/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/las-vegas-seo-firm/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/las-vegas-seo-firm/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:10.871Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/las-vegas-seo-company/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/las-vegas-seo-company/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/las-vegas-seo-company/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:13.357Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/las-vegas-seo-expert/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/las-vegas-seo-expert/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/las-vegas-seo-expert/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:13.357Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/church-marketing/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/church-marketing/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/church-marketing/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:13.357Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/booking/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/booking/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/booking/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:13.357Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/funeral-home-marketing/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/funeral-home-marketing/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/funeral-home-marketing/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:16.970Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/payment-authorization/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/payment-authorization/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/payment-authorization/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:16.970Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/cart/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/cart/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/cart/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:16.982Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/independent-contractor-agreement/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/independent-contractor-agreement/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/independent-contractor-agreement/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:19.759Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-team/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-team/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-team/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:19.760Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/earn-residual-income/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/earn-residual-income/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/earn-residual-income/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:19.760Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/erp-subscription/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/erp-subscription/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/erp-subscription/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:19.760Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/invoice/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/invoice/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/invoice/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:22.499Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/projects/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/projects/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/projects/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:22.499Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/cpm/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/cpm/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/cpm/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:22.499Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/activity/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/activity/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/activity/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:22.499Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/members/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/members/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/members/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:25.783Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/test-editor/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/test-editor/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/test-editor/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:25.783Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/seo-audit/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/seo-audit/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/seo-audit/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:25.783Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/new-las-vegas-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/new-las-vegas-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/new-las-vegas-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:25.783Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/cro-page/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/cro-page/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/cro-page/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:28.251Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/pm/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/pm/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/pm/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:28.251Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/audit/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/audit/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/audit/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:28.251Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/theblez",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-09-05T00:13:28.251Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/nuleaf-nv",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-09-05T00:13:30.834Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/seo-new/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/seo-new/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/seo-new/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:30.845Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/las-vegas-seo-service-new/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/las-vegas-seo-service-new/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/las-vegas-seo-service-new/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:30.845Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/ipowerteam/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/ipowerteam/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/ipowerteam/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:33.573Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/thank-you/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/thank-you/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/thank-you/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:33.573Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/industries/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/industries/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/industries/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:33.573Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/default-page/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/default-page/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/default-page/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:33.573Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/services/las-vegas-web-design/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/services/las-vegas-web-design/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/services/las-vegas-web-design/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:38.006Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/contact-us/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/contact-us/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/contact-us/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:38.006Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/videos/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/videos/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/videos/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:38.006Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/austin-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/austin-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/austin-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:38.006Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/arlington-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/arlington-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/arlington-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:40.723Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/baltimore-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/baltimore-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/baltimore-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:40.723Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/services/suite/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/services/suite/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/services/suite/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:40.735Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/services/las-vegas-conversion-rate-optimization/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/services/las-vegas-conversion-rate-optimization/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/services/las-vegas-conversion-rate-optimization/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:44.076Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/chicago-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/chicago-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/chicago-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:44.076Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/las-vegas-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/las-vegas-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/las-vegas-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:44.076Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/cleveland-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/cleveland-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/cleveland-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:44.076Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/dallas-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/dallas-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/dallas-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:46.787Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/atlanta-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/atlanta-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/atlanta-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:46.787Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/myrtle-beach-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/myrtle-beach-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/myrtle-beach-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:46.787Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/los-angeles-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/los-angeles-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/los-angeles-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:46.787Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/louisville-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/louisville-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/louisville-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:49.482Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/new-orleans-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/new-orleans-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/new-orleans-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:49.482Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/manhattan-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/manhattan-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/manhattan-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:49.482Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/miami-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/miami-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/miami-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:49.482Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/minneapolis-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/minneapolis-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/minneapolis-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:52.757Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/denver-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/denver-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/denver-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:52.758Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/houston-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/houston-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/houston-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:52.758Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/jacksonville-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/jacksonville-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/jacksonville-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:52.758Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/kansas-city-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/kansas-city-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/kansas-city-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:55.298Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/philadelphia-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/philadelphia-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/philadelphia-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:55.298Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/orlando-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/orlando-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/orlando-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:55.298Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/portland-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/portland-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/portland-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:55.298Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/san-antonio-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/san-antonio-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/san-antonio-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:57.843Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/san-diego-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/san-diego-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/san-diego-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:57.843Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/seattle-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/seattle-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/seattle-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:57.843Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/industries/law-firm/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/industries/law-firm/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/industries/law-firm/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:13:57.843Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/industries/air-conditioning-and-hvac/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/industries/air-conditioning-and-hvac/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/industries/air-conditioning-and-hvac/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:00.489Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/industries/contracting-companies/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/industries/contracting-companies/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/industries/contracting-companies/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:00.489Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/industries/medical-spa/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/industries/medical-spa/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/industries/medical-spa/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:00.489Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/industries/dental/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/industries/dental/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/industries/dental/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:00.489Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/e-signature-document/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/e-signature-document/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/e-signature-document/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:14.197Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/reserve-your-spot/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/reserve-your-spot/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/reserve-your-spot/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:14.197Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/client-portal/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/client-portal/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/client-portal/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:17.683Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/our-locations/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/our-locations/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/our-locations/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:36.138Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/location/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/location/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/location/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:36.138Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/location/las-vegas/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/location/las-vegas/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/location/las-vegas/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:36.138Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/rep/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/rep/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/rep/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:38.813Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/test-page/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/test-page/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/test-page/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:38.813Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/rep/james/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/rep/james/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/rep/james/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:38.813Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/rep/matt/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/rep/matt/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/rep/matt/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:38.813Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/rep/kate/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/rep/kate/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/rep/kate/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:41.620Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/rep/deandre/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/rep/deandre/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/rep/deandre/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:41.620Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/rep/sinan/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/rep/sinan/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/rep/sinan/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:41.620Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/rep/archer/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/rep/archer/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/rep/archer/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:41.620Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/rep/adam/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/rep/adam/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/rep/adam/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:44.752Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:44.752Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/fast-affordable-air/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/fast-affordable-air/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/fast-affordable-air/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:44.752Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/the-blez/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/the-blez/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/the-blez/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:44.752Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/ddm-garage-doors/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/ddm-garage-doors/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/ddm-garage-doors/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:47.947Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/liquor-license-agents/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/liquor-license-agents/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/liquor-license-agents/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:47.947Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/c-j-hewitt-construction/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/c-j-hewitt-construction/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/c-j-hewitt-construction/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:47.947Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/vegas-paint-pros/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/vegas-paint-pros/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/vegas-paint-pros/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:47.947Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/ozzys-golden-inc/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/ozzys-golden-inc/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/ozzys-golden-inc/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:50.343Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/jardin/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/jardin/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/jardin/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:50.343Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/southwest-injury-law/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/southwest-injury-law/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/southwest-injury-law/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:50.343Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/raich-law/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/raich-law/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/raich-law/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:50.343Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/hummus/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/hummus/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/hummus/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:52.935Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/david-minkin/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/david-minkin/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/david-minkin/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:52.935Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/las-vegas-real-estate/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/las-vegas-real-estate/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/las-vegas-real-estate/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:52.935Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/aa-printing-service/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/aa-printing-service/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/aa-printing-service/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:52.935Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/myvegasmag/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/myvegasmag/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/myvegasmag/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:55.449Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/master-of-buds/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/master-of-buds/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/master-of-buds/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:55.449Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/all-american/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/all-american/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/all-american/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:55.449Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/setiba-medical-spa/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/setiba-medical-spa/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/setiba-medical-spa/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:55.449Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/katy-dental/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/katy-dental/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/katy-dental/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:58.248Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/portfolio/mirazone-spa/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/portfolio/mirazone-spa/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/portfolio/mirazone-spa/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:58.248Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/category/las-vegas-seo-company/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/category/las-vegas-seo-company/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/category/las-vegas-seo-company/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:58.248Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/tag/how-to-do-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/tag/how-to-do-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/tag/how-to-do-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:14:58.248Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/tag/las-vegas-search-engine-optimization/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/tag/las-vegas-search-engine-optimization/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/tag/las-vegas-search-engine-optimization/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:15:00.817Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/tag/las-vegas-seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/tag/las-vegas-seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/tag/las-vegas-seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:15:00.817Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/tag/las-vegas-seo-company/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/tag/las-vegas-seo-company/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/tag/las-vegas-seo-company/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:15:00.817Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/tag/las-vegas-seo-expert/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/tag/las-vegas-seo-expert/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/tag/las-vegas-seo-expert/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:15:00.817Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/tag/las-vegas-seo-experts/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/tag/las-vegas-seo-experts/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/tag/las-vegas-seo-experts/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:15:03.898Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/tag/las-vegas-seo-firm/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/tag/las-vegas-seo-firm/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/tag/las-vegas-seo-firm/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:15:03.898Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/tag/las-vegas-seo-service/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/tag/las-vegas-seo-service/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/tag/las-vegas-seo-service/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:15:03.898Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/tag/las-vegas-seo-services/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/tag/las-vegas-seo-services/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/tag/las-vegas-seo-services/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:15:03.898Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/tag/las-vegas-seo-tips-and-tricks/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/tag/las-vegas-seo-tips-and-tricks/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/tag/las-vegas-seo-tips-and-tricks/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:15:07.004Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/tag/search-engine-optimization/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/tag/search-engine-optimization/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/tag/search-engine-optimization/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:15:07.004Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/tag/seo/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/tag/seo/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/tag/seo/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:15:07.004Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://seoguarantee.com/tag/seo-education/'+_l+'",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://seoguarantee.com/tag/seo-education/'+_l+'",
+            "status": 301,
+            "to": "https://seoguarantee.com/tag/seo-education/+_l+"
+          }
+        ]
+      },
+      "at": "2026-09-05T00:15:07.004Z"
+    }
+  ]
+}

@@ -1,0 +1,1361 @@
+{
+ "generated": "2026-09-10T15:41:03.463Z",
+ "build": 149,
+ "removed": [
+  {
+   "url": "https://seoguarantee.com/?page_id=279",
+   "path": "/?page_id=279",
+   "decision": "REMOVE",
+   "why": "duplicate of the WooCommerce shop page, reached by raw WP query id",
+   "words": 11
+  },
+  {
+   "url": "https://seoguarantee.com/activity",
+   "path": "/activity",
+   "decision": "REMOVE",
+   "why": "BuddyPress activity stream — logged-in plugin UI, 1 word, no public content",
+   "words": 1
+  },
+  {
+   "url": "https://seoguarantee.com/audit",
+   "path": "/audit",
+   "decision": "REMOVE",
+   "why": "empty WP stub, 1 word, no content ever published",
+   "words": 1
+  },
+  {
+   "url": "https://seoguarantee.com/author/alvin",
+   "path": "/author/alvin",
+   "decision": "REMOVE",
+   "why": "WordPress author archive — byte-duplicate of the homepage (771 words, same title)",
+   "words": 771
+  },
+  {
+   "url": "https://seoguarantee.com/author/mattsb",
+   "path": "/author/mattsb",
+   "decision": "REMOVE",
+   "why": "WordPress author archive — byte-duplicate of the homepage (771 words, same title)",
+   "words": 771
+  },
+  {
+   "url": "https://seoguarantee.com/booking",
+   "path": "/booking",
+   "decision": "REMOVE",
+   "why": "empty WP stub, 1 word",
+   "words": 1
+  },
+  {
+   "url": "https://seoguarantee.com/cart",
+   "path": "/cart",
+   "decision": "REMOVE",
+   "why": "WooCommerce cart — requires a live store backend a static build cannot serve",
+   "words": 9
+  },
+  {
+   "url": "https://seoguarantee.com/checkout",
+   "path": "/checkout",
+   "decision": "REMOVE",
+   "why": "WooCommerce checkout — requires payment backend; unsafe to ship as a shell",
+   "words": 9
+  },
+  {
+   "url": "https://seoguarantee.com/church-marketing",
+   "path": "/church-marketing",
+   "decision": "REMOVE",
+   "why": "empty WP stub, 2 words",
+   "words": 2
+  },
+  {
+   "url": "https://seoguarantee.com/client-portal",
+   "path": "/client-portal",
+   "decision": "REMOVE",
+   "why": "client login portal — authenticated app, no static equivalent",
+   "words": 208
+  },
+  {
+   "url": "https://seoguarantee.com/client-portal?action=forgot_password",
+   "path": "/client-portal?action=forgot_password",
+   "decision": "REMOVE",
+   "why": "client login portal — authenticated app, no static equivalent",
+   "words": 207
+  },
+  {
+   "url": "https://seoguarantee.com/client-portal?action=register",
+   "path": "/client-portal?action=register",
+   "decision": "REMOVE",
+   "why": "client login portal — authenticated app, no static equivalent",
+   "words": 199
+  },
+  {
+   "url": "https://seoguarantee.com/cpm",
+   "path": "/cpm",
+   "decision": "REMOVE",
+   "why": "empty WP stub, 2 words",
+   "words": 2
+  },
+  {
+   "url": "https://seoguarantee.com/e-signature-document",
+   "path": "/e-signature-document",
+   "decision": "REMOVE",
+   "why": "empty WP stub, 2 words",
+   "words": 2
+  },
+  {
+   "url": "https://seoguarantee.com/erp-subscription",
+   "path": "/erp-subscription",
+   "decision": "REMOVE",
+   "why": "empty WP stub, 2 words",
+   "words": 2
+  },
+  {
+   "url": "https://seoguarantee.com/industries",
+   "path": "/industries",
+   "decision": "REMOVE",
+   "why": "empty WP archive stub, 1 word — real content lives at /industries/*",
+   "words": 1
+  },
+  {
+   "url": "https://seoguarantee.com/invoice",
+   "path": "/invoice",
+   "decision": "REMOVE",
+   "why": "empty WP stub, 2 words",
+   "words": 2
+  },
+  {
+   "url": "https://seoguarantee.com/members",
+   "path": "/members",
+   "decision": "REMOVE",
+   "why": "BuddyPress member directory — logged-in plugin UI, 1 word",
+   "words": 1
+  },
+  {
+   "url": "https://seoguarantee.com/pm",
+   "path": "/pm",
+   "decision": "REMOVE",
+   "why": "empty WP stub, 2 words",
+   "words": 2
+  },
+  {
+   "url": "https://seoguarantee.com/projects",
+   "path": "/projects",
+   "decision": "REMOVE",
+   "why": "empty WP stub, 2 words",
+   "words": 2
+  },
+  {
+   "url": "https://seoguarantee.com/rep",
+   "path": "/rep",
+   "decision": "REMOVE",
+   "why": "empty WP stub, 1 word",
+   "words": 1
+  },
+  {
+   "url": "https://seoguarantee.com/test-editor",
+   "path": "/test-editor",
+   "decision": "REMOVE",
+   "why": "developer test artifact, 2 words",
+   "words": 2
+  },
+  {
+   "url": "https://seoguarantee.com/test-page",
+   "path": "/test-page",
+   "decision": "REMOVE",
+   "why": "developer test artifact, 2 words",
+   "words": 2
+  }
+ ],
+ "manifest": [
+  {
+   "url": "https://seoguarantee.com/",
+   "path": "/",
+   "pageType": "home",
+   "title": "SEO Company | First Page SEO Guarantee | Digital Marketing Agency",
+   "words": 771,
+   "h1": "We Only Charge For Our SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/13-seo-chrome-extensions-that-are-free",
+   "path": "/13-seo-chrome-extensions-that-are-free",
+   "pageType": "page",
+   "title": "13 SEO Chrome Extensions That Are Free - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 1131,
+   "h1": "13 SEO Chrome Extensions That Are Free"
+  },
+  {
+   "url": "https://seoguarantee.com/5-important-seo-tips-and-tricks",
+   "path": "/5-important-seo-tips-and-tricks",
+   "pageType": "page",
+   "title": "5 Important SEO Tips and Tricks | First Page SEO Guarantee",
+   "words": 719,
+   "h1": "5 Important SEO Tips and Tricks"
+  },
+  {
+   "url": "https://seoguarantee.com/9-seo-strategies-effective-in-2020",
+   "path": "/9-seo-strategies-effective-in-2020",
+   "pageType": "page",
+   "title": "9 SEO Strategies Effective In 2020 - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 818,
+   "h1": "9 SEO Strategies Effective In 2020"
+  },
+  {
+   "url": "https://seoguarantee.com/authority-and-search-rankings",
+   "path": "/authority-and-search-rankings",
+   "pageType": "page",
+   "title": "Authority and Search Rankings | First Page SEO Guarantee",
+   "words": 893,
+   "h1": "Authority and Search Rankings"
+  },
+  {
+   "url": "https://seoguarantee.com/beginner-seo-tips-and-tricks",
+   "path": "/beginner-seo-tips-and-tricks",
+   "pageType": "page",
+   "title": "Beginner SEO Tips and Tricks - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 812,
+   "h1": "Beginner SEO Tips and Tricks"
+  },
+  {
+   "url": "https://seoguarantee.com/category/las-vegas-seo-company",
+   "path": "/category/las-vegas-seo-company",
+   "pageType": "form",
+   "title": "Las Vegas SEO Company Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 722,
+   "h1": "Category: Las Vegas SEO Company"
+  },
+  {
+   "url": "https://seoguarantee.com/contact-us",
+   "path": "/contact-us",
+   "pageType": "page",
+   "title": "Contact Us | First Page SEO Guarantee | Las Vegas SEO Company",
+   "words": 39,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/cro-page",
+   "path": "/cro-page",
+   "pageType": "page",
+   "title": "CRO Las Vegas Convention Rate Optimization - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 95,
+   "h1": "CRO Las Vegas Convention Rate Optimization"
+  },
+  {
+   "url": "https://seoguarantee.com/ddm-magazine-forward",
+   "path": "/ddm-magazine-forward",
+   "pageType": "page",
+   "title": "Garage Door Springs | Garage Door Repair | DDM Garage Doors",
+   "words": 565,
+   "h1": "Garage Door Springs | Garage Door Repair | DDM Garage Doors"
+  },
+  {
+   "url": "https://seoguarantee.com/default-page",
+   "path": "/default-page",
+   "pageType": "page",
+   "title": "Default Page - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 136,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/earn-residual-income",
+   "path": "/earn-residual-income",
+   "pageType": "form",
+   "title": "Earn Residual Income - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 3,
+   "h1": "Earn Residual Income"
+  },
+  {
+   "url": "https://seoguarantee.com/funeral-home-marketing",
+   "path": "/funeral-home-marketing",
+   "pageType": "form",
+   "title": "Funeral Home Marketing - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 3,
+   "h1": "Funeral Home Marketing"
+  },
+  {
+   "url": "https://seoguarantee.com/independent-contractor-agreement",
+   "path": "/independent-contractor-agreement",
+   "pageType": "form",
+   "title": "Independent Contractor Agreement - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 5,
+   "h1": "Independent Contractor Agreement"
+  },
+  {
+   "url": "https://seoguarantee.com/industries/air-conditioning-and-hvac",
+   "path": "/industries/air-conditioning-and-hvac",
+   "pageType": "page",
+   "title": "Air Conditioning and HVAC - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 651,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/industries/contracting-companies",
+   "path": "/industries/contracting-companies",
+   "pageType": "article",
+   "title": "Contracting Companies - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 955,
+   "h1": "We Only Charge For Our SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/industries/dental",
+   "path": "/industries/dental",
+   "pageType": "article",
+   "title": "Dental - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 1007,
+   "h1": "We Only Charge For Our SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/industries/law-firm",
+   "path": "/industries/law-firm",
+   "pageType": "article",
+   "title": "Law Firm - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 987,
+   "h1": "We Only Charge For Our SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/industries/medical-spa",
+   "path": "/industries/medical-spa",
+   "pageType": "article",
+   "title": "Medical Spa - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 988,
+   "h1": "We Only Charge For Our SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/ipowerteam",
+   "path": "/ipowerteam",
+   "pageType": "form",
+   "title": "IpowerTeam - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 233,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/las-vegas-online-marketing/las-vegas-conversion-rate-optimization",
+   "path": "/las-vegas-online-marketing/las-vegas-conversion-rate-optimization",
+   "pageType": "form",
+   "title": "Las Vegas Conversion Rate Optimization | First Page SEO Guarantee",
+   "words": 567,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/las-vegas-online-marketing/las-vegas-web-design",
+   "path": "/las-vegas-online-marketing/las-vegas-web-design",
+   "pageType": "article",
+   "title": "Las Vegas Web Design Company | First Page SEO Guarantee",
+   "words": 329,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/las-vegas-seo-blog/authority-and-search-rankings",
+   "path": "/las-vegas-seo-blog/authority-and-search-rankings",
+   "pageType": "article",
+   "title": "Authority and Search Rankings | First Page SEO Guarantee",
+   "words": 893,
+   "h1": "Authority and Search Rankings"
+  },
+  {
+   "url": "https://seoguarantee.com/las-vegas-seo-company",
+   "path": "/las-vegas-seo-company",
+   "pageType": "page",
+   "title": "Las Vegas SEO Company | First Page SEO Guarantee",
+   "words": 760,
+   "h1": "Las Vegas SEO Company"
+  },
+  {
+   "url": "https://seoguarantee.com/las-vegas-seo-expert",
+   "path": "/las-vegas-seo-expert",
+   "pageType": "page",
+   "title": "Las Vegas SEO Expert | First Page SEO Guarantee",
+   "words": 701,
+   "h1": "Las Vegas SEO Expert"
+  },
+  {
+   "url": "https://seoguarantee.com/las-vegas-seo-firm",
+   "path": "/las-vegas-seo-firm",
+   "pageType": "page",
+   "title": "Las Vegas SEO Firm - First Consultation | First Page SEO Guarantee",
+   "words": 947,
+   "h1": "Las Vegas SEO Firm"
+  },
+  {
+   "url": "https://seoguarantee.com/las-vegas-seo-service-new",
+   "path": "/las-vegas-seo-service-new",
+   "pageType": "page",
+   "title": "Las Vegas SEO Service New - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 992,
+   "h1": "+800%"
+  },
+  {
+   "url": "https://seoguarantee.com/lla-magazine-forward",
+   "path": "/lla-magazine-forward",
+   "pageType": "page",
+   "title": "Best Liquor License Brokers and Consultants In California | Liquor License Agents",
+   "words": 223,
+   "h1": "THE LEADING LIQUOR LICENSE BROKER IN THE NATION"
+  },
+  {
+   "url": "https://seoguarantee.com/location",
+   "path": "/location",
+   "pageType": "form",
+   "title": "Location Las Vegas - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 3,
+   "h1": "Location Las Vegas"
+  },
+  {
+   "url": "https://seoguarantee.com/location/las-vegas",
+   "path": "/location/las-vegas",
+   "pageType": "page",
+   "title": "SEO Services | First Page SEO Guarantee | Las Vegas SEO",
+   "words": 239,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/locations/las-vegas-seo",
+   "path": "/locations/las-vegas-seo",
+   "pageType": "form",
+   "title": "SEO Blog | First Page SEO Guarantee | Las Vegas SEO Company",
+   "words": 717,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/new-las-vegas-seo",
+   "path": "/new-las-vegas-seo",
+   "pageType": "form",
+   "title": "Las Vegas SEO - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 3,
+   "h1": "Las Vegas SEO"
+  },
+  {
+   "url": "https://seoguarantee.com/nuleaf-magazine-forward",
+   "path": "/nuleaf-magazine-forward",
+   "pageType": "page",
+   "title": "NuLeaf — Premium Cannabis Dispensaries in Nevada",
+   "words": 65,
+   "h1": "NuLeaf Cannabis Dispensaries"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations",
+   "path": "/our-locations",
+   "pageType": "form",
+   "title": "SEO Services | First Page SEO Guarantee | Las Vegas SEO",
+   "words": 643,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/arlington-seo",
+   "path": "/our-locations/arlington-seo",
+   "pageType": "article",
+   "title": "Arlington SEO Services | First Page SEO Guarantee",
+   "words": 1107,
+   "h1": "We Only Charge For Arlington SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/atlanta-seo",
+   "path": "/our-locations/atlanta-seo",
+   "pageType": "article",
+   "title": "Atlanta SEO Services | First Page SEO Guarantee",
+   "words": 1139,
+   "h1": "We Only Charge For Our Atlanta SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/austin-seo",
+   "path": "/our-locations/austin-seo",
+   "pageType": "article",
+   "title": "Austin SEO Services | First Page SEO Guarantee",
+   "words": 1145,
+   "h1": "We Only Charge For Austin SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/baltimore-seo",
+   "path": "/our-locations/baltimore-seo",
+   "pageType": "article",
+   "title": "Baltimore SEO Services | First Page SEO Guarantee",
+   "words": 1144,
+   "h1": "We Only Charge For Baltimore SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/chicago-seo",
+   "path": "/our-locations/chicago-seo",
+   "pageType": "article",
+   "title": "Chicago SEO Services | First Page SEO Guarantee",
+   "words": 1126,
+   "h1": "We Only Charge For Chicago SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/cleveland-seo",
+   "path": "/our-locations/cleveland-seo",
+   "pageType": "article",
+   "title": "Cleveland SEO Services | First Page SEO Guarantee",
+   "words": 1173,
+   "h1": "We Only Charge For Cleveland SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/dallas-seo",
+   "path": "/our-locations/dallas-seo",
+   "pageType": "article",
+   "title": "Dallas SEO Services | First Page SEO Guarantee",
+   "words": 1144,
+   "h1": "We Only Charge For Dallas SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/denver-seo",
+   "path": "/our-locations/denver-seo",
+   "pageType": "article",
+   "title": "Denver SEO Services | First Page SEO Guarantee",
+   "words": 1171,
+   "h1": "We Only Charge For Denver SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/houston-seo",
+   "path": "/our-locations/houston-seo",
+   "pageType": "article",
+   "title": "Houston SEO Services | First Page SEO Guarantee",
+   "words": 1150,
+   "h1": "We Only Charge For Houston SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/jacksonville-seo",
+   "path": "/our-locations/jacksonville-seo",
+   "pageType": "article",
+   "title": "Jacksonville SEO Services | First Page SEO Guarantee",
+   "words": 1168,
+   "h1": "We Only Charge For Jacksonville SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/kansas-city-seo",
+   "path": "/our-locations/kansas-city-seo",
+   "pageType": "article",
+   "title": "Kansas City SEO Services | First Page SEO Guarantee",
+   "words": 1188,
+   "h1": "We Only Charge For Kansas SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/las-vegas-seo",
+   "path": "/our-locations/las-vegas-seo",
+   "pageType": "article",
+   "title": "Las Vegas SEO Company | First Page SEO Guarantee",
+   "words": 882,
+   "h1": "We Only Charge For Las Vegas SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/los-angeles-seo",
+   "path": "/our-locations/los-angeles-seo",
+   "pageType": "article",
+   "title": "Los Angeles SEO Services | First Page SEO Guarantee",
+   "words": 1169,
+   "h1": "We Only Charge For Los Angeles SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/louisville-seo",
+   "path": "/our-locations/louisville-seo",
+   "pageType": "article",
+   "title": "Louisville SEO Services | First Page SEO Guarantee",
+   "words": 1158,
+   "h1": "We Only Charge For Louisville SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/manhattan-seo",
+   "path": "/our-locations/manhattan-seo",
+   "pageType": "article",
+   "title": "Manhattan SEO Services | First Page SEO Guarantee",
+   "words": 1178,
+   "h1": "We Only Charge For Manhattan SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/miami-seo",
+   "path": "/our-locations/miami-seo",
+   "pageType": "article",
+   "title": "Miami SEO Services | First Page SEO Guarantee",
+   "words": 1160,
+   "h1": "We Only Charge For Miami SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/minneapolis-seo",
+   "path": "/our-locations/minneapolis-seo",
+   "pageType": "article",
+   "title": "Minneapolis SEO Services | First Page SEO Guarantee",
+   "words": 1181,
+   "h1": "We Only Charge For Minneapolis SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/myrtle-beach-seo",
+   "path": "/our-locations/myrtle-beach-seo",
+   "pageType": "article",
+   "title": "Myrtle Beach SEO Services | First Page SEO Guarantee",
+   "words": 1185,
+   "h1": "We Only Charge For Myrtle Beach SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/new-orleans-seo",
+   "path": "/our-locations/new-orleans-seo",
+   "pageType": "article",
+   "title": "New Orleans SEO Services | First Page SEO Guarantee",
+   "words": 1174,
+   "h1": "We Only Charge For New Orleans SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/orlando-seo",
+   "path": "/our-locations/orlando-seo",
+   "pageType": "article",
+   "title": "Orlando SEO Services | First Page SEO Guarantee",
+   "words": 1177,
+   "h1": "We Only Charge For Orlando SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/philadelphia-seo",
+   "path": "/our-locations/philadelphia-seo",
+   "pageType": "article",
+   "title": "Philadelphia SEO Services | First Page SEO Guarantee",
+   "words": 1153,
+   "h1": "We Only Charge For Philadelphia SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/portland-seo",
+   "path": "/our-locations/portland-seo",
+   "pageType": "article",
+   "title": "Portland SEO Services | First Page SEO Guarantee",
+   "words": 1148,
+   "h1": "We Only Charge For Portland SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/san-antonio-seo",
+   "path": "/our-locations/san-antonio-seo",
+   "pageType": "article",
+   "title": "San Antonio SEO Services | First Page SEO Guarantee",
+   "words": 1192,
+   "h1": "We Only Charge For San Antonio SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/san-diego-seo",
+   "path": "/our-locations/san-diego-seo",
+   "pageType": "article",
+   "title": "San Diego SEO Services | First Page SEO Guarantee",
+   "words": 1173,
+   "h1": "We Only Charge For San Diego SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-locations/seattle-seo",
+   "path": "/our-locations/seattle-seo",
+   "pageType": "article",
+   "title": "Seattle SEO Services | First Page SEO Guarantee",
+   "words": 1190,
+   "h1": "We Only Charge For Seattle SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/our-team",
+   "path": "/our-team",
+   "pageType": "page",
+   "title": "Our Team - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 19,
+   "h1": "Our Team"
+  },
+  {
+   "url": "https://seoguarantee.com/payment-authorization",
+   "path": "/payment-authorization",
+   "pageType": "form",
+   "title": "Payment Authorization - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 37,
+   "h1": "Payment Authorization"
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio",
+   "path": "/portfolio",
+   "pageType": "portfolio",
+   "title": "Portfolios Archive - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 216,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/aa-printing-service",
+   "path": "/portfolio/aa-printing-service",
+   "pageType": "portfolio",
+   "title": "AA Printing Service - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 84,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/all-american",
+   "path": "/portfolio/all-american",
+   "pageType": "portfolio",
+   "title": "All American Law | Family Lawyers and Divorce Attorneys - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 130,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/c-j-hewitt-construction",
+   "path": "/portfolio/c-j-hewitt-construction",
+   "pageType": "portfolio",
+   "title": "C.J. Hewitt Construction - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 150,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/david-minkin",
+   "path": "/portfolio/david-minkin",
+   "pageType": "portfolio",
+   "title": "David Minkin - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 103,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/ddm-garage-doors",
+   "path": "/portfolio/ddm-garage-doors",
+   "pageType": "portfolio",
+   "title": "DDM Garage Doors, Inc - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 211,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/fast-affordable-air",
+   "path": "/portfolio/fast-affordable-air",
+   "pageType": "portfolio",
+   "title": "Fast Affordable Air - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 143,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/hummus",
+   "path": "/portfolio/hummus",
+   "pageType": "portfolio",
+   "title": "Hummus - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 90,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/jardin",
+   "path": "/portfolio/jardin",
+   "pageType": "portfolio",
+   "title": "Jardin Premium Cannabis Dispensary - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 92,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/katy-dental",
+   "path": "/portfolio/katy-dental",
+   "pageType": "portfolio",
+   "title": "Katy Dental Experts - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 144,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/las-vegas-real-estate",
+   "path": "/portfolio/las-vegas-real-estate",
+   "pageType": "portfolio",
+   "title": "Las Vegas Real Estate - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 77,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/liquor-license",
+   "path": "/portfolio/liquor-license",
+   "pageType": "portfolio",
+   "title": "Liquor License Agents - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 243,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/liquor-license-agents",
+   "path": "/portfolio/liquor-license-agents",
+   "pageType": "portfolio",
+   "title": "Liquor License Agents - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 243,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/master-of-buds",
+   "path": "/portfolio/master-of-buds",
+   "pageType": "portfolio",
+   "title": "Master of Buds - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 107,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/mirazone-spa",
+   "path": "/portfolio/mirazone-spa",
+   "pageType": "portfolio",
+   "title": "MiraZone Spa - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 113,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/myvegasmag",
+   "path": "/portfolio/myvegasmag",
+   "pageType": "portfolio",
+   "title": "MyVegasMag - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 64,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/ozzys-golden-inc",
+   "path": "/portfolio/ozzys-golden-inc",
+   "pageType": "portfolio",
+   "title": "Ozzy’s Golden Construction Inc. - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 135,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/raich-law",
+   "path": "/portfolio/raich-law",
+   "pageType": "portfolio",
+   "title": "Raich Law – Business Lawyer Las Vegas - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 210,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/setiba-medical-spa",
+   "path": "/portfolio/setiba-medical-spa",
+   "pageType": "portfolio",
+   "title": "Setiba Medical Spa - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 134,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/southwest-injury-law",
+   "path": "/portfolio/southwest-injury-law",
+   "pageType": "portfolio",
+   "title": "Southwest Injury Law - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 194,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/the-blez",
+   "path": "/portfolio/the-blez",
+   "pageType": "portfolio",
+   "title": "The Blez - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 172,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/portfolio/vegas-paint-pros",
+   "path": "/portfolio/vegas-paint-pros",
+   "pageType": "portfolio",
+   "title": "Vegas Paint Pros - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 139,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/rep/adam",
+   "path": "/rep/adam",
+   "pageType": "form",
+   "title": "Adam - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 47,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/rep/archer",
+   "path": "/rep/archer",
+   "pageType": "form",
+   "title": "Archer - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 47,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/rep/deandre",
+   "path": "/rep/deandre",
+   "pageType": "form",
+   "title": "Deandre - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 47,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/rep/james",
+   "path": "/rep/james",
+   "pageType": "form",
+   "title": "James - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 47,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/rep/kate",
+   "path": "/rep/kate",
+   "pageType": "form",
+   "title": "Kate - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 47,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/rep/matt",
+   "path": "/rep/matt",
+   "pageType": "form",
+   "title": "Matt - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 47,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/rep/sinan",
+   "path": "/rep/sinan",
+   "pageType": "form",
+   "title": "Sinan - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 47,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/reserve-your-spot",
+   "path": "/reserve-your-spot",
+   "pageType": "form",
+   "title": "Reserve Your Spot - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 110,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/search-engine-optimization-factors",
+   "path": "/search-engine-optimization-factors",
+   "pageType": "page",
+   "title": "Search Engine Optimization Factors - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 697,
+   "h1": "Search Engine Optimization Factors"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-audit",
+   "path": "/seo-audit",
+   "pageType": "form",
+   "title": "SEO Audit - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 2,
+   "h1": "SEO Audit"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-blog",
+   "path": "/seo-blog",
+   "pageType": "form",
+   "title": "SEO Blog | First Page SEO Guarantee | Las Vegas SEO Company",
+   "words": 717,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/seo-new",
+   "path": "/seo-new",
+   "pageType": "page",
+   "title": "SEO-new - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 657,
+   "h1": "+664%"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-service",
+   "path": "/seo-service",
+   "pageType": "page",
+   "title": "Las Vegas SEO Company | First Page SEO Guarantee",
+   "words": 882,
+   "h1": "We Only Charge For Las Vegas SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/arlington-seo",
+   "path": "/seo-services/arlington-seo",
+   "pageType": "article",
+   "title": "Arlington SEO Services | First Page SEO Guarantee",
+   "words": 1107,
+   "h1": "We Only Charge For Arlington SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/atlanta-seo",
+   "path": "/seo-services/atlanta-seo",
+   "pageType": "article",
+   "title": "Atlanta SEO Services | First Page SEO Guarantee",
+   "words": 1139,
+   "h1": "We Only Charge For Our Atlanta SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/austin-seo",
+   "path": "/seo-services/austin-seo",
+   "pageType": "article",
+   "title": "Austin SEO Services | First Page SEO Guarantee",
+   "words": 1145,
+   "h1": "We Only Charge For Austin SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/baltimore-seo",
+   "path": "/seo-services/baltimore-seo",
+   "pageType": "article",
+   "title": "Baltimore SEO Services | First Page SEO Guarantee",
+   "words": 1144,
+   "h1": "We Only Charge For Baltimore SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/chicago-seo",
+   "path": "/seo-services/chicago-seo",
+   "pageType": "article",
+   "title": "Chicago SEO Services | First Page SEO Guarantee",
+   "words": 1126,
+   "h1": "We Only Charge For Chicago SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/cleveland-seo",
+   "path": "/seo-services/cleveland-seo",
+   "pageType": "article",
+   "title": "Cleveland SEO Services | First Page SEO Guarantee",
+   "words": 1173,
+   "h1": "We Only Charge For Cleveland SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/dallas-seo",
+   "path": "/seo-services/dallas-seo",
+   "pageType": "article",
+   "title": "Dallas SEO Services | First Page SEO Guarantee",
+   "words": 1144,
+   "h1": "We Only Charge For Dallas SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/denver-seo",
+   "path": "/seo-services/denver-seo",
+   "pageType": "article",
+   "title": "Denver SEO Services | First Page SEO Guarantee",
+   "words": 1171,
+   "h1": "We Only Charge For Denver SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/houston-seo",
+   "path": "/seo-services/houston-seo",
+   "pageType": "article",
+   "title": "Houston SEO Services | First Page SEO Guarantee",
+   "words": 1150,
+   "h1": "We Only Charge For Houston SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/jacksonville-seo",
+   "path": "/seo-services/jacksonville-seo",
+   "pageType": "article",
+   "title": "Jacksonville SEO Services | First Page SEO Guarantee",
+   "words": 1168,
+   "h1": "We Only Charge For Jacksonville SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/kansas-city-seo",
+   "path": "/seo-services/kansas-city-seo",
+   "pageType": "article",
+   "title": "Kansas City SEO Services | First Page SEO Guarantee",
+   "words": 1188,
+   "h1": "We Only Charge For Kansas SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/las-vegas-seo",
+   "path": "/seo-services/las-vegas-seo",
+   "pageType": "article",
+   "title": "Las Vegas SEO Company | First Page SEO Guarantee",
+   "words": 882,
+   "h1": "We Only Charge For Las Vegas SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/los-angeles-seo",
+   "path": "/seo-services/los-angeles-seo",
+   "pageType": "article",
+   "title": "Los Angeles SEO Services | First Page SEO Guarantee",
+   "words": 1169,
+   "h1": "We Only Charge For Los Angeles SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/louisville-seo",
+   "path": "/seo-services/louisville-seo",
+   "pageType": "article",
+   "title": "Louisville SEO Services | First Page SEO Guarantee",
+   "words": 1158,
+   "h1": "We Only Charge For Louisville SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/manhattan-seo",
+   "path": "/seo-services/manhattan-seo",
+   "pageType": "article",
+   "title": "Manhattan SEO Services | First Page SEO Guarantee",
+   "words": 1178,
+   "h1": "We Only Charge For Manhattan SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/miami-seo",
+   "path": "/seo-services/miami-seo",
+   "pageType": "article",
+   "title": "Miami SEO Services | First Page SEO Guarantee",
+   "words": 1160,
+   "h1": "We Only Charge For Miami SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/minneapolis-seo",
+   "path": "/seo-services/minneapolis-seo",
+   "pageType": "article",
+   "title": "Minneapolis SEO Services | First Page SEO Guarantee",
+   "words": 1181,
+   "h1": "We Only Charge For Minneapolis SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/myrtle-beach-seo",
+   "path": "/seo-services/myrtle-beach-seo",
+   "pageType": "article",
+   "title": "Myrtle Beach SEO Services | First Page SEO Guarantee",
+   "words": 1185,
+   "h1": "We Only Charge For Myrtle Beach SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/new-orleans-seo",
+   "path": "/seo-services/new-orleans-seo",
+   "pageType": "article",
+   "title": "New Orleans SEO Services | First Page SEO Guarantee",
+   "words": 1174,
+   "h1": "We Only Charge For New Orleans SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/orlando-seo",
+   "path": "/seo-services/orlando-seo",
+   "pageType": "article",
+   "title": "Orlando SEO Services | First Page SEO Guarantee",
+   "words": 1177,
+   "h1": "We Only Charge For Orlando SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/philadelphia-seo",
+   "path": "/seo-services/philadelphia-seo",
+   "pageType": "article",
+   "title": "Philadelphia SEO Services | First Page SEO Guarantee",
+   "words": 1153,
+   "h1": "We Only Charge For Philadelphia SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/portland-seo",
+   "path": "/seo-services/portland-seo",
+   "pageType": "article",
+   "title": "Portland SEO Services | First Page SEO Guarantee",
+   "words": 1148,
+   "h1": "We Only Charge For Portland SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/san-antonio-seo",
+   "path": "/seo-services/san-antonio-seo",
+   "pageType": "article",
+   "title": "San Antonio SEO Services | First Page SEO Guarantee",
+   "words": 1192,
+   "h1": "We Only Charge For San Antonio SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/san-diego-seo",
+   "path": "/seo-services/san-diego-seo",
+   "pageType": "article",
+   "title": "San Diego SEO Services | First Page SEO Guarantee",
+   "words": 1173,
+   "h1": "We Only Charge For San Diego SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/seo-services/seattle-seo",
+   "path": "/seo-services/seattle-seo",
+   "pageType": "article",
+   "title": "Seattle SEO Services | First Page SEO Guarantee",
+   "words": 1190,
+   "h1": "We Only Charge For Seattle SEO GUARANTEE"
+  },
+  {
+   "url": "https://seoguarantee.com/services/las-vegas-conversion-rate-optimization",
+   "path": "/services/las-vegas-conversion-rate-optimization",
+   "pageType": "service",
+   "title": "Las Vegas Conversion Rate Optimization | First Page SEO Guarantee",
+   "words": 567,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/services/las-vegas-web-design",
+   "path": "/services/las-vegas-web-design",
+   "pageType": "service",
+   "title": "Las Vegas Web Design Company | First Page SEO Guarantee",
+   "words": 329,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/services/suite",
+   "path": "/services/suite",
+   "pageType": "service",
+   "title": "Full Suite | First Page SEO Guarantee | Las Vegas SEO",
+   "words": 590,
+   "h1": ""
+  },
+  {
+   "url": "https://seoguarantee.com/sg_portfolio/construction",
+   "path": "/sg_portfolio/construction",
+   "pageType": "form",
+   "title": "Construction Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 277,
+   "h1": "Category: Construction"
+  },
+  {
+   "url": "https://seoguarantee.com/sg_portfolio/dispensary",
+   "path": "/sg_portfolio/dispensary",
+   "pageType": "form",
+   "title": "Dispensary Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 56,
+   "h1": "Category: Dispensary"
+  },
+  {
+   "url": "https://seoguarantee.com/sg_portfolio/law",
+   "path": "/sg_portfolio/law",
+   "pageType": "form",
+   "title": "Law Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 117,
+   "h1": "Category: Law"
+  },
+  {
+   "url": "https://seoguarantee.com/sg_portfolio/medical",
+   "path": "/sg_portfolio/medical",
+   "pageType": "form",
+   "title": "Medical Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 10,
+   "h1": "Category: Medical"
+  },
+  {
+   "url": "https://seoguarantee.com/sg_portfolio/other",
+   "path": "/sg_portfolio/other",
+   "pageType": "form",
+   "title": "Other Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 115,
+   "h1": "Category: Other"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/how-to-do-seo",
+   "path": "/tag/how-to-do-seo",
+   "pageType": "form",
+   "title": "how to do seo Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 653,
+   "h1": "Tag: how to do seo"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/las-vegas-search-engine-optimization",
+   "path": "/tag/las-vegas-search-engine-optimization",
+   "pageType": "form",
+   "title": "las vegas search engine optimization Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 578,
+   "h1": "Tag: las vegas search engine optimization"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/las-vegas-seo",
+   "path": "/tag/las-vegas-seo",
+   "pageType": "form",
+   "title": "las vegas seo Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 652,
+   "h1": "Tag: las vegas seo"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/las-vegas-seo-company",
+   "path": "/tag/las-vegas-seo-company",
+   "pageType": "form",
+   "title": "las vegas seo company Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 653,
+   "h1": "Tag: las vegas seo company"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/las-vegas-seo-expert",
+   "path": "/tag/las-vegas-seo-expert",
+   "pageType": "form",
+   "title": "las vegas seo expert Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 278,
+   "h1": "Tag: las vegas seo expert"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/las-vegas-seo-experts",
+   "path": "/tag/las-vegas-seo-experts",
+   "pageType": "form",
+   "title": "las vegas seo experts Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 209,
+   "h1": "Tag: las vegas seo experts"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/las-vegas-seo-firm",
+   "path": "/tag/las-vegas-seo-firm",
+   "pageType": "form",
+   "title": "las vegas seo firm Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 653,
+   "h1": "Tag: las vegas seo firm"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/las-vegas-seo-service",
+   "path": "/tag/las-vegas-seo-service",
+   "pageType": "form",
+   "title": "las vegas seo service Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 209,
+   "h1": "Tag: las vegas seo service"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/las-vegas-seo-services",
+   "path": "/tag/las-vegas-seo-services",
+   "pageType": "form",
+   "title": "las vegas seo services Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 209,
+   "h1": "Tag: las vegas seo services"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/las-vegas-seo-tips-and-tricks",
+   "path": "/tag/las-vegas-seo-tips-and-tricks",
+   "pageType": "form",
+   "title": "las vegas seo tips and tricks Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 655,
+   "h1": "Tag: las vegas seo tips and tricks"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/search-engine-optimization",
+   "path": "/tag/search-engine-optimization",
+   "pageType": "form",
+   "title": "search engine optimization Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 652,
+   "h1": "Tag: search engine optimization"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/seo",
+   "path": "/tag/seo",
+   "pageType": "form",
+   "title": "seo Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 650,
+   "h1": "Tag: seo"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/seo-education",
+   "path": "/tag/seo-education",
+   "pageType": "form",
+   "title": "seo education Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 582,
+   "h1": "Tag: seo education"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/seo-expert",
+   "path": "/tag/seo-expert",
+   "pageType": "form",
+   "title": "seo expert Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 207,
+   "h1": "Tag: seo expert"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/seo-experts",
+   "path": "/tag/seo-experts",
+   "pageType": "form",
+   "title": "seo experts Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 207,
+   "h1": "Tag: seo experts"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/seo-knowledge",
+   "path": "/tag/seo-knowledge",
+   "pageType": "form",
+   "title": "seo knowledge Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 651,
+   "h1": "Tag: seo knowledge"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/seo-tips-and-tricks",
+   "path": "/tag/seo-tips-and-tricks",
+   "pageType": "form",
+   "title": "seo tips and tricks Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 653,
+   "h1": "Tag: seo tips and tricks"
+  },
+  {
+   "url": "https://seoguarantee.com/tag/what-is-seo",
+   "path": "/tag/what-is-seo",
+   "pageType": "form",
+   "title": "what is seo Archives - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 652,
+   "h1": "Tag: what is seo"
+  },
+  {
+   "url": "https://seoguarantee.com/thank-you",
+   "path": "/thank-you",
+   "pageType": "form",
+   "title": "Thank You - First Page SEO Guarantee | The Best Las Vegas SEO Company",
+   "words": 13,
+   "h1": "Thank you!"
+  },
+  {
+   "url": "https://seoguarantee.com/videos",
+   "path": "/videos",
+   "pageType": "form",
+   "title": "Videos | First Page SEO Guarantee | Las Vegas SEO Company",
+   "words": 80,
+   "h1": ""
+  }
+ ]
+}

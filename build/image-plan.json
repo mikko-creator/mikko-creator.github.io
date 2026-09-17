@@ -1,0 +1,458 @@
+{
+ "generated": "2026-09-10T15:48:32.576Z",
+ "style": "cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+ "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+ "count": 58,
+ "cities": {
+  "arlington": "Arlington",
+  "atlanta": "Atlanta",
+  "austin": "Austin",
+  "baltimore": "Baltimore",
+  "chicago": "Chicago",
+  "cleveland": "Cleveland",
+  "dallas": "Dallas",
+  "denver": "Denver",
+  "houston": "Houston",
+  "jacksonville": "Jacksonville",
+  "kansas-city": "Kansas City",
+  "las-vegas": "Las Vegas",
+  "los-angeles": "Los Angeles",
+  "louisville": "Louisville",
+  "manhattan": "Manhattan",
+  "miami": "Miami",
+  "minneapolis": "Minneapolis",
+  "myrtle-beach": "Myrtle Beach",
+  "new-orleans": "New Orleans",
+  "orlando": "Orlando",
+  "philadelphia": "Philadelphia",
+  "portland": "Portland",
+  "san-antonio": "San Antonio",
+  "san-diego": "San Diego",
+  "seattle": "Seattle"
+ },
+ "articleMap": {
+  "/13-seo-chrome-extensions-that-are-free": "topic-0",
+  "/5-important-seo-tips-and-tricks": "topic-1",
+  "/9-seo-strategies-effective-in-2020": "topic-2",
+  "/authority-and-search-rankings": "topic-3",
+  "/beginner-seo-tips-and-tricks": "topic-1",
+  "/ddm-magazine-forward": "blog-default",
+  "/industries/air-conditioning-and-hvac": "blog-default",
+  "/las-vegas-seo-blog/authority-and-search-rankings": "topic-3",
+  "/las-vegas-seo-company": "blog-default",
+  "/las-vegas-seo-expert": "blog-default",
+  "/las-vegas-seo-firm": "blog-default",
+  "/las-vegas-seo-service-new": "blog-default",
+  "/search-engine-optimization-factors": "blog-default",
+  "/seo-new": "blog-default",
+  "/seo-service": "blog-default"
+ },
+ "plan": [
+  {
+   "id": "hero-home",
+   "prompt": "abstract sculptural composition of translucent frosted glass panels floating in dark space, a rising golden light beam passing through them, refraction and caustics, sense of ascent and guarantee, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "portrait_4_3",
+   "model": "dev"
+  },
+  {
+   "id": "hero-full-suite",
+   "prompt": "six interlocking translucent glass plates arranged as a layered stack, each catching gold light, orbiting a central warm core, symbolising a complete integrated service suite, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "dev"
+  },
+  {
+   "id": "hero-guarantee",
+   "prompt": "a single polished obsidian monolith with a gold seal of light embedded at its centre, frosted glass shards suspended around it, monumental and reassuring, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "dev"
+  },
+  {
+   "id": "hero-contact",
+   "prompt": "abstract network of glowing gold filaments converging into a single bright node inside a dark violet glass chamber, connection and arrival, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "dev"
+  },
+  {
+   "id": "svc-seo",
+   "prompt": "abstract ascending staircase of translucent glass planes climbing toward a bright gold summit, search and ranking ascent, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "svc-web",
+   "prompt": "wireframe architecture of a building made from luminous violet glass panels, structure and craft, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "svc-content",
+   "prompt": "flowing ribbons of frosted glass unfurling like pages caught in warm gold light, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "svc-reputation",
+   "prompt": "a protective dome of faceted violet glass shielding a steady gold ember at its core, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "svc-cro",
+   "prompt": "a funnel of descending glass rings narrowing toward a concentrated gold point of light, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "svc-design",
+   "prompt": "geometric prism refracting a single white beam into a violet-and-gold spectrum, creative craft, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "svc-branding",
+   "prompt": "a monogram-less emblem of layered gold and violet glass rings, identity and prestige, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "svc-consulting",
+   "prompt": "two abstract glass forms leaning toward one another across a lit table of dark stone, counsel, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "ind-dental",
+   "prompt": "immaculate empty modern dental practice interior at dusk, clean minimal surfaces, no people, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "ind-law-firm",
+   "prompt": "empty sophisticated law office library at dusk, leather and dark wood, tall windows, no people, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "ind-medical-spa",
+   "prompt": "serene empty luxury medical spa treatment room, soft stone and water, no people, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "ind-contracting",
+   "prompt": "precision architectural construction site at golden hour, clean steel and glass frame, no people, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "tex-gold-trails",
+   "prompt": "abstract upward-sweeping gold light trails over a dark violet gradient field, momentum, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "tex-reviews",
+   "prompt": "field of softly glowing violet glass orbs receding into darkness, warm gold highlights, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "tex-glass-panels",
+   "prompt": "abstract arrangement of nine frosted glass panels standing together, warm gold backlight, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "tex-video",
+   "prompt": "dark violet studio space with a single frosted glass screen glowing warm gold, no text, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "tex-blog",
+   "prompt": "abstract stack of translucent glass sheets fanned open like an archive, gold edge light, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "tex-portfolio",
+   "prompt": "gallery of floating rectangular glass panels in a dark violet void, each edge-lit in gold, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "tex-locations",
+   "prompt": "abstract constellation of gold light points connected across a dark violet map-like plane, no text, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-arlington",
+   "prompt": "Arlington city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-atlanta",
+   "prompt": "Atlanta city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-austin",
+   "prompt": "Austin city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-baltimore",
+   "prompt": "Baltimore city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-chicago",
+   "prompt": "Chicago city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-cleveland",
+   "prompt": "Cleveland city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-dallas",
+   "prompt": "Dallas city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-denver",
+   "prompt": "Denver city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-houston",
+   "prompt": "Houston city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-jacksonville",
+   "prompt": "Jacksonville city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-kansas-city",
+   "prompt": "Kansas City city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-las-vegas",
+   "prompt": "Las Vegas city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-los-angeles",
+   "prompt": "Los Angeles city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-louisville",
+   "prompt": "Louisville city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-manhattan",
+   "prompt": "Manhattan city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-miami",
+   "prompt": "Miami city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-minneapolis",
+   "prompt": "Minneapolis city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-myrtle-beach",
+   "prompt": "Myrtle Beach city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-new-orleans",
+   "prompt": "New Orleans city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-orlando",
+   "prompt": "Orlando city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-philadelphia",
+   "prompt": "Philadelphia city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-portland",
+   "prompt": "Portland city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-san-antonio",
+   "prompt": "San Antonio city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-san-diego",
+   "prompt": "San Diego city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "city-seattle",
+   "prompt": "Seattle city skyline at blue hour seen from a distance, moody and cinematic, violet dusk sky with warm gold window lights, architectural, no people, no signage, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "blog-default",
+   "prompt": "abstract fan of translucent violet glass sheets with warm gold edge light, editorial, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "topic-0",
+   "prompt": "abstract cluster of translucent glass tool-shaped forms floating in dark violet space, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "topic-1",
+   "prompt": "abstract path of illuminated glass stepping stones ascending through violet haze, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "topic-2",
+   "prompt": "abstract chess-like arrangement of tall glass forms on a dark reflective plane, gold key light, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "topic-3",
+   "prompt": "a tall crystalline glass tower rising above a violet cloud layer, gold crown of light, cinematic, deep violet and royal purple palette with warm gold light accents, dark premium editorial aesthetic, volumetric haze, soft rim lighting, subtle glass and frosted translucent surfaces, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark",
+   "negative": "text, words, letters, typography, logo, watermark, signature, ui mockup, screenshot, chart with numbers, human face, portrait, people looking at camera, deformed",
+   "size": "landscape_16_9",
+   "model": "schnell"
+  },
+  {
+   "id": "tile-law",
+   "prompt": "tall parallel columns of clear glass rising in ordered ranks, balanced and symmetrical, gold light between them, abstract non-representational composition, deep violet and royal purple with warm gold light accents, dark premium editorial aesthetic, frosted and polished glass forms, volumetric haze, soft rim lighting, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark, no people, no recognisable place",
+   "negative": "text, words, letters, typography, logo, watermark, signature, people, face, portrait, interior room, building interior, office, storefront, furniture, wine glass, drink, flame, fire, screenshot, ui mockup, chart, deformed",
+   "size": "landscape_4_3",
+   "model": "dev"
+  },
+  {
+   "id": "tile-medical",
+   "prompt": "smooth concentric arcs of frosted glass nested inside one another, calm and clean, soft gold glow at the centre, abstract non-representational composition, deep violet and royal purple with warm gold light accents, dark premium editorial aesthetic, frosted and polished glass forms, volumetric haze, soft rim lighting, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark, no people, no recognisable place",
+   "negative": "text, words, letters, typography, logo, watermark, signature, people, face, portrait, interior room, building interior, office, storefront, furniture, wine glass, drink, flame, fire, screenshot, ui mockup, chart, deformed",
+   "size": "landscape_4_3",
+   "model": "dev"
+  },
+  {
+   "id": "tile-construction",
+   "prompt": "interlocking glass beams forming an open lattice frame, structural and angular, gold edge light, abstract non-representational composition, deep violet and royal purple with warm gold light accents, dark premium editorial aesthetic, frosted and polished glass forms, volumetric haze, soft rim lighting, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark, no people, no recognisable place",
+   "negative": "text, words, letters, typography, logo, watermark, signature, people, face, portrait, interior room, building interior, office, storefront, furniture, wine glass, drink, flame, fire, screenshot, ui mockup, chart, deformed",
+   "size": "landscape_4_3",
+   "model": "dev"
+  },
+  {
+   "id": "tile-dispensary",
+   "prompt": "organic overlapping glass petals fanning outward from a warm gold core, botanical in rhythm only, abstract non-representational composition, deep violet and royal purple with warm gold light accents, dark premium editorial aesthetic, frosted and polished glass forms, volumetric haze, soft rim lighting, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark, no people, no recognisable place",
+   "negative": "text, words, letters, typography, logo, watermark, signature, people, face, portrait, interior room, building interior, office, storefront, furniture, wine glass, drink, flame, fire, screenshot, ui mockup, chart, deformed",
+   "size": "landscape_4_3",
+   "model": "dev"
+  },
+  {
+   "id": "tile-general",
+   "prompt": "a loose grid of floating rectangular glass panels at varied depths, gallery-like, gold edge light, abstract non-representational composition, deep violet and royal purple with warm gold light accents, dark premium editorial aesthetic, frosted and polished glass forms, volumetric haze, soft rim lighting, high detail, 8k, sophisticated, no text, no words, no letters, no logos, no watermark, no people, no recognisable place",
+   "negative": "text, words, letters, typography, logo, watermark, signature, people, face, portrait, interior room, building interior, office, storefront, furniture, wine glass, drink, flame, fire, screenshot, ui mockup, chart, deformed",
+   "size": "landscape_4_3",
+   "model": "dev"
+  }
+ ]
+}

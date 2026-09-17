@@ -1,0 +1,711 @@
+{
+  "captures": [
+    {
+      "file": "baseline.index.390.style.json",
+      "url": "https://seoguarantee.com/",
+      "w": 390,
+      "els": 783
+    },
+    {
+      "file": "baseline.index.768.style.json",
+      "url": "https://seoguarantee.com/",
+      "w": 768,
+      "els": 822
+    },
+    {
+      "file": "baseline.index.1024.style.json",
+      "url": "https://seoguarantee.com/",
+      "w": 1024,
+      "els": 823
+    },
+    {
+      "file": "baseline.index.1440.style.json",
+      "url": "https://seoguarantee.com/",
+      "w": 1440,
+      "els": 826
+    },
+    {
+      "file": "baseline.beginner-seo-tips-and-tricks.390.style.json",
+      "url": "https://seoguarantee.com/beginner-seo-tips-and-tricks",
+      "w": 390,
+      "els": 347
+    },
+    {
+      "file": "baseline.beginner-seo-tips-and-tricks.768.style.json",
+      "url": "https://seoguarantee.com/beginner-seo-tips-and-tricks",
+      "w": 768,
+      "els": 346
+    },
+    {
+      "file": "baseline.beginner-seo-tips-and-tricks.1024.style.json",
+      "url": "https://seoguarantee.com/beginner-seo-tips-and-tricks",
+      "w": 1024,
+      "els": 345
+    },
+    {
+      "file": "baseline.beginner-seo-tips-and-tricks.1440.style.json",
+      "url": "https://seoguarantee.com/beginner-seo-tips-and-tricks",
+      "w": 1440,
+      "els": 345
+    },
+    {
+      "file": "baseline.contact-us.390.style.json",
+      "url": "https://seoguarantee.com/contact-us",
+      "w": 390,
+      "els": 274
+    },
+    {
+      "file": "baseline.contact-us.768.style.json",
+      "url": "https://seoguarantee.com/contact-us",
+      "w": 768,
+      "els": 273
+    },
+    {
+      "file": "baseline.contact-us.1024.style.json",
+      "url": "https://seoguarantee.com/contact-us",
+      "w": 1024,
+      "els": 272
+    },
+    {
+      "file": "baseline.contact-us.1440.style.json",
+      "url": "https://seoguarantee.com/contact-us",
+      "w": 1440,
+      "els": 272
+    },
+    {
+      "file": "baseline.industries-dental.390.style.json",
+      "url": "https://seoguarantee.com/industries/dental",
+      "w": 390,
+      "els": 847
+    },
+    {
+      "file": "baseline.industries-dental.768.style.json",
+      "url": "https://seoguarantee.com/industries/dental",
+      "w": 768,
+      "els": 860
+    },
+    {
+      "file": "baseline.industries-dental.1024.style.json",
+      "url": "https://seoguarantee.com/industries/dental",
+      "w": 1024,
+      "els": 859
+    },
+    {
+      "file": "baseline.industries-dental.1440.style.json",
+      "url": "https://seoguarantee.com/industries/dental",
+      "w": 1440,
+      "els": 859
+    },
+    {
+      "file": "baseline.industries-law-firm.390.style.json",
+      "url": "https://seoguarantee.com/industries/law-firm",
+      "w": 390,
+      "els": 848
+    },
+    {
+      "file": "baseline.industries-law-firm.768.style.json",
+      "url": "https://seoguarantee.com/industries/law-firm",
+      "w": 768,
+      "els": 861
+    },
+    {
+      "file": "baseline.industries-law-firm.1024.style.json",
+      "url": "https://seoguarantee.com/industries/law-firm",
+      "w": 1024,
+      "els": 860
+    },
+    {
+      "file": "baseline.industries-law-firm.1440.style.json",
+      "url": "https://seoguarantee.com/industries/law-firm",
+      "w": 1440,
+      "els": 860
+    },
+    {
+      "file": "baseline.industries-medical-spa.390.style.json",
+      "url": "https://seoguarantee.com/industries/medical-spa",
+      "w": 390,
+      "els": 847
+    },
+    {
+      "file": "baseline.industries-medical-spa.768.style.json",
+      "url": "https://seoguarantee.com/industries/medical-spa",
+      "w": 768,
+      "els": 860
+    },
+    {
+      "file": "baseline.industries-medical-spa.1024.style.json",
+      "url": "https://seoguarantee.com/industries/medical-spa",
+      "w": 1024,
+      "els": 859
+    },
+    {
+      "file": "baseline.industries-medical-spa.1440.style.json",
+      "url": "https://seoguarantee.com/industries/medical-spa",
+      "w": 1440,
+      "els": 859
+    },
+    {
+      "file": "baseline.our-locations.390.style.json",
+      "url": "https://seoguarantee.com/our-locations",
+      "w": 390,
+      "els": 467
+    },
+    {
+      "file": "baseline.our-locations.768.style.json",
+      "url": "https://seoguarantee.com/our-locations",
+      "w": 768,
+      "els": 466
+    },
+    {
+      "file": "baseline.our-locations.1024.style.json",
+      "url": "https://seoguarantee.com/our-locations",
+      "w": 1024,
+      "els": 465
+    },
+    {
+      "file": "baseline.our-locations.1440.style.json",
+      "url": "https://seoguarantee.com/our-locations",
+      "w": 1440,
+      "els": 465
+    },
+    {
+      "file": "baseline.our-locations-las-vegas-seo.390.style.json",
+      "url": "https://seoguarantee.com/our-locations/las-vegas-seo",
+      "w": 390,
+      "els": 813
+    },
+    {
+      "file": "baseline.our-locations-las-vegas-seo.768.style.json",
+      "url": "https://seoguarantee.com/our-locations/las-vegas-seo",
+      "w": 768,
+      "els": 836
+    },
+    {
+      "file": "baseline.our-locations-las-vegas-seo.1024.style.json",
+      "url": "https://seoguarantee.com/our-locations/las-vegas-seo",
+      "w": 1024,
+      "els": 839
+    },
+    {
+      "file": "baseline.our-locations-las-vegas-seo.1440.style.json",
+      "url": "https://seoguarantee.com/our-locations/las-vegas-seo",
+      "w": 1440,
+      "els": 839
+    },
+    {
+      "file": "baseline.seo-blog.390.style.json",
+      "url": "https://seoguarantee.com/seo-blog",
+      "w": 390,
+      "els": 344
+    },
+    {
+      "file": "baseline.seo-blog.768.style.json",
+      "url": "https://seoguarantee.com/seo-blog",
+      "w": 768,
+      "els": 343
+    },
+    {
+      "file": "baseline.seo-blog.1024.style.json",
+      "url": "https://seoguarantee.com/seo-blog",
+      "w": 1024,
+      "els": 342
+    },
+    {
+      "file": "baseline.seo-blog.1440.style.json",
+      "url": "https://seoguarantee.com/seo-blog",
+      "w": 1440,
+      "els": 342
+    },
+    {
+      "file": "baseline.services-suite.390.style.json",
+      "url": "https://seoguarantee.com/services/suite",
+      "w": 390,
+      "els": 339
+    },
+    {
+      "file": "baseline.services-suite.768.style.json",
+      "url": "https://seoguarantee.com/services/suite",
+      "w": 768,
+      "els": 350
+    },
+    {
+      "file": "baseline.services-suite.1024.style.json",
+      "url": "https://seoguarantee.com/services/suite",
+      "w": 1024,
+      "els": 349
+    },
+    {
+      "file": "baseline.services-suite.1440.style.json",
+      "url": "https://seoguarantee.com/services/suite",
+      "w": 1440,
+      "els": 349
+    },
+    {
+      "file": "baseline.videos.390.style.json",
+      "url": "https://seoguarantee.com/videos",
+      "w": 390,
+      "els": 443
+    },
+    {
+      "file": "baseline.videos.768.style.json",
+      "url": "https://seoguarantee.com/videos",
+      "w": 768,
+      "els": 454
+    },
+    {
+      "file": "baseline.videos.1024.style.json",
+      "url": "https://seoguarantee.com/videos",
+      "w": 1024,
+      "els": 453
+    },
+    {
+      "file": "baseline.videos.1440.style.json",
+      "url": "https://seoguarantee.com/videos",
+      "w": 1440,
+      "els": 453
+    }
+  ],
+  "shots": [
+    {
+      "slug": "index",
+      "width": 390,
+      "height": 11369,
+      "metricsH": 11369,
+      "domH": 11369,
+      "viewport": 390,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\index.390.png",
+      "bytes": 2127793
+    },
+    {
+      "slug": "index",
+      "width": 785,
+      "height": 14176,
+      "metricsH": 14176,
+      "domH": 14176,
+      "viewport": 768,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\index.768.png",
+      "bytes": 5605986
+    },
+    {
+      "slug": "index",
+      "width": 1034,
+      "height": 11149,
+      "metricsH": 11149,
+      "domH": 11149,
+      "viewport": 1024,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\index.1024.png",
+      "bytes": 5442664
+    },
+    {
+      "slug": "index",
+      "width": 1440,
+      "height": 10985,
+      "metricsH": 10985,
+      "domH": 10985,
+      "viewport": 1440,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\index.1440.png",
+      "bytes": 7328873
+    },
+    {
+      "slug": "beginner-seo-tips-and-tricks",
+      "width": 390,
+      "height": 7683,
+      "metricsH": 7683,
+      "domH": 7683,
+      "viewport": 390,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\beginner-seo-tips-and-tricks.390.png",
+      "bytes": 996218
+    },
+    {
+      "slug": "beginner-seo-tips-and-tricks",
+      "width": 768,
+      "height": 5851,
+      "metricsH": 5851,
+      "domH": 5851,
+      "viewport": 768,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\beginner-seo-tips-and-tricks.768.png",
+      "bytes": 1607269
+    },
+    {
+      "slug": "beginner-seo-tips-and-tricks",
+      "width": 1026,
+      "height": 6000,
+      "metricsH": 6000,
+      "domH": 6000,
+      "viewport": 1024,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\beginner-seo-tips-and-tricks.1024.png",
+      "bytes": 2348961
+    },
+    {
+      "slug": "beginner-seo-tips-and-tricks",
+      "width": 1440,
+      "height": 6073,
+      "metricsH": 6073,
+      "domH": 6073,
+      "viewport": 1440,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\beginner-seo-tips-and-tricks.1440.png",
+      "bytes": 2829478
+    },
+    {
+      "slug": "contact-us",
+      "width": 390,
+      "height": 3787,
+      "metricsH": 3787,
+      "domH": 3787,
+      "viewport": 390,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\contact-us.390.png",
+      "bytes": 502762
+    },
+    {
+      "slug": "contact-us",
+      "width": 768,
+      "height": 2438,
+      "metricsH": 2438,
+      "domH": 2438,
+      "viewport": 768,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\contact-us.768.png",
+      "bytes": 658945
+    },
+    {
+      "slug": "contact-us",
+      "width": 1024,
+      "height": 2318,
+      "metricsH": 2318,
+      "domH": 2318,
+      "viewport": 1024,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\contact-us.1024.png",
+      "bytes": 798873
+    },
+    {
+      "slug": "contact-us",
+      "width": 1440,
+      "height": 2318,
+      "metricsH": 2318,
+      "domH": 2318,
+      "viewport": 1440,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\contact-us.1440.png",
+      "bytes": 1009882
+    },
+    {
+      "slug": "industries-dental",
+      "width": 390,
+      "height": 14659,
+      "metricsH": 14659,
+      "domH": 14659,
+      "viewport": 390,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\industries-dental.390.png",
+      "bytes": 2344006
+    },
+    {
+      "slug": "industries-dental",
+      "width": 785,
+      "height": 15631,
+      "metricsH": 15631,
+      "domH": 15631,
+      "viewport": 768,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\industries-dental.768.png",
+      "bytes": 5553186
+    },
+    {
+      "slug": "industries-dental",
+      "width": 1034,
+      "height": 10830,
+      "metricsH": 10830,
+      "domH": 10830,
+      "viewport": 1024,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\industries-dental.1024.png",
+      "bytes": 4338995
+    },
+    {
+      "slug": "industries-dental",
+      "width": 1440,
+      "height": 10761,
+      "metricsH": 10761,
+      "domH": 10761,
+      "viewport": 1440,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\industries-dental.1440.png",
+      "bytes": 5563175
+    },
+    {
+      "slug": "industries-law-firm",
+      "width": 390,
+      "height": 14581,
+      "metricsH": 14581,
+      "domH": 14581,
+      "viewport": 390,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\industries-law-firm.390.png",
+      "bytes": 2328185
+    },
+    {
+      "slug": "industries-law-firm",
+      "width": 785,
+      "height": 15611,
+      "metricsH": 15611,
+      "domH": 15611,
+      "viewport": 768,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\industries-law-firm.768.png",
+      "bytes": 5553260
+    },
+    {
+      "slug": "industries-law-firm",
+      "width": 1034,
+      "height": 10721,
+      "metricsH": 10721,
+      "domH": 10721,
+      "viewport": 1024,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\industries-law-firm.1024.png",
+      "bytes": 4353330
+    },
+    {
+      "slug": "industries-law-firm",
+      "width": 1440,
+      "height": 10722,
+      "metricsH": 10722,
+      "domH": 10722,
+      "viewport": 1440,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\industries-law-firm.1440.png",
+      "bytes": 5551956
+    },
+    {
+      "slug": "industries-medical-spa",
+      "width": 390,
+      "height": 14487,
+      "metricsH": 14487,
+      "domH": 14487,
+      "viewport": 390,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\industries-medical-spa.390.png",
+      "bytes": 2306905
+    },
+    {
+      "slug": "industries-medical-spa",
+      "width": 785,
+      "height": 15576,
+      "metricsH": 15576,
+      "domH": 15576,
+      "viewport": 768,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\industries-medical-spa.768.png",
+      "bytes": 5509032
+    },
+    {
+      "slug": "industries-medical-spa",
+      "width": 1034,
+      "height": 10741,
+      "metricsH": 10741,
+      "domH": 10741,
+      "viewport": 1024,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\industries-medical-spa.1024.png",
+      "bytes": 4281594
+    },
+    {
+      "slug": "industries-medical-spa",
+      "width": 1440,
+      "height": 10701,
+      "metricsH": 10701,
+      "domH": 10701,
+      "viewport": 1440,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\industries-medical-spa.1440.png",
+      "bytes": 5479510
+    },
+    {
+      "slug": "our-locations",
+      "width": 390,
+      "height": 10345,
+      "metricsH": 10345,
+      "domH": 10345,
+      "viewport": 390,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\our-locations.390.png",
+      "bytes": 1188859
+    },
+    {
+      "slug": "our-locations",
+      "width": 768,
+      "height": 5547,
+      "metricsH": 5547,
+      "domH": 5547,
+      "viewport": 768,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\our-locations.768.png",
+      "bytes": 1008477
+    },
+    {
+      "slug": "our-locations",
+      "width": 1024,
+      "height": 4060,
+      "metricsH": 4060,
+      "domH": 4060,
+      "viewport": 1024,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\our-locations.1024.png",
+      "bytes": 1306744
+    },
+    {
+      "slug": "our-locations",
+      "width": 1440,
+      "height": 3560,
+      "metricsH": 3560,
+      "domH": 3560,
+      "viewport": 1440,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\our-locations.1440.png",
+      "bytes": 1640210
+    },
+    {
+      "slug": "our-locations-las-vegas-seo",
+      "width": 390,
+      "height": 13150,
+      "metricsH": 13150,
+      "domH": 13150,
+      "viewport": 390,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\our-locations-las-vegas-seo.390.png",
+      "bytes": 2261338
+    },
+    {
+      "slug": "our-locations-las-vegas-seo",
+      "width": 785,
+      "height": 14899,
+      "metricsH": 14899,
+      "domH": 14899,
+      "viewport": 768,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\our-locations-las-vegas-seo.768.png",
+      "bytes": 5608955
+    },
+    {
+      "slug": "our-locations-las-vegas-seo",
+      "width": 1034,
+      "height": 11501,
+      "metricsH": 11501,
+      "domH": 11501,
+      "viewport": 1024,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\our-locations-las-vegas-seo.1024.png",
+      "bytes": 5411639
+    },
+    {
+      "slug": "our-locations-las-vegas-seo",
+      "width": 1440,
+      "height": 11380,
+      "metricsH": 11380,
+      "domH": 11380,
+      "viewport": 1440,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\our-locations-las-vegas-seo.1440.png",
+      "bytes": 7307064
+    },
+    {
+      "slug": "seo-blog",
+      "width": 390,
+      "height": 9174,
+      "metricsH": 9174,
+      "domH": 9174,
+      "viewport": 390,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\seo-blog.390.png",
+      "bytes": 1466748
+    },
+    {
+      "slug": "seo-blog",
+      "width": 768,
+      "height": 4987,
+      "metricsH": 4987,
+      "domH": 4987,
+      "viewport": 768,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\seo-blog.768.png",
+      "bytes": 1520599
+    },
+    {
+      "slug": "seo-blog",
+      "width": 1024,
+      "height": 4004,
+      "metricsH": 4004,
+      "domH": 4004,
+      "viewport": 1024,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\seo-blog.1024.png",
+      "bytes": 1647073
+    },
+    {
+      "slug": "seo-blog",
+      "width": 1440,
+      "height": 3941,
+      "metricsH": 3941,
+      "domH": 3941,
+      "viewport": 1440,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\seo-blog.1440.png",
+      "bytes": 2308867
+    },
+    {
+      "slug": "services-suite",
+      "width": 390,
+      "height": 7348,
+      "metricsH": 7348,
+      "domH": 7348,
+      "viewport": 390,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\services-suite.390.png",
+      "bytes": 1268317
+    },
+    {
+      "slug": "services-suite",
+      "width": 768,
+      "height": 7215,
+      "metricsH": 7215,
+      "domH": 7215,
+      "viewport": 768,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\services-suite.768.png",
+      "bytes": 2244576
+    },
+    {
+      "slug": "services-suite",
+      "width": 1024,
+      "height": 7136,
+      "metricsH": 7136,
+      "domH": 7136,
+      "viewport": 1024,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\services-suite.1024.png",
+      "bytes": 3097011
+    },
+    {
+      "slug": "services-suite",
+      "width": 1440,
+      "height": 7146,
+      "metricsH": 7146,
+      "domH": 7146,
+      "viewport": 1440,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\services-suite.1440.png",
+      "bytes": 4029933
+    },
+    {
+      "slug": "videos",
+      "width": 390,
+      "height": 3603,
+      "metricsH": 3603,
+      "domH": 3603,
+      "viewport": 390,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\videos.390.png",
+      "bytes": 714782
+    },
+    {
+      "slug": "videos",
+      "width": 768,
+      "height": 6189,
+      "metricsH": 6189,
+      "domH": 6189,
+      "viewport": 768,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\videos.768.png",
+      "bytes": 3176628
+    },
+    {
+      "slug": "videos",
+      "width": 1024,
+      "height": 3149,
+      "metricsH": 3149,
+      "domH": 3149,
+      "viewport": 1024,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\videos.1024.png",
+      "bytes": 1924586
+    },
+    {
+      "slug": "videos",
+      "width": 1440,
+      "height": 3335,
+      "metricsH": 3335,
+      "domH": 3335,
+      "viewport": 1440,
+      "file": "C:\\Users\\Dell\\site-reforge\\seoguarantee-com\\audit\\screens\\baseline\\videos.1440.png",
+      "bytes": 2725666
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,45 @@
+{
+ "built": 150,
+ "byArchetype": {
+  "flagship": 62,
+  "article": 36,
+  "archive": 19,
+  "contact": 1,
+  "locationIndex": 1,
+  "team": 1,
+  "portfolioIndex": 1,
+  "portfolioItem": 26,
+  "blogIndex": 1,
+  "videos": 1
+ },
+ "thin": [],
+ "errors": [],
+ "loremStripped": [
+  {
+   "path": "/seo-new",
+   "blocks": 18,
+   "why": "unfinished placeholder copy on the live site; shipping Lorem Ipsum to production is a defect, and the URL is kept so no ranking is lost"
+  }
+ ],
+ "added": [
+  {
+   "path": "/industries",
+   "why": "source nav pointed \"INDUSTRIES WE SERVE\" at href=\"#\" — a dead link on every page; this index gives it a real destination",
+   "links": 5
+  }
+ ],
+ "assetsCopied": 70,
+ "assetsMissing": 186,
+ "missingSample": [
+  "https://seoguarantee-com.storage.googleapis.com/uploads/2020/04/13-chrome-extensions-that-are-free-1-1024x683.jpg",
+  "https://seoguarantee-com.storage.googleapis.com/uploads/2020/04/13-chrome-extensions-that-are-free-2-1024x702.jpg",
+  "https://seoguarantee-com.storage.googleapis.com/uploads/2020/11/book-header.jpg",
+  "https://seoguarantee-com.storage.googleapis.com/uploads/2020/05/5-Important-SEO-Tips-And-Tricks-2-1024x683.jpg",
+  "https://seoguarantee-com.storage.googleapis.com/uploads/2020/04/9-seo-strategies-effective-in-2020-1-1024x683.jpg",
+  "https://seoguarantee-com.storage.googleapis.com/uploads/2020/04/9-seo-strategies-effective-in-2020-2-1024x715.jpg",
+  "https://seoguarantee-com.storage.googleapis.com/uploads/2020/05/Authority-and-Search-Rankings-2-1024x683.jpg",
+  "https://seoguarantee-com.storage.googleapis.com/uploads/2020/04/Beginner-SEO-Tricks-and-Tips-1024x683.jpg",
+  "https://seoguarantee-com.storage.googleapis.com/uploads/2020/04/Beginner-SEO-Tricks-and-Tips-1-1024x715.jpg",
+  "https://seoguarantee-com.storage.googleapis.com/uploads/2020/10/cro-planning-1024x499.png"
+ ]
+}

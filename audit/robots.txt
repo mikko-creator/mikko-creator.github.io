@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /portfolio/
+Disallow: /portfolio/*/
+Disallow: /project/
+Disallow: /project/*/
+Disallow: /product/
+Disallow: /product/*/
+Disallow: /elementor_library/
+Disallow: /elementor_library/*/
+Disallow: /cp_business_loc/
+Disallow: /cp_business_loc/*/
+Disallow: /cp_business/
+Disallow: /cp_business/*/
+Disallow: /cp_reports_updates/
+Disallow: /cp_reports_updates/*/
+Disallow: /cp_content/
+Disallow: /cp_content/*/
+Disallow: /cp_affiliate/
+Disallow: /cp_affiliate/*/
+Disallow: /cp_assignment/
+Disallow: /cp_assignment/*/
+Disallow: /cp_assignment_sub/
+Disallow: /cp_assignment_sub/*/
+Disallow: /cp_profile/
+Disallow: /cp_profile/*/
+Disallow: /esign/
+Disallow: /esign/*/
+Disallow: /elementor-hf/
+Disallow: /elementor-hf/*/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://seoguarantee.com/sitemap_index.xml
+
+#WP Import Export Rule
+User-agent: *
+Disallow: /wp-content/uploads/wp-import-export-lite/

@@ -1,0 +1,1021 @@
+{
+ "pages": 149,
+ "avgRecall": 96.46,
+ "below95": [
+  {
+   "path": "/locations/las-vegas-seo",
+   "recall": 79.4,
+   "srcWords": 180,
+   "lost": [
+    "might",
+    "different",
+    "types",
+    "impact",
+    "pick",
+    "personal",
+    "often",
+    "depends",
+    "optimized",
+    "higher",
+    "leave",
+    "confused"
+   ]
+  },
+  {
+   "path": "/las-vegas-online-marketing/las-vegas-conversion-rate-optimization",
+   "recall": 85.8,
+   "srcWords": 232,
+   "lost": [
+    "convention",
+    "rabbit",
+    "hole",
+    "individual",
+    "generated",
+    "revenue",
+    "acquired",
+    "unfortunate",
+    "wasting",
+    "thousands",
+    "costs",
+    "convert"
+   ]
+  },
+  {
+   "path": "/services/las-vegas-conversion-rate-optimization",
+   "recall": 85.8,
+   "srcWords": 232,
+   "lost": [
+    "convention",
+    "rabbit",
+    "hole",
+    "individual",
+    "generated",
+    "revenue",
+    "acquired",
+    "unfortunate",
+    "wasting",
+    "thousands",
+    "costs",
+    "convert"
+   ]
+  },
+  {
+   "path": "/services/suite",
+   "recall": 88.4,
+   "srcWords": 215,
+   "lost": [
+    "crucial",
+    "elements",
+    "succeeding",
+    "today",
+    "ongoing",
+    "effective",
+    "todays",
+    "firstpageseoguarantee",
+    "getting",
+    "desireable",
+    "keyphrases",
+    "searching"
+   ]
+  },
+  {
+   "path": "/our-locations/san-antonio-seo",
+   "recall": 89,
+   "srcWords": 391,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "potential",
+    "competitive",
+    "landscape",
+    "appears",
+    "valuable",
+    "asset",
+    "attract",
+    "landing"
+   ]
+  },
+  {
+   "path": "/seo-services/san-antonio-seo",
+   "recall": 89,
+   "srcWords": 391,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "potential",
+    "competitive",
+    "landscape",
+    "appears",
+    "valuable",
+    "asset",
+    "attract",
+    "landing"
+   ]
+  },
+  {
+   "path": "/our-locations/cleveland-seo",
+   "recall": 89.4,
+   "srcWords": 386,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "increasing",
+    "visibility",
+    "vital",
+    "move",
+    "generating",
+    "challenge",
+    "break",
+    "clutter"
+   ]
+  },
+  {
+   "path": "/seo-services/cleveland-seo",
+   "recall": 89.4,
+   "srcWords": 386,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "increasing",
+    "visibility",
+    "vital",
+    "move",
+    "generating",
+    "challenge",
+    "break",
+    "clutter"
+   ]
+  },
+  {
+   "path": "/portfolio",
+   "recall": 90.6,
+   "srcWords": 53,
+   "lost": [
+    "projects",
+    "case",
+    "studies",
+    "view",
+    "profile"
+   ]
+  },
+  {
+   "path": "/las-vegas-online-marketing/las-vegas-web-design",
+   "recall": 90.7,
+   "srcWords": 97,
+   "lost": [
+    "class",
+    "guaranteed",
+    "funnel",
+    "featured",
+    "view",
+    "study",
+    "blez",
+    "should",
+    "multi"
+   ]
+  },
+  {
+   "path": "/services/las-vegas-web-design",
+   "recall": 90.7,
+   "srcWords": 97,
+   "lost": [
+    "class",
+    "guaranteed",
+    "funnel",
+    "featured",
+    "view",
+    "study",
+    "blez",
+    "should",
+    "multi"
+   ]
+  },
+  {
+   "path": "/our-locations/louisville-seo",
+   "recall": 91.3,
+   "srcWords": 391,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "boosted",
+    "yours",
+    "appear",
+    "both",
+    "commercial",
+    "listings",
+    "break",
+    "markets",
+    "edge"
+   ]
+  },
+  {
+   "path": "/seo-services/louisville-seo",
+   "recall": 91.3,
+   "srcWords": 391,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "boosted",
+    "yours",
+    "appear",
+    "both",
+    "commercial",
+    "listings",
+    "break",
+    "markets",
+    "edge"
+   ]
+  },
+  {
+   "path": "/industries/dental",
+   "recall": 91.6,
+   "srcWords": 346,
+   "lost": [
+    "seoguarantee",
+    "works",
+    "katy",
+    "texas",
+    "january",
+    "lifetime",
+    "rancho",
+    "cucamonga",
+    "multi",
+    "specialty",
+    "holistic",
+    "approach"
+   ]
+  },
+  {
+   "path": "/our-locations/arlington-seo",
+   "recall": 91.6,
+   "srcWords": 370,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "increasing",
+    "visibility",
+    "valuable",
+    "essential",
+    "makes",
+    "solid",
+    "vital",
+    "worthwhile"
+   ]
+  },
+  {
+   "path": "/seo-services/arlington-seo",
+   "recall": 91.6,
+   "srcWords": 370,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "increasing",
+    "visibility",
+    "valuable",
+    "essential",
+    "makes",
+    "solid",
+    "vital",
+    "worthwhile"
+   ]
+  },
+  {
+   "path": "/our-locations/seattle-seo",
+   "recall": 92.1,
+   "srcWords": 393,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "whole",
+    "dominating",
+    "appearing",
+    "doubt",
+    "likely",
+    "visit",
+    "thus",
+    "increasing",
+    "chances"
+   ]
+  },
+  {
+   "path": "/seo-services/seattle-seo",
+   "recall": 92.1,
+   "srcWords": 393,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "whole",
+    "dominating",
+    "appearing",
+    "doubt",
+    "likely",
+    "visit",
+    "thus",
+    "increasing",
+    "chances"
+   ]
+  },
+  {
+   "path": "/ipowerteam",
+   "recall": 92.6,
+   "srcWords": 54,
+   "lost": [
+    "answer",
+    "ability",
+    "currently",
+    "have"
+   ]
+  },
+  {
+   "path": "/our-locations/jacksonville-seo",
+   "recall": 92.6,
+   "srcWords": 377,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "brands",
+    "establishing",
+    "move",
+    "generating",
+    "relevant",
+    "clutter",
+    "appear",
+    "strong",
+    "outs"
+   ]
+  },
+  {
+   "path": "/seo-services/jacksonville-seo",
+   "recall": 92.6,
+   "srcWords": 377,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "brands",
+    "establishing",
+    "move",
+    "generating",
+    "relevant",
+    "clutter",
+    "appear",
+    "strong",
+    "outs"
+   ]
+  },
+  {
+   "path": "/our-locations/baltimore-seo",
+   "recall": 92.7,
+   "srcWords": 382,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "strong",
+    "visibility",
+    "major",
+    "generating",
+    "machine",
+    "solid",
+    "essential",
+    "break"
+   ]
+  },
+  {
+   "path": "/seo-services/baltimore-seo",
+   "recall": 92.7,
+   "srcWords": 382,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "strong",
+    "visibility",
+    "major",
+    "generating",
+    "machine",
+    "solid",
+    "essential",
+    "break"
+   ]
+  },
+  {
+   "path": "/our-locations/myrtle-beach-seo",
+   "recall": 92.8,
+   "srcWords": 387,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "brands",
+    "major",
+    "both",
+    "commercial",
+    "listings",
+    "partnered",
+    "competitive",
+    "markets",
+    "relevant"
+   ]
+  },
+  {
+   "path": "/seo-services/myrtle-beach-seo",
+   "recall": 92.8,
+   "srcWords": 387,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "brands",
+    "major",
+    "both",
+    "commercial",
+    "listings",
+    "partnered",
+    "competitive",
+    "markets",
+    "relevant"
+   ]
+  },
+  {
+   "path": "/our-locations/portland-seo",
+   "recall": 92.9,
+   "srcWords": 379,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "shows",
+    "spell",
+    "difference",
+    "generation",
+    "efforts",
+    "hence",
+    "optimizing",
+    "valuable",
+    "relevant"
+   ]
+  },
+  {
+   "path": "/seo-services/portland-seo",
+   "recall": 92.9,
+   "srcWords": 379,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "shows",
+    "spell",
+    "difference",
+    "generation",
+    "efforts",
+    "hence",
+    "optimizing",
+    "valuable",
+    "relevant"
+   ]
+  },
+  {
+   "path": "/our-locations/kansas-city-seo",
+   "recall": 93.1,
+   "srcWords": 378,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "visible",
+    "break",
+    "clutter",
+    "land",
+    "solid",
+    "investment",
+    "small",
+    "appear"
+   ]
+  },
+  {
+   "path": "/seo-services/kansas-city-seo",
+   "recall": 93.1,
+   "srcWords": 378,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "visible",
+    "break",
+    "clutter",
+    "land",
+    "solid",
+    "investment",
+    "small",
+    "appear"
+   ]
+  },
+  {
+   "path": "/industries/law-firm",
+   "recall": 93.3,
+   "srcWords": 345,
+   "lost": [
+    "seoguarantee",
+    "works",
+    "raich",
+    "pllc",
+    "handles",
+    "negotiations",
+    "counseling",
+    "commercial",
+    "litigation",
+    "attorney",
+    "current",
+    "https"
+   ]
+  },
+  {
+   "path": "/industries/medical-spa",
+   "recall": 93.5,
+   "srcWords": 336,
+   "lost": [
+    "seoguarantee",
+    "setiba",
+    "westlake",
+    "village",
+    "serving",
+    "wide",
+    "october",
+    "current",
+    "https",
+    "setibamedicalspa",
+    "creation",
+    "expert"
+   ]
+  },
+  {
+   "path": "/our-locations/houston-seo",
+   "recall": 93.5,
+   "srcWords": 387,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "casual",
+    "browsers",
+    "visible",
+    "solid",
+    "backing",
+    "generating",
+    "efforts",
+    "land",
+    "both",
+    "listings"
+   ]
+  },
+  {
+   "path": "/seo-services/houston-seo",
+   "recall": 93.5,
+   "srcWords": 387,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "casual",
+    "browsers",
+    "visible",
+    "solid",
+    "backing",
+    "generating",
+    "efforts",
+    "land",
+    "both",
+    "listings"
+   ]
+  },
+  {
+   "path": "/our-locations/orlando-seo",
+   "recall": 93.6,
+   "srcWords": 392,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "healthy",
+    "transform",
+    "casual",
+    "browsers",
+    "regular",
+    "visitors",
+    "visible",
+    "target"
+   ]
+  },
+  {
+   "path": "/seo-services/orlando-seo",
+   "recall": 93.6,
+   "srcWords": 392,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "healthy",
+    "transform",
+    "casual",
+    "browsers",
+    "regular",
+    "visitors",
+    "visible",
+    "target"
+   ]
+  },
+  {
+   "path": "/our-locations/manhattan-seo",
+   "recall": 93.8,
+   "srcWords": 388,
+   "lost": [
+    "seoguarantee",
+    "another",
+    "especially",
+    "commercial",
+    "chances",
+    "generating",
+    "visibility",
+    "relevant",
+    "solid",
+    "pushed",
+    "both",
+    "listings"
+   ]
+  },
+  {
+   "path": "/seo-services/manhattan-seo",
+   "recall": 93.8,
+   "srcWords": 388,
+   "lost": [
+    "seoguarantee",
+    "another",
+    "especially",
+    "commercial",
+    "chances",
+    "generating",
+    "visibility",
+    "relevant",
+    "solid",
+    "pushed",
+    "both",
+    "listings"
+   ]
+  },
+  {
+   "path": "/our-locations/dallas-seo",
+   "recall": 94,
+   "srcWords": 385,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "strong",
+    "cultivating",
+    "visibility",
+    "major",
+    "generating",
+    "channel",
+    "makes",
+    "essential",
+    "investment",
+    "small"
+   ]
+  },
+  {
+   "path": "/reserve-your-spot",
+   "recall": 94,
+   "srcWords": 67,
+   "lost": [
+    "express",
+    "discover",
+    "mastercard",
+    "visa"
+   ]
+  },
+  {
+   "path": "/seo-services/dallas-seo",
+   "recall": 94,
+   "srcWords": 385,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "strong",
+    "cultivating",
+    "visibility",
+    "major",
+    "generating",
+    "channel",
+    "makes",
+    "essential",
+    "investment",
+    "small"
+   ]
+  },
+  {
+   "path": "/industries/contracting-companies",
+   "recall": 94.3,
+   "srcWords": 348,
+   "lost": [
+    "seoguarantee",
+    "works",
+    "constructions",
+    "paint",
+    "pros",
+    "painting",
+    "residential",
+    "commercial",
+    "jobs",
+    "exceed",
+    "ozzysgoldeninc",
+    "current"
+   ]
+  },
+  {
+   "path": "/our-locations/chicago-seo",
+   "recall": 94.3,
+   "srcWords": 369,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "markets",
+    "screams",
+    "piece",
+    "cake",
+    "solid",
+    "pull",
+    "feat",
+    "yours",
+    "land",
+    "listings"
+   ]
+  },
+  {
+   "path": "/our-locations/denver-seo",
+   "recall": 94.3,
+   "srcWords": 389,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "yours",
+    "pages",
+    "both",
+    "commercial",
+    "listings",
+    "includes",
+    "sustain",
+    "edge",
+    "competitors"
+   ]
+  },
+  {
+   "path": "/seo-services/chicago-seo",
+   "recall": 94.3,
+   "srcWords": 369,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "markets",
+    "screams",
+    "piece",
+    "cake",
+    "solid",
+    "pull",
+    "feat",
+    "yours",
+    "land",
+    "listings"
+   ]
+  },
+  {
+   "path": "/seo-services/denver-seo",
+   "recall": 94.3,
+   "srcWords": 389,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "yours",
+    "pages",
+    "both",
+    "commercial",
+    "listings",
+    "includes",
+    "sustain",
+    "edge",
+    "competitors"
+   ]
+  },
+  {
+   "path": "/our-locations/minneapolis-seo",
+   "recall": 94.5,
+   "srcWords": 381,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "boosted",
+    "visible",
+    "clutter",
+    "landing",
+    "walk",
+    "solid",
+    "small",
+    "appear",
+    "commercial"
+   ]
+  },
+  {
+   "path": "/seo-services/minneapolis-seo",
+   "recall": 94.5,
+   "srcWords": 381,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "boosted",
+    "visible",
+    "clutter",
+    "landing",
+    "walk",
+    "solid",
+    "small",
+    "appear",
+    "commercial"
+   ]
+  },
+  {
+   "path": "/ddm-magazine-forward",
+   "recall": 94.7,
+   "srcWords": 208,
+   "lost": [
+    "9743",
+    "dock",
+    "leveler",
+    "erich",
+    "musick",
+    "copyright",
+    "1999",
+    "2024",
+    "view",
+    "cart",
+    "checkout"
+   ]
+  },
+  {
+   "path": "/our-locations/atlanta-seo",
+   "recall": 94.7,
+   "srcWords": 377,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "boosting",
+    "visibility",
+    "valuable",
+    "move",
+    "carefully",
+    "formulated",
+    "essential",
+    "yours"
+   ]
+  },
+  {
+   "path": "/our-locations/miami-seo",
+   "recall": 94.7,
+   "srcWords": 377,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "spells",
+    "strong",
+    "dominating",
+    "appearing",
+    "yours",
+    "small",
+    "brands",
+    "leading",
+    "both",
+    "listings"
+   ]
+  },
+  {
+   "path": "/seo-services/atlanta-seo",
+   "recall": 94.7,
+   "srcWords": 377,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "dominating",
+    "markets",
+    "boosting",
+    "visibility",
+    "valuable",
+    "move",
+    "carefully",
+    "formulated",
+    "essential",
+    "yours"
+   ]
+  },
+  {
+   "path": "/seo-services/miami-seo",
+   "recall": 94.7,
+   "srcWords": 377,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "spells",
+    "strong",
+    "dominating",
+    "appearing",
+    "yours",
+    "small",
+    "brands",
+    "leading",
+    "both",
+    "listings"
+   ]
+  },
+  {
+   "path": "/our-locations/new-orleans-seo",
+   "recall": 94.8,
+   "srcWords": 385,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "boosting",
+    "necessary",
+    "generate",
+    "healthy",
+    "establishing",
+    "strong",
+    "appear",
+    "walk",
+    "solid"
+   ]
+  },
+  {
+   "path": "/seo-services/new-orleans-seo",
+   "recall": 94.8,
+   "srcWords": 385,
+   "lost": [
+    "seoguarantee",
+    "learn",
+    "leading",
+    "boosting",
+    "necessary",
+    "generate",
+    "healthy",
+    "establishing",
+    "strong",
+    "appear",
+    "walk",
+    "solid"
+   ]
+  }
+ ],
+ "seo": [],
+ "a11y": [],
+ "brokenLinks": {
+  "/2020/04/21/5-important-seo-tips-and-tricks": 1,
+  "/springs/garage-door-springs.php": 1,
+  "/contact-info-and-hours.php": 1,
+  "/buy": 1,
+  "/sell": 1,
+  "/about-california-liquor-license-agents": 1,
+  "/terms-of-service": 1,
+  "/privacy-policy": 1,
+  "/dispensaries": 2,
+  "/hello-club": 1,
+  "/portfolio/theblez": 1,
+  "/portfolio/nuleaf-nv": 1
+ },
+ "brokenAssets": {},
+ "bareHash": [],
+ "danglingAnchors": {}
+}

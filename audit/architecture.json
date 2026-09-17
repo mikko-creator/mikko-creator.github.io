@@ -1,0 +1,4470 @@
+{
+  "schema": "site-reforge/architecture@1",
+  "generated": "2026-09-05T01:05:21.743Z",
+  "origin": "https://seoguarantee.com",
+  "pageTypes": {
+    "home": 2,
+    "page": 21,
+    "form": 63,
+    "article": 58,
+    "commerce": 2,
+    "portfolio": 23,
+    "service": 3
+  },
+  "urlDepthHistogram": {
+    "0": 2,
+    "1": 53,
+    "2": 117
+  },
+  "primaryNav": [
+    {
+      "label": "Contact Us",
+      "onPages": 166
+    },
+    {
+      "label": "HOME",
+      "onPages": 165
+    },
+    {
+      "label": "FULL SUITE",
+      "onPages": 165
+    },
+    {
+      "label": "SEO",
+      "onPages": 165
+    },
+    {
+      "label": "WEB",
+      "onPages": 165
+    },
+    {
+      "label": "CRO",
+      "onPages": 165
+    },
+    {
+      "label": "INDUSTRIES WE SERVE",
+      "onPages": 165
+    },
+    {
+      "label": "Dental SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Medical Spa SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Law Firm SEO",
+      "onPages": 165
+    },
+    {
+      "label": "PORTFOLIO",
+      "onPages": 165
+    },
+    {
+      "label": "VIDEO FAQ",
+      "onPages": 165
+    },
+    {
+      "label": "Our Locations",
+      "onPages": 165
+    },
+    {
+      "label": "Arlington SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Atlanta SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Austin SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Baltimore SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Chicago SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Cleveland SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Dallas SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Denver SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Houston SEO",
+      "onPages": 165
+    },
+    {
+      "label": "JacksonVille SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Kansas City SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Las Vegas SEO Company",
+      "onPages": 165
+    },
+    {
+      "label": "Los Angeles SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Louisville SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Manhattan SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Miami SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Minneapolis SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Myrtle Beach SEO",
+      "onPages": 165
+    },
+    {
+      "label": "New Orleans SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Orlando SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Philadelphia SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Portland SEO",
+      "onPages": 165
+    },
+    {
+      "label": "San Antonio SEO",
+      "onPages": 165
+    },
+    {
+      "label": "San Diego SEO",
+      "onPages": 165
+    },
+    {
+      "label": "Seattle SEO",
+      "onPages": 165
+    },
+    {
+      "label": "BLOG",
+      "onPages": 165
+    }
+  ],
+  "globalFooterCandidates": [
+    {
+      "onPages": 155,
+      "sample": "Contact Us FIRST PAGE SEO GUARANTEE LAS VEGAS Las Vegas, NV, USA Office Address +1 (702) 420-7272 Office Phone National Services Online Marketing SEO Web Design Conversion Rate Optimization Local Services Las Vegas Online Marketing Las Vegas SEO Las Vegas Web Design Las Vegas Conversion Rate Optimization All Rights Reserved. © 2022."
+    },
+    {
+      "onPages": 2,
+      "sample": "Published May 1, 2020 By alvin Categorized as Las Vegas SEO Company Tagged how to do seo , las vegas search engine optimization , las vegas seo , las vegas seo company , las vegas seo firm , las vegas seo tips and tricks , search engine optimization , seo , seo education , seo knowledge , seo tips and tricks , what is seo"
+    },
+    {
+      "onPages": 1,
+      "sample": "Published April 7, 2020 By alvin Categorized as Las Vegas SEO Company Tagged how to do seo , las vegas search engine optimization , las vegas seo , las vegas seo company , las vegas seo firm , las vegas seo tips and tricks , search engine optimization , seo , seo education , seo knowledge , seo tips and tricks , what is seo"
+    }
+  ],
+  "formsByAction": [
+    {
+      "action": "/ [post]",
+      "pages": [
+        "https://seoguarantee.com/",
+        "https://seoguarantee.com/author/alvin",
+        "https://seoguarantee.com/author/mattsb"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/",
+        "https://seoguarantee.com/author/alvin",
+        "https://seoguarantee.com/author/mattsb"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "https://seoguarantee.com/wp-comments-post.php [post]",
+      "pages": [
+        "https://seoguarantee.com/13-seo-chrome-extensions-that-are-free",
+        "https://seoguarantee.com/5-important-seo-tips-and-tricks",
+        "https://seoguarantee.com/9-seo-strategies-effective-in-2020",
+        "https://seoguarantee.com/authority-and-search-rankings",
+        "https://seoguarantee.com/beginner-seo-tips-and-tricks",
+        "https://seoguarantee.com/las-vegas-seo-blog/authority-and-search-rankings",
+        "https://seoguarantee.com/las-vegas-seo-company",
+        "https://seoguarantee.com/las-vegas-seo-expert",
+        "https://seoguarantee.com/search-engine-optimization-factors"
+      ],
+      "fields": [
+        "author",
+        "email",
+        "url",
+        "wp-comment-cookies-consent",
+        "submit",
+        "comment"
+      ]
+    },
+    {
+      "action": "/13-seo-chrome-extensions-that-are-free/ [post]",
+      "pages": [
+        "https://seoguarantee.com/13-seo-chrome-extensions-that-are-free"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/13-seo-chrome-extensions-that-are-free/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/13-seo-chrome-extensions-that-are-free"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/5-important-seo-tips-and-tricks/ [post]",
+      "pages": [
+        "https://seoguarantee.com/5-important-seo-tips-and-tricks"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/5-important-seo-tips-and-tricks/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/5-important-seo-tips-and-tricks"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/9-seo-strategies-effective-in-2020/ [post]",
+      "pages": [
+        "https://seoguarantee.com/9-seo-strategies-effective-in-2020"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/9-seo-strategies-effective-in-2020/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/9-seo-strategies-effective-in-2020"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/?page_id=279 [post]",
+      "pages": [
+        "https://seoguarantee.com/?page_id=279"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/?page_id=279#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/?page_id=279"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/activity/ [post]",
+      "pages": [
+        "https://seoguarantee.com/activity"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/activity/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/activity"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "https://audit.firstpageseoguarantee.com/process-embedded.inc [get]",
+      "pages": [
+        "https://seoguarantee.com/audit"
+      ],
+      "fields": [
+        "domain",
+        "email",
+        "submit"
+      ]
+    },
+    {
+      "action": "(same page) [get]",
+      "pages": [
+        "https://seoguarantee.com/audit",
+        "https://seoguarantee.com/nuleaf-magazine-forward",
+        "https://seoguarantee.com/nuleaf-magazine-forward",
+        "https://seoguarantee.com/seo-audit"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "wpforms[fields][31]",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/authority-and-search-rankings/ [post]",
+      "pages": [
+        "https://seoguarantee.com/authority-and-search-rankings",
+        "https://seoguarantee.com/las-vegas-seo-blog/authority-and-search-rankings"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/authority-and-search-rankings/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/authority-and-search-rankings",
+        "https://seoguarantee.com/las-vegas-seo-blog/authority-and-search-rankings"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/beginner-seo-tips-and-tricks/ [post]",
+      "pages": [
+        "https://seoguarantee.com/beginner-seo-tips-and-tricks"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/beginner-seo-tips-and-tricks/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/beginner-seo-tips-and-tricks"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/booking/ [post]",
+      "pages": [
+        "https://seoguarantee.com/booking"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/booking/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/booking"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/cart/ [post]",
+      "pages": [
+        "https://seoguarantee.com/cart",
+        "https://seoguarantee.com/checkout"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/cart/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/cart",
+        "https://seoguarantee.com/checkout"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/category/las-vegas-seo-company/ [post]",
+      "pages": [
+        "https://seoguarantee.com/category/las-vegas-seo-company"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/category/las-vegas-seo-company/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/category/las-vegas-seo-company"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/church-marketing/ [post]",
+      "pages": [
+        "https://seoguarantee.com/church-marketing"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/church-marketing/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/church-marketing"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "https://seoguarantee.com/wp-login.php?action=login [post]",
+      "pages": [
+        "https://seoguarantee.com/client-portal"
+      ],
+      "fields": [
+        "log",
+        "pwd"
+      ]
+    },
+    {
+      "action": "/client-portal/ [post]",
+      "pages": [
+        "https://seoguarantee.com/client-portal"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/client-portal/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/client-portal"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "https://seoguarantee.com/wp-admin/admin-ajax.php [post]",
+      "pages": [
+        "https://seoguarantee.com/client-portal?action=forgot_password"
+      ],
+      "fields": [
+        "user_login"
+      ]
+    },
+    {
+      "action": "/client-portal/?action=forgot_password [post]",
+      "pages": [
+        "https://seoguarantee.com/client-portal?action=forgot_password"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/client-portal/?action=forgot_password#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/client-portal?action=forgot_password"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/client-portal/?action=register [post]",
+      "pages": [
+        "https://seoguarantee.com/client-portal?action=register"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/client-portal/?action=register#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/client-portal?action=register"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/contact-us/ [post]",
+      "pages": [
+        "https://seoguarantee.com/contact-us"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/contact-us/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/contact-us"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/cpm/ [post]",
+      "pages": [
+        "https://seoguarantee.com/cpm"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/cpm/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/cpm"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/cro-page/ [post]",
+      "pages": [
+        "https://seoguarantee.com/cro-page"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/cro-page/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/cro-page"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/default-page/ [post]",
+      "pages": [
+        "https://seoguarantee.com/default-page"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/default-page/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/default-page"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/e-signature-document/ [post]",
+      "pages": [
+        "https://seoguarantee.com/e-signature-document"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/e-signature-document/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/e-signature-document"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/earn-residual-income/ [post]",
+      "pages": [
+        "https://seoguarantee.com/earn-residual-income"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/earn-residual-income/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/earn-residual-income"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/erp-subscription/ [post]",
+      "pages": [
+        "https://seoguarantee.com/erp-subscription"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/erp-subscription/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/erp-subscription"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/funeral-home-marketing/ [post]",
+      "pages": [
+        "https://seoguarantee.com/funeral-home-marketing"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/funeral-home-marketing/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/funeral-home-marketing"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/independent-contractor-agreement/ [post]",
+      "pages": [
+        "https://seoguarantee.com/independent-contractor-agreement"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/independent-contractor-agreement/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/independent-contractor-agreement"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/industries/ [post]",
+      "pages": [
+        "https://seoguarantee.com/industries"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/industries/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/industries"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/industries/air-conditioning-and-hvac/ [post]",
+      "pages": [
+        "https://seoguarantee.com/industries/air-conditioning-and-hvac"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/industries/air-conditioning-and-hvac/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/industries/air-conditioning-and-hvac"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/industries/contracting-companies/ [post]",
+      "pages": [
+        "https://seoguarantee.com/industries/contracting-companies"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/industries/contracting-companies/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/industries/contracting-companies"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/industries/dental/ [post]",
+      "pages": [
+        "https://seoguarantee.com/industries/dental"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/industries/dental/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/industries/dental"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/industries/law-firm/ [post]",
+      "pages": [
+        "https://seoguarantee.com/industries/law-firm"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/industries/law-firm/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/industries/law-firm"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/industries/medical-spa/ [post]",
+      "pages": [
+        "https://seoguarantee.com/industries/medical-spa"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/industries/medical-spa/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/industries/medical-spa"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/invoice/ [post]",
+      "pages": [
+        "https://seoguarantee.com/invoice"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/invoice/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/invoice"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/ipowerteam/ [post]",
+      "pages": [
+        "https://seoguarantee.com/ipowerteam"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/ipowerteam/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/ipowerteam"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/services/las-vegas-conversion-rate-optimization/ [post]",
+      "pages": [
+        "https://seoguarantee.com/las-vegas-online-marketing/las-vegas-conversion-rate-optimization",
+        "https://seoguarantee.com/services/las-vegas-conversion-rate-optimization"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/services/las-vegas-conversion-rate-optimization/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/las-vegas-online-marketing/las-vegas-conversion-rate-optimization",
+        "https://seoguarantee.com/services/las-vegas-conversion-rate-optimization"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/services/las-vegas-web-design/ [post]",
+      "pages": [
+        "https://seoguarantee.com/las-vegas-online-marketing/las-vegas-web-design",
+        "https://seoguarantee.com/services/las-vegas-web-design"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/services/las-vegas-web-design/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/las-vegas-online-marketing/las-vegas-web-design",
+        "https://seoguarantee.com/services/las-vegas-web-design"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/las-vegas-seo-company/ [post]",
+      "pages": [
+        "https://seoguarantee.com/las-vegas-seo-company"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/las-vegas-seo-company/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/las-vegas-seo-company"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/las-vegas-seo-expert/ [post]",
+      "pages": [
+        "https://seoguarantee.com/las-vegas-seo-expert"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/las-vegas-seo-expert/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/las-vegas-seo-expert"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/las-vegas-seo-firm/ [post]",
+      "pages": [
+        "https://seoguarantee.com/las-vegas-seo-firm"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/las-vegas-seo-firm/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/las-vegas-seo-firm"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/las-vegas-seo-service-new/ [post]",
+      "pages": [
+        "https://seoguarantee.com/las-vegas-seo-service-new"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/las-vegas-seo-service-new/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/las-vegas-seo-service-new"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "https://liquorlicenseagents.com/do_actions/do_form_submit [post]",
+      "pages": [
+        "https://seoguarantee.com/lla-magazine-forward"
+      ],
+      "fields": [
+        "full_name",
+        "email",
+        "phone_number",
+        "hp",
+        "hpc",
+        "message"
+      ]
+    },
+    {
+      "action": "https://liquorlicenseagents.com/search [get]",
+      "pages": [
+        "https://seoguarantee.com/lla-magazine-forward"
+      ],
+      "fields": [
+        "s"
+      ]
+    },
+    {
+      "action": "/location/ [post]",
+      "pages": [
+        "https://seoguarantee.com/location"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/location/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/location"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/location/las-vegas/ [post]",
+      "pages": [
+        "https://seoguarantee.com/location/las-vegas"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/location/las-vegas/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/location/las-vegas"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/locations/las-vegas-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/locations/las-vegas-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/locations/las-vegas-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/locations/las-vegas-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/members/ [post]",
+      "pages": [
+        "https://seoguarantee.com/members"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/members/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/members"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/new-las-vegas-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/new-las-vegas-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/new-las-vegas-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/new-las-vegas-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/arlington-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/arlington-seo",
+        "https://seoguarantee.com/seo-services/arlington-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/arlington-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/arlington-seo",
+        "https://seoguarantee.com/seo-services/arlington-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/atlanta-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/atlanta-seo",
+        "https://seoguarantee.com/seo-services/atlanta-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/atlanta-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/atlanta-seo",
+        "https://seoguarantee.com/seo-services/atlanta-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/austin-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/austin-seo",
+        "https://seoguarantee.com/seo-services/austin-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/austin-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/austin-seo",
+        "https://seoguarantee.com/seo-services/austin-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/baltimore-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/baltimore-seo",
+        "https://seoguarantee.com/seo-services/baltimore-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/baltimore-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/baltimore-seo",
+        "https://seoguarantee.com/seo-services/baltimore-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/chicago-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/chicago-seo",
+        "https://seoguarantee.com/seo-services/chicago-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/chicago-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/chicago-seo",
+        "https://seoguarantee.com/seo-services/chicago-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/cleveland-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/cleveland-seo",
+        "https://seoguarantee.com/seo-services/cleveland-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/cleveland-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/cleveland-seo",
+        "https://seoguarantee.com/seo-services/cleveland-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/dallas-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/dallas-seo",
+        "https://seoguarantee.com/seo-services/dallas-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/dallas-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/dallas-seo",
+        "https://seoguarantee.com/seo-services/dallas-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/denver-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/denver-seo",
+        "https://seoguarantee.com/seo-services/denver-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/denver-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/denver-seo",
+        "https://seoguarantee.com/seo-services/denver-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/houston-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/houston-seo",
+        "https://seoguarantee.com/seo-services/houston-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/houston-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/houston-seo",
+        "https://seoguarantee.com/seo-services/houston-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/jacksonville-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/jacksonville-seo",
+        "https://seoguarantee.com/seo-services/jacksonville-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/jacksonville-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/jacksonville-seo",
+        "https://seoguarantee.com/seo-services/jacksonville-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/kansas-city-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/kansas-city-seo",
+        "https://seoguarantee.com/seo-services/kansas-city-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/kansas-city-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/kansas-city-seo",
+        "https://seoguarantee.com/seo-services/kansas-city-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/las-vegas-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/las-vegas-seo",
+        "https://seoguarantee.com/seo-service",
+        "https://seoguarantee.com/seo-services/las-vegas-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/las-vegas-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/las-vegas-seo",
+        "https://seoguarantee.com/seo-service",
+        "https://seoguarantee.com/seo-services/las-vegas-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/los-angeles-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/los-angeles-seo",
+        "https://seoguarantee.com/seo-services/los-angeles-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/los-angeles-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/los-angeles-seo",
+        "https://seoguarantee.com/seo-services/los-angeles-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/louisville-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/louisville-seo",
+        "https://seoguarantee.com/seo-services/louisville-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/louisville-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/louisville-seo",
+        "https://seoguarantee.com/seo-services/louisville-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/manhattan-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/manhattan-seo",
+        "https://seoguarantee.com/seo-services/manhattan-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/manhattan-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/manhattan-seo",
+        "https://seoguarantee.com/seo-services/manhattan-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/miami-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/miami-seo",
+        "https://seoguarantee.com/seo-services/miami-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/miami-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/miami-seo",
+        "https://seoguarantee.com/seo-services/miami-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/minneapolis-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/minneapolis-seo",
+        "https://seoguarantee.com/seo-services/minneapolis-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/minneapolis-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/minneapolis-seo",
+        "https://seoguarantee.com/seo-services/minneapolis-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/myrtle-beach-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/myrtle-beach-seo",
+        "https://seoguarantee.com/seo-services/myrtle-beach-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/myrtle-beach-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/myrtle-beach-seo",
+        "https://seoguarantee.com/seo-services/myrtle-beach-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/new-orleans-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/new-orleans-seo",
+        "https://seoguarantee.com/seo-services/new-orleans-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/new-orleans-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/new-orleans-seo",
+        "https://seoguarantee.com/seo-services/new-orleans-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/orlando-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/orlando-seo",
+        "https://seoguarantee.com/seo-services/orlando-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/orlando-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/orlando-seo",
+        "https://seoguarantee.com/seo-services/orlando-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/philadelphia-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/philadelphia-seo",
+        "https://seoguarantee.com/seo-services/philadelphia-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/philadelphia-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/philadelphia-seo",
+        "https://seoguarantee.com/seo-services/philadelphia-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/portland-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/portland-seo",
+        "https://seoguarantee.com/seo-services/portland-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/portland-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/portland-seo",
+        "https://seoguarantee.com/seo-services/portland-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/san-antonio-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/san-antonio-seo",
+        "https://seoguarantee.com/seo-services/san-antonio-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/san-antonio-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/san-antonio-seo",
+        "https://seoguarantee.com/seo-services/san-antonio-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/san-diego-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/san-diego-seo",
+        "https://seoguarantee.com/seo-services/san-diego-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/san-diego-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/san-diego-seo",
+        "https://seoguarantee.com/seo-services/san-diego-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-locations/seattle-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/seattle-seo",
+        "https://seoguarantee.com/seo-services/seattle-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-locations/seattle-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-locations/seattle-seo",
+        "https://seoguarantee.com/seo-services/seattle-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/our-team/ [post]",
+      "pages": [
+        "https://seoguarantee.com/our-team"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/our-team/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/our-team"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/payment-authorization/#gf_2 [post]",
+      "pages": [
+        "https://seoguarantee.com/payment-authorization"
+      ],
+      "fields": [
+        "input_9.5",
+        "input_11",
+        "input_12",
+        "input_13.1",
+        "submit"
+      ]
+    },
+    {
+      "action": "/payment-authorization/ [post]",
+      "pages": [
+        "https://seoguarantee.com/payment-authorization"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/payment-authorization/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/payment-authorization"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/pm/ [post]",
+      "pages": [
+        "https://seoguarantee.com/pm"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/pm/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/pm"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/aa-printing-service/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/aa-printing-service"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/aa-printing-service/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/aa-printing-service"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/all-american/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/all-american"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/all-american/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/all-american"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/c-j-hewitt-construction/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/c-j-hewitt-construction"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/c-j-hewitt-construction/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/c-j-hewitt-construction"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/david-minkin/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/david-minkin"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/david-minkin/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/david-minkin"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/ddm-garage-doors/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/ddm-garage-doors"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/ddm-garage-doors/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/ddm-garage-doors"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/fast-affordable-air/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/fast-affordable-air"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/fast-affordable-air/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/fast-affordable-air"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/hummus/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/hummus"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/hummus/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/hummus"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/jardin/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/jardin"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/jardin/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/jardin"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/katy-dental/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/katy-dental"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/katy-dental/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/katy-dental"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/las-vegas-real-estate/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/las-vegas-real-estate"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/las-vegas-real-estate/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/las-vegas-real-estate"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/liquor-license-agents/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/liquor-license",
+        "https://seoguarantee.com/portfolio/liquor-license-agents"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/liquor-license-agents/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/liquor-license",
+        "https://seoguarantee.com/portfolio/liquor-license-agents"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/master-of-buds/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/master-of-buds"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/master-of-buds/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/master-of-buds"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/mirazone-spa/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/mirazone-spa"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/mirazone-spa/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/mirazone-spa"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/myvegasmag/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/myvegasmag"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/myvegasmag/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/myvegasmag"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/ozzys-golden-inc/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/ozzys-golden-inc"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/ozzys-golden-inc/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/ozzys-golden-inc"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/raich-law/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/raich-law"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/raich-law/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/raich-law"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/setiba-medical-spa/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/setiba-medical-spa"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/setiba-medical-spa/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/setiba-medical-spa"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/southwest-injury-law/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/southwest-injury-law"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/southwest-injury-law/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/southwest-injury-law"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/the-blez/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/the-blez"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/the-blez/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/the-blez"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/portfolio/vegas-paint-pros/ [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/vegas-paint-pros"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/portfolio/vegas-paint-pros/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/portfolio/vegas-paint-pros"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/projects/ [post]",
+      "pages": [
+        "https://seoguarantee.com/projects"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/projects/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/projects"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/rep/ [post]",
+      "pages": [
+        "https://seoguarantee.com/rep"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/rep/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/rep/adam/#gf_14 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/adam"
+      ],
+      "fields": [
+        "input_7",
+        "input_2",
+        "input_3",
+        "input_9",
+        "input_10",
+        "input_11[]",
+        "submit",
+        "input_5",
+        "input_4",
+        "input_8"
+      ]
+    },
+    {
+      "action": "/rep/adam/ [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/adam"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/rep/adam/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/adam"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/rep/archer/#gf_14 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/archer"
+      ],
+      "fields": [
+        "input_7",
+        "input_2",
+        "input_3",
+        "input_9",
+        "input_10",
+        "input_11[]",
+        "submit",
+        "input_5",
+        "input_4",
+        "input_8"
+      ]
+    },
+    {
+      "action": "/rep/archer/ [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/archer"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/rep/archer/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/archer"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/rep/deandre/#gf_14 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/deandre"
+      ],
+      "fields": [
+        "input_7",
+        "input_2",
+        "input_3",
+        "input_9",
+        "input_10",
+        "input_11[]",
+        "submit",
+        "input_5",
+        "input_4",
+        "input_8"
+      ]
+    },
+    {
+      "action": "/rep/deandre/ [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/deandre"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/rep/deandre/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/deandre"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/rep/james/#gf_14 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/james"
+      ],
+      "fields": [
+        "input_7",
+        "input_2",
+        "input_3",
+        "input_9",
+        "input_10",
+        "input_11[]",
+        "submit",
+        "input_5",
+        "input_4",
+        "input_8"
+      ]
+    },
+    {
+      "action": "/rep/james/ [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/james"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/rep/james/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/james"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/rep/kate/#gf_14 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/kate"
+      ],
+      "fields": [
+        "input_7",
+        "input_2",
+        "input_3",
+        "input_9",
+        "input_10",
+        "input_11[]",
+        "submit",
+        "input_5",
+        "input_4",
+        "input_8"
+      ]
+    },
+    {
+      "action": "/rep/kate/ [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/kate"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/rep/kate/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/kate"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/rep/matt/#gf_14 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/matt"
+      ],
+      "fields": [
+        "input_7",
+        "input_2",
+        "input_3",
+        "input_9",
+        "input_10",
+        "input_11[]",
+        "submit",
+        "input_5",
+        "input_4",
+        "input_8"
+      ]
+    },
+    {
+      "action": "/rep/matt/ [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/matt"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/rep/matt/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/matt"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/rep/sinan/#gf_14 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/sinan"
+      ],
+      "fields": [
+        "input_7",
+        "input_2",
+        "input_3",
+        "input_9",
+        "input_10",
+        "input_11[]",
+        "submit",
+        "input_5",
+        "input_4",
+        "input_8"
+      ]
+    },
+    {
+      "action": "/rep/sinan/ [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/sinan"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/rep/sinan/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/rep/sinan"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/reserve-your-spot/#gf_13 [post]",
+      "pages": [
+        "https://seoguarantee.com/reserve-your-spot"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "input_3",
+        "input_4",
+        "input_5",
+        "button",
+        "text",
+        "text",
+        "text",
+        "submit",
+        "submit",
+        "select",
+        "select"
+      ]
+    },
+    {
+      "action": "/reserve-your-spot/ [post]",
+      "pages": [
+        "https://seoguarantee.com/reserve-your-spot"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/reserve-your-spot/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/reserve-your-spot"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/search-engine-optimization-factors/ [post]",
+      "pages": [
+        "https://seoguarantee.com/search-engine-optimization-factors"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/search-engine-optimization-factors/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/search-engine-optimization-factors"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "https://www.websiteauditserver.com/process-embedded.inc [get]",
+      "pages": [
+        "https://seoguarantee.com/seo-audit"
+      ],
+      "fields": [
+        "domain",
+        "email",
+        "submit"
+      ]
+    },
+    {
+      "action": "/seo-blog/ [post]",
+      "pages": [
+        "https://seoguarantee.com/seo-blog"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/seo-blog/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/seo-blog"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/seo-new/ [post]",
+      "pages": [
+        "https://seoguarantee.com/seo-new"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/seo-new/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/seo-new"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/services/suite/ [post]",
+      "pages": [
+        "https://seoguarantee.com/services/suite"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/services/suite/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/services/suite"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/sg_portfolio/construction/ [post]",
+      "pages": [
+        "https://seoguarantee.com/sg_portfolio/construction"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/sg_portfolio/construction/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/sg_portfolio/construction"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/sg_portfolio/dispensary/ [post]",
+      "pages": [
+        "https://seoguarantee.com/sg_portfolio/dispensary"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/sg_portfolio/dispensary/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/sg_portfolio/dispensary"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/sg_portfolio/law/ [post]",
+      "pages": [
+        "https://seoguarantee.com/sg_portfolio/law"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/sg_portfolio/law/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/sg_portfolio/law"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/sg_portfolio/medical/ [post]",
+      "pages": [
+        "https://seoguarantee.com/sg_portfolio/medical"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/sg_portfolio/medical/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/sg_portfolio/medical"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/sg_portfolio/other/ [post]",
+      "pages": [
+        "https://seoguarantee.com/sg_portfolio/other"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/sg_portfolio/other/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/sg_portfolio/other"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/how-to-do-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/how-to-do-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/how-to-do-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/how-to-do-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-search-engine-optimization/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-search-engine-optimization"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-search-engine-optimization/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-search-engine-optimization"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-company/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-company"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-company/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-company"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-expert/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-expert"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-expert/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-expert"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-experts/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-experts"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-experts/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-experts"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-firm/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-firm"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-firm/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-firm"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-service/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-service"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-service/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-service"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-services/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-services"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-services/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-services"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-tips-and-tricks/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-tips-and-tricks"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/las-vegas-seo-tips-and-tricks/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/las-vegas-seo-tips-and-tricks"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/search-engine-optimization/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/search-engine-optimization"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/search-engine-optimization/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/search-engine-optimization"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/seo-education/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/seo-education"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/seo-education/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/seo-education"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/seo-expert/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/seo-expert"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/seo-expert/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/seo-expert"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/seo-experts/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/seo-experts"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/seo-experts/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/seo-experts"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/seo-knowledge/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/seo-knowledge"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/seo-knowledge/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/seo-knowledge"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/seo-tips-and-tricks/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/seo-tips-and-tricks"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/seo-tips-and-tricks/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/seo-tips-and-tricks"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/tag/what-is-seo/ [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/what-is-seo"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/tag/what-is-seo/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/tag/what-is-seo"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/test-editor/ [post]",
+      "pages": [
+        "https://seoguarantee.com/test-editor"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/test-editor/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/test-editor"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/test-page/ [post]",
+      "pages": [
+        "https://seoguarantee.com/test-page"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/test-page/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/test-page"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/thank-you/ [post]",
+      "pages": [
+        "https://seoguarantee.com/thank-you"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/thank-you/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/thank-you"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    },
+    {
+      "action": "/videos/ [post]",
+      "pages": [
+        "https://seoguarantee.com/videos"
+      ],
+      "fields": [
+        "wpforms[fields][0]",
+        "wpforms[fields][1]",
+        "wpforms[fields][3]",
+        "wpforms[fields][9]",
+        "wpforms[fields][9]",
+        "wpforms[fields][10]",
+        "wpforms[fields][31]"
+      ]
+    },
+    {
+      "action": "/videos/#gf_1 [post]",
+      "pages": [
+        "https://seoguarantee.com/videos"
+      ],
+      "fields": [
+        "input_1.3",
+        "input_1.6",
+        "input_2",
+        "submit",
+        "input_4",
+        "input_5"
+      ]
+    }
+  ],
+  "orphanPages": [
+    "https://seoguarantee.com/activity",
+    "https://seoguarantee.com/audit",
+    "https://seoguarantee.com/booking",
+    "https://seoguarantee.com/cart",
+    "https://seoguarantee.com/checkout",
+    "https://seoguarantee.com/church-marketing",
+    "https://seoguarantee.com/cpm",
+    "https://seoguarantee.com/cro-page",
+    "https://seoguarantee.com/ddm-magazine-forward",
+    "https://seoguarantee.com/default-page",
+    "https://seoguarantee.com/e-signature-document",
+    "https://seoguarantee.com/earn-residual-income",
+    "https://seoguarantee.com/erp-subscription",
+    "https://seoguarantee.com/funeral-home-marketing",
+    "https://seoguarantee.com/independent-contractor-agreement",
+    "https://seoguarantee.com/industries",
+    "https://seoguarantee.com/industries/air-conditioning-and-hvac",
+    "https://seoguarantee.com/industries/contracting-companies",
+    "https://seoguarantee.com/invoice",
+    "https://seoguarantee.com/ipowerteam",
+    "https://seoguarantee.com/las-vegas-seo-service-new",
+    "https://seoguarantee.com/lla-magazine-forward",
+    "https://seoguarantee.com/location",
+    "https://seoguarantee.com/location/las-vegas",
+    "https://seoguarantee.com/members",
+    "https://seoguarantee.com/new-las-vegas-seo",
+    "https://seoguarantee.com/nuleaf-magazine-forward",
+    "https://seoguarantee.com/our-team",
+    "https://seoguarantee.com/payment-authorization",
+    "https://seoguarantee.com/pm",
+    "https://seoguarantee.com/projects",
+    "https://seoguarantee.com/rep",
+    "https://seoguarantee.com/rep/adam",
+    "https://seoguarantee.com/rep/archer",
+    "https://seoguarantee.com/rep/deandre",
+    "https://seoguarantee.com/rep/james",
+    "https://seoguarantee.com/rep/kate",
+    "https://seoguarantee.com/rep/matt",
+    "https://seoguarantee.com/rep/sinan",
+    "https://seoguarantee.com/reserve-your-spot",
+    "https://seoguarantee.com/seo-audit",
+    "https://seoguarantee.com/seo-new",
+    "https://seoguarantee.com/services/las-vegas-conversion-rate-optimization",
+    "https://seoguarantee.com/services/las-vegas-web-design",
+    "https://seoguarantee.com/sg_portfolio/construction",
+    "https://seoguarantee.com/sg_portfolio/dispensary",
+    "https://seoguarantee.com/sg_portfolio/law",
+    "https://seoguarantee.com/sg_portfolio/medical",
+    "https://seoguarantee.com/sg_portfolio/other",
+    "https://seoguarantee.com/test-editor",
+    "https://seoguarantee.com/test-page",
+    "https://seoguarantee.com/thank-you"
+  ]
+}

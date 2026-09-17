@@ -1,0 +1,24 @@
+{
+ "note": "Unused Elementor hover-effect keyframes dropped from src/styles/motion.css. Nothing in the rebuild references them (the Elementor hover classes are gone with the platform), and their NAMES are a platform trace that sr-decontaminate blocks. Keeping dead CSS that names the old CMS would fail decontamination for no rendering benefit.",
+ "droppedKeyframes": [
+  "elementor-animation-pulse",
+  "elementor-animation-pulse-grow",
+  "elementor-animation-pulse-shrink",
+  "elementor-animation-push",
+  "elementor-animation-pop",
+  "elementor-animation-bob",
+  "elementor-animation-bob-float",
+  "elementor-animation-hang",
+  "elementor-animation-hang-sink",
+  "elementor-animation-wobble-vertical",
+  "elementor-animation-wobble-horizontal",
+  "elementor-animation-wobble-to-bottom-right",
+  "elementor-animation-wobble-to-top-right",
+  "elementor-animation-wobble-top",
+  "elementor-animation-wobble-bottom",
+  "elementor-animation-wobble-skew",
+  "elementor-animation-buzz",
+  "elementor-animation-buzz-out"
+ ],
+ "count": 18
+}

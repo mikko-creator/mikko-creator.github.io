@@ -1,0 +1,262 @@
+{
+ "checkedAgainst": "172 raw pages in audit/raw (3,887,327 normalised chars)",
+ "generated": "2026-09-11T07:42:27.125Z",
+ "total": 1857,
+ "verbatimInSource": 1833,
+ "percentSourced": 98.7,
+ "notVerbatim": 24,
+ "byCode": {
+  "fabrication:statistic": {
+   "total": 141,
+   "verbatim": 141
+  },
+  "fabrication:superlative": {
+   "total": 1716,
+   "verbatim": 1692
+  }
+ },
+ "clearedViaSentenceContext": 141,
+ "note": "A finding is cleared ONLY when its claim appears word for word in the untouched crawl — either the claim itself, or (for fragments under 12 chars, which would match by accident) the surrounding sentence lifted off the rebuilt page and found intact in the source. Findings that could not be matched are listed in `items` for review — none are dropped.",
+ "items": [
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "category/las-vegas-seo-company/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas SEO Firm!\n\n Google Rating\n\n 4",
+   "file": "las-vegas-seo-firm/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "THE LEADING LIQUOR LICENSE BROKER IN THE NATION\n\n California",
+   "file": "lla-magazine-forward/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "LEADING BRANDS WITH OUR MANHATTAN SEO SERVICES\n\n Manhatta",
+   "file": "our-locations/manhattan-seo/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "seo-blog/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "LEADING BRANDS WITH OUR MANHATTAN SEO SERVICES\n\n Manhatta",
+   "file": "seo-services/manhattan-seo/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/how-to-do-seo/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/las-vegas-search-engine-optimization/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/las-vegas-seo-company/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/las-vegas-seo-expert/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/las-vegas-seo-experts/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/las-vegas-seo-firm/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/las-vegas-seo-service/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/las-vegas-seo-services/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/las-vegas-seo-tips-and-tricks/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/las-vegas-seo/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/search-engine-optimization/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/seo-education/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/seo-expert/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/seo-experts/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/seo-knowledge/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/seo-tips-and-tricks/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/seo/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  },
+  {
+   "severity": "major",
+   "code": "fabrication:superlative",
+   "title": "Unsourced a superlative claim",
+   "claim": "the best Las Vegas… Continue reading SEO Service\n\n Read th",
+   "file": "tag/what-is-seo/index.html",
+   "line": 0,
+   "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+   "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+  }
+ ]
+}
