@@ -4,7 +4,7 @@
   "targetUrl": "https://seoguarantee.com/",
   "origin": "https://seoguarantee.com",
   "createdAt": "2026-09-03T17:06:31.646Z",
-  "updatedAt": "2026-09-17T00:31:10.868Z",
+  "updatedAt": "2026-09-17T11:43:25.894Z",
   "config": {
     "maxPages": 300,
     "concurrency": 4,
@@ -127,7 +127,7 @@
     },
     "gate": {
       "status": "fail",
-      "at": "2026-09-17T00:31:10.868Z",
+      "at": "2026-09-17T11:43:25.894Z",
       "note": "NOT-READY — 15/28 passing"
     },
     "package": {
